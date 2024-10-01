@@ -1,0 +1,2448 @@
+Year,Round,Date,HomeTeam,HomeTeamScoreFT,RoundOrder,AwayTeam,AwayTeamScoreFT,Result
+2012,QF,8/9/2012,Adelaide,5.12,26,Sydney,11.5,lost
+2012,R12,15/6/2012,Adelaide,17.13,12,St Kilda,16.15,win
+2012,R14,30/6/2012,Adelaide,17.4,14,Richmond,13.9,win
+2012,R17,21/7/2012,Adelaide,19.1,17,West Coast,11.9,win
+2012,R19,5/8/2012,Adelaide,16.8,19,Essendon,15.1,win
+2012,R2,7/4/2012,Adelaide,11.16,2,Western Bulldogs,9.1,win
+2012,R20,11/8/2012,Adelaide,17.17,20,Fremantle,14.7,win
+2012,R23,1/9/2012,Adelaide,22.21,23,Gold Coast,9.8,win
+2012,R4,21/4/2012,Adelaide,13.18,4,Greater Western Sydney,7.8,win
+2012,R5,29/4/2012,Adelaide,16.14,5,Port Adelaide,14.7,win
+2012,R7,12/5/2012,Adelaide,19.8,7,Geelong,10.12,win
+2012,R9,26/5/2012,Adelaide,6.13,9,Collingwood,10.15,lost
+2012,SF,14/9/2012,Adelaide,12.9,27,Fremantle,11.5,win
+2012,R10,3/6/2012,Brisbane Lions,16.6,10,West Coast,15.1,win
+2012,R14,1/7/2012,Brisbane Lions,18.14,14,Melbourne,8.13,win
+2012,R16,14/7/2012,Brisbane Lions,14.8,16,St Kilda,16.9,lost
+2012,R19,4/8/2012,Brisbane Lions,12.12,19,Richmond,20.12,lost
+2012,R2,5/4/2012,Brisbane Lions,9.9,2,Carlton,23.16,lost
+2012,R21,18/8/2012,Brisbane Lions,13.17,21,Adelaide,12.13,win
+2012,R23,2/9/2012,Brisbane Lions,19.14,23,Western Bulldogs,9.7,win
+2012,R4,21/4/2012,Brisbane Lions,17.9,4,Gold Coast,6.1,win
+2012,R5,28/4/2012,Brisbane Lions,4.17,5,Geelong,12.7,lost
+2012,R7,12/5/2012,Brisbane Lions,8.1,7,Collingwood,17.14,lost
+2012,R8,20/5/2012,Brisbane Lions,19.18,8,Greater Western Sydney,5.1,win
+2012,R11,8/6/2012,Carlton,11.19,11,Geelong,14.13,lost
+2012,R14,29/6/2012,Carlton,10.1,14,Hawthorn,18.12,lost
+2012,R18,28/7/2012,Carlton,14.11,18,Richmond,13.13,win
+2012,R19,5/8/2012,Carlton,10.11,19,Sydney,14.9,lost
+2012,R20,11/8/2012,Carlton,17.11,20,Brisbane Lions,10.17,win
+2012,R23,2/9/2012,Carlton,12.19,23,St Kilda,16.1,lost
+2012,R3,13/4/2012,Carlton,18.14,3,Collingwood,9.8,win
+2012,R4,21/4/2012,Carlton,11.13,4,Essendon,15.19,lost
+2012,R6,6/5/2012,Carlton,15.2,6,Greater Western Sydney,6.7,win
+2012,R8,20/5/2012,Carlton,8.7,8,Adelaide,19.1,lost
+2012,R9,27/5/2012,Carlton,15.17,9,Melbourne,6.13,win
+2012,R10,3/6/2012,Collingwood,23.11,10,Gold Coast,7.1,win
+2012,R13,23/6/2012,Collingwood,12.13,13,West Coast,12.1,win
+2012,R14,30/6/2012,Collingwood,15.17,14,Fremantle,12.6,win
+2012,R15,6/7/2012,Collingwood,8.14,15,Carlton,12.13,lost
+2012,R17,21/7/2012,Collingwood,13.13,17,Hawthorn,21.12,lost
+2012,R19,4/8/2012,Collingwood,12.19,19,St Kilda,13.7,lost
+2012,R2,7/4/2012,Collingwood,12.13,2,Richmond,8.16,win
+2012,R21,18/8/2012,Collingwood,8.13,21,North Melbourne,13.13,lost
+2012,R4,21/4/2012,Collingwood,14.13,4,Port Adelaide,10.13,win
+2012,R5,25/4/2012,Collingwood,11.14,5,Essendon,11.13,win
+2012,R8,18/5/2012,Collingwood,14.12,8,Geelong,11.18,win
+2012,SF,15/9/2012,Collingwood,10.13,27,West Coast,9.6,win
+2012,R10,2/6/2012,Essendon,6.16,10,Melbourne,8.1,lost
+2012,R11,9/6/2012,Essendon,11.16,11,Sydney,13.8,lost
+2012,R14,30/6/2012,Essendon,21.14,14,Western Bulldogs,8.8,win
+2012,R18,27/7/2012,Essendon,12.14,18,Hawthorn,27.18,lost
+2012,R2,7/4/2012,Essendon,16.15,2,Port Adelaide,13.8,win
+2012,R20,12/8/2012,Essendon,11.1,20,North Melbourne,15.1,lost
+2012,R21,18/8/2012,Essendon,8.12,21,Carlton,24.12,lost
+2012,R23,1/9/2012,Essendon,10.12,23,Collingwood,14.2,lost
+2012,R6,5/5/2012,Essendon,19.15,6,Brisbane Lions,9.8,win
+2012,R7,12/5/2012,Essendon,16.17,7,West Coast,7.1,win
+2012,R8,19/5/2012,Essendon,19.14,8,Richmond,15.19,win
+2012,R1,31/3/2012,Fremantle,16.9,1,Geelong,15.11,win
+2012,R10,2/6/2012,Fremantle,12.1,10,Adelaide,17.9,lost
+2012,R13,23/6/2012,Fremantle,14.5,13,Essendon,17.11,lost
+2012,R15,8/7/2012,Fremantle,14.11,15,Western Bulldogs,8.9,win
+2012,R17,22/7/2012,Fremantle,18.24,17,Greater Western Sydney,5.7,win
+2012,R19,4/8/2012,Fremantle,17.11,19,West Coast,6.12,win
+2012,R21,18/8/2012,Fremantle,13.16,21,Richmond,11.6,win
+2012,R23,1/9/2012,Fremantle,14.17,23,Melbourne,5.1,win
+2012,R3,14/4/2012,Fremantle,8.16,3,Brisbane Lions,5.5,win
+2012,R5,27/4/2012,Fremantle,7.15,5,Carlton,10.5,lost
+2012,R7,13/5/2012,Fremantle,12.15,7,Port Adelaide,7.5,win
+2012,EF,8/9/2012,Geelong,11.14,25,Fremantle,14.12,lost
+2012,R10,2/6/2012,Geelong,19.12,10,Greater Western Sydney,9.7,win
+2012,R14,1/7/2012,Geelong,14.15,14,Port Adelaide,8.13,win
+2012,R16,14/7/2012,Geelong,10.19,16,Collingwood,17.8,lost
+2012,R17,20/7/2012,Geelong,20.14,17,Essendon,10.7,win
+2012,R18,28/7/2012,Geelong,15.12,18,Adelaide,11.9,win
+2012,R2,9/4/2012,Geelong,14.8,2,Hawthorn,13.12,win
+2012,R21,17/8/2012,Geelong,18.15,21,St Kilda,11.15,win
+2012,R22,26/8/2012,Geelong,16.11,22,Western Bulldogs,11.7,win
+2012,R23,1/9/2012,Geelong,17.1,23,Sydney,11.12,win
+2012,R4,22/4/2012,Geelong,11.9,4,Richmond,9.11,win
+2012,R6,5/5/2012,Geelong,17.17,6,Melbourne,11.1,win
+2012,R1,31/3/2012,Gold Coast,10.8,1,Adelaide,19.23,lost
+2012,R11,9/6/2012,Gold Coast,7.7,11,St Kilda,21.18,lost
+2012,R12,16/6/2012,Gold Coast,12.8,12,North Melbourne,11.21,win
+2012,R15,8/7/2012,Gold Coast,13.18,15,Geelong,15.2,lost
+2012,R17,21/7/2012,Gold Coast,5.18,17,Brisbane Lions,8.11,lost
+2012,R18,28/7/2012,Gold Coast,8.6,18,Sydney,19.12,lost
+2012,R20,11/8/2012,Gold Coast,16.13,20,Greater Western Sydney,12.7,win
+2012,R22,25/8/2012,Gold Coast,15.8,22,Carlton,11.2,win
+2012,R3,14/4/2012,Gold Coast,13.1,3,Essendon,15.15,lost
+2012,R6,5/5/2012,Gold Coast,14.3,6,Fremantle,14.1,win
+2012,R9,26/5/2012,Gold Coast,10.1,9,Port Adelaide,17.16,lost
+2012,R1,24/3/2012,Greater Western Sydney,5.7,1,Sydney,14.16,lost
+2012,R12,16/6/2012,Greater Western Sydney,12.2,12,Richmond,11.2,win
+2012,R16,15/7/2012,Greater Western Sydney,8.11,16,Adelaide,27.16,lost
+2012,R18,28/7/2012,Greater Western Sydney,7.12,18,Collingwood,26.18,lost
+2012,R19,4/8/2012,Greater Western Sydney,16.11,19,Port Adelaide,10.13,win
+2012,R21,18/8/2012,Greater Western Sydney,9.5,21,Melbourne,11.18,lost
+2012,R23,1/9/2012,Greater Western Sydney,11.11,23,North Melbourne,16.9,lost
+2012,R3,15/4/2012,Greater Western Sydney,10.9,3,West Coast,23.12,lost
+2012,R5,28/4/2012,Greater Western Sydney,9.8,5,Western Bulldogs,15.14,lost
+2012,R7,12/5/2012,Greater Western Sydney,13.16,7,Gold Coast,9.13,win
+2012,R9,26/5/2012,Greater Western Sydney,7.11,9,Essendon,18.11,lost
+2012,GF,29/9/2012,Hawthorn,11.15,29,Sydney,14.7,lost
+2012,PF,22/9/2012,Hawthorn,13.19,28,Adelaide,14.8,lost
+2012,QF,7/9/2012,Hawthorn,20.15,26,Collingwood,15.7,win
+2012,R1,30/3/2012,Hawthorn,20.17,1,Collingwood,16.19,win
+2012,R10,2/6/2012,Hawthorn,27.12,10,North Melbourne,9.5,win
+2012,R12,17/6/2012,Hawthorn,19.21,12,Brisbane Lions,11.4,win
+2012,R15,8/7/2012,Hawthorn,28.25,15,Greater Western Sydney,4.7,win
+2012,R19,3/8/2012,Hawthorn,17.14,19,Geelong,18.1,lost
+2012,R20,12/8/2012,Hawthorn,24.15,20,Port Adelaide,13.9,win
+2012,R21,19/8/2012,Hawthorn,19.15,21,Gold Coast,10.5,win
+2012,R23,31/8/2012,Hawthorn,14.11,23,West Coast,10.1,win
+2012,R3,15/4/2012,Hawthorn,21.14,3,Adelaide,12.12,win
+2012,R5,29/4/2012,Hawthorn,10.9,5,Sydney,16.1,lost
+2012,R8,19/5/2012,Hawthorn,17.17,8,Fremantle,9.9,win
+2012,R1,31/3/2012,Melbourne,11.12,1,Brisbane Lions,17.17,lost
+2012,R11,11/6/2012,Melbourne,13.9,11,Collingwood,19.15,lost
+2012,R13,24/6/2012,Melbourne,20.15,13,Greater Western Sydney,9.3,win
+2012,R15,7/7/2012,Melbourne,11.12,15,Richmond,13.23,lost
+2012,R16,14/7/2012,Melbourne,12.11,16,Fremantle,18.9,lost
+2012,R17,21/7/2012,Melbourne,8.8,17,Port Adelaide,12.12,lost
+2012,R19,5/8/2012,Melbourne,16.12,19,Gold Coast,9.12,win
+2012,R22,26/8/2012,Melbourne,11.15,22,Adelaide,22.18,lost
+2012,R4,22/4/2012,Melbourne,9.13,4,Western Bulldogs,13.1,lost
+2012,R5,28/4/2012,Melbourne,10.6,5,St Kilda,12.12,lost
+2012,R7,11/5/2012,Melbourne,6.13,7,Hawthorn,15.25,lost
+2012,R1,31/3/2012,North Melbourne,15.12,1,Essendon,14.2,win
+2012,R13,24/6/2012,North Melbourne,17.19,13,Adelaide,13.11,win
+2012,R15,7/7/2012,North Melbourne,13.6,15,West Coast,12.14,win
+2012,R16,13/7/2012,North Melbourne,24.5,16,Carlton,14.12,win
+2012,R18,28/7/2012,North Melbourne,19.13,18,Melbourne,11.7,win
+2012,R2,8/4/2012,North Melbourne,28.15,2,Greater Western Sydney,8.6,win
+2012,R22,26/8/2012,North Melbourne,12.7,22,Fremantle,20.12,lost
+2012,R3,15/4/2012,North Melbourne,20.11,3,Geelong,16.18,win
+2012,R5,28/4/2012,North Melbourne,17.25,5,Gold Coast,13.15,win
+2012,R7,13/5/2012,North Melbourne,12.11,7,Western Bulldogs,15.11,lost
+2012,R9,27/5/2012,North Melbourne,17.1,9,Brisbane Lions,15.6,win
+2012,R1,1/4/2012,Port Adelaide,13.11,1,St Kilda,13.7,lost
+2012,R10,2/6/2012,Port Adelaide,14.15,10,Carlton,6.9,win
+2012,R11,10/6/2012,Port Adelaide,9.8,11,Hawthorn,16.12,lost
+2012,R15,7/7/2012,Port Adelaide,8.1,15,Adelaide,17.14,lost
+2012,R16,14/7/2012,Port Adelaide,11.11,16,Essendon,19.13,lost
+2012,R18,29/7/2012,Port Adelaide,6.12,18,Fremantle,11.9,lost
+2012,R21,19/8/2012,Port Adelaide,6.14,21,West Coast,14.14,lost
+2012,R22,25/8/2012,Port Adelaide,14.9,22,Brisbane Lions,16.8,lost
+2012,R3,14/4/2012,Port Adelaide,12.11,3,Sydney,16.9,lost
+2012,R6,6/5/2012,Port Adelaide,8.6,6,Richmond,13.13,lost
+2012,R8,19/5/2012,Port Adelaide,14.11,8,North Melbourne,14.9,lost
+2012,R1,29/3/2012,Richmond,12.9,1,Carlton,18.17,lost
+2012,R11,9/6/2012,Richmond,9.12,11,Fremantle,12.6,lost
+2012,R16,14/7/2012,Richmond,13.1,16,Gold Coast,13.12,lost
+2012,R17,22/7/2012,Richmond,14.15,17,North Melbourne,15.13,lost
+2012,R20,12/8/2012,Richmond,22.18,20,Western Bulldogs,12.8,win
+2012,R22,24/8/2012,Richmond,13.24,22,Essendon,8.9,win
+2012,R23,2/9/2012,Richmond,16.1,23,Port Adelaide,16.1,draw
+2012,R3,14/4/2012,Richmond,20.13,3,Melbourne,11.8,win
+2012,R5,29/4/2012,Richmond,14.13,5,West Coast,16.11,lost
+2012,R7,12/5/2012,Richmond,13.13,7,Sydney,8.14,win
+2012,R9,26/5/2012,Richmond,21.11,9,Hawthorn,10.15,win
+2012,R10,1/6/2012,St Kilda,16.17,10,Richmond,18.13,lost
+2012,R14,1/7/2012,St Kilda,15.13,14,North Melbourne,21.1,lost
+2012,R15,7/7/2012,St Kilda,21.7,15,Essendon,8.14,win
+2012,R18,29/7/2012,St Kilda,16.22,18,Western Bulldogs,6.6,win
+2012,R2,8/4/2012,St Kilda,21.13,2,Gold Coast,7.5,win
+2012,R20,11/8/2012,St Kilda,16.11,20,Melbourne,12.1,win
+2012,R22,25/8/2012,St Kilda,25.13,22,Greater Western Sydney,5.5,win
+2012,R4,20/4/2012,St Kilda,11.13,4,Fremantle,14.8,lost
+2012,R6,5/5/2012,St Kilda,13.1,6,Hawthorn,18.15,lost
+2012,R7,14/5/2012,St Kilda,19.8,7,Carlton,14.14,win
+2012,R9,26/5/2012,St Kilda,16.15,9,Sydney,12.11,win
+2012,PF,21/9/2012,Sydney,13.18,28,Collingwood,10.1,win
+2012,R10,3/6/2012,Sydney,20.12,10,Western Bulldogs,5.1,win
+2012,R13,22/6/2012,Sydney,12.8,13,Geelong,11.8,win
+2012,R14,30/6/2012,Sydney,19.18,14,Greater Western Sydney,5.8,win
+2012,R15,7/7/2012,Sydney,16.14,15,Brisbane Lions,9.9,win
+2012,R17,22/7/2012,Sydney,15.15,17,St Kilda,10.16,win
+2012,R2,7/4/2012,Sydney,14.1,2,Fremantle,12.9,win
+2012,R20,11/8/2012,Sydney,9.16,20,Collingwood,12.6,lost
+2012,R22,25/8/2012,Sydney,14.11,22,Hawthorn,15.12,lost
+2012,R4,22/4/2012,Sydney,17.11,4,North Melbourne,10.17,win
+2012,R6,5/5/2012,Sydney,14.1,6,Adelaide,15.9,lost
+2012,R8,19/5/2012,Sydney,21.12,8,Melbourne,5.7,win
+2012,EF,9/9/2012,West Coast,24.18,25,North Melbourne,9.12,win
+2012,R12,14/6/2012,West Coast,10.19,12,Carlton,10.9,lost
+2012,R14,30/6/2012,West Coast,25.16,14,Gold Coast,5.1,win
+2012,R16,15/7/2012,West Coast,10.9,16,Sydney,18.13,lost
+2012,R18,29/7/2012,West Coast,28.7,18,Brisbane Lions,12.5,win
+2012,R2,7/4/2012,West Coast,25.16,2,Melbourne,9.4,win
+2012,R20,10/8/2012,West Coast,16.6,20,Geelong,15.7,win
+2012,R22,25/8/2012,West Coast,15.17,22,Collingwood,8.1,win
+2012,R4,21/4/2012,West Coast,5.21,4,Hawthorn,5.16,win
+2012,R6,6/5/2012,West Coast,17.18,6,North Melbourne,15.5,win
+2012,R8,20/5/2012,West Coast,18.13,8,St Kilda,13.13,win
+2012,R9,27/5/2012,West Coast,11.18,9,Fremantle,5.6,win
+2012,R1,1/4/2012,Western Bulldogs,12.15,1,West Coast,21.1,lost
+2012,R12,17/6/2012,Western Bulldogs,13.17,12,Port Adelaide,8.9,win
+2012,R13,23/6/2012,Western Bulldogs,7.14,13,Brisbane Lions,18.6,lost
+2012,R16,15/7/2012,Western Bulldogs,6.8,16,Hawthorn,17.14,lost
+2012,R17,21/7/2012,Western Bulldogs,12.12,17,Carlton,16.6,lost
+2012,R19,4/8/2012,Western Bulldogs,8.13,19,North Melbourne,18.7,lost
+2012,R21,19/8/2012,Western Bulldogs,13.7,21,Sydney,26.11,lost
+2012,R3,14/4/2012,Western Bulldogs,5.1,3,St Kilda,15.13,lost
+2012,R6,4/5/2012,Western Bulldogs,11.11,6,Collingwood,15.8,lost
+2012,R8,19/5/2012,Western Bulldogs,9.18,8,Gold Coast,4.1,win
+2012,R9,25/5/2012,Western Bulldogs,11.9,9,Geelong,14.11,lost
+2013,R1,22/3/2013,Adelaide,11.16,1,Essendon,18.9,lost
+2013,R10,1/6/2013,Adelaide,8.11,10,Fremantle,10.6,lost
+2013,R11,8/6/2013,Adelaide,6.14,11,Sydney,19.13,lost
+2013,R15,6/7/2013,Adelaide,9.15,15,West Coast,11.9,lost
+2013,R17,21/7/2013,Adelaide,14.1,17,Geelong,14.8,lost
+2013,R19,4/8/2013,Adelaide,15.13,19,Port Adelaide,17.5,lost
+2013,R20,11/8/2013,Adelaide,11.13,20,North Melbourne,10.1,win
+2013,R22,24/8/2013,Adelaide,18.12,22,Melbourne,7.1,win
+2013,R4,21/4/2013,Adelaide,12.8,4,Western Bulldogs,4.4,win
+2013,R6,4/5/2013,Adelaide,11.12,6,Hawthorn,13.11,lost
+2013,R8,19/5/2013,Adelaide,12.15,8,St Kilda,6.11,win
+2013,R10,31/5/2013,Brisbane Lions,7.9,10,Collingwood,14.16,lost
+2013,R13,23/6/2013,Brisbane Lions,15.13,13,Geelong,14.14,win
+2013,R15,6/7/2013,Brisbane Lions,17.14,15,Gold Coast,12.11,win
+2013,R16,13/7/2013,Brisbane Lions,18.9,16,North Melbourne,17.3,win
+2013,R19,3/8/2013,Brisbane Lions,16.12,19,St Kilda,11.11,win
+2013,R2,6/4/2013,Brisbane Lions,10.17,2,Adelaide,14.12,lost
+2013,R21,17/8/2013,Brisbane Lions,18.15,21,Greater Western Sydney,9.9,win
+2013,R22,25/8/2013,Brisbane Lions,15.1,22,Western Bulldogs,13.15,win
+2013,R5,28/4/2013,Brisbane Lions,17.2,5,Melbourne,14.1,win
+2013,R7,11/5/2013,Brisbane Lions,12.1,7,West Coast,17.6,lost
+2013,R9,25/5/2013,Brisbane Lions,12.13,9,Carlton,13.2,lost
+2013,R1,28/3/2013,Carlton,14.17,1,Richmond,14.22,lost
+2013,R10,1/6/2013,Carlton,22.16,10,Greater Western Sydney,8.6,win
+2013,R12,14/6/2013,Carlton,13.9,12,Hawthorn,15.12,lost
+2013,R15,5/7/2013,Carlton,12.5,15,Collingwood,17.16,lost
+2013,R16,13/7/2013,Carlton,16.14,16,St Kilda,10.14,win
+2013,R19,3/8/2013,Carlton,12.8,19,Fremantle,17.14,lost
+2013,R20,10/8/2013,Carlton,13.11,20,Western Bulldogs,16.21,lost
+2013,R22,24/8/2013,Carlton,9.22,22,Essendon,12.1,lost
+2013,R5,27/4/2013,Carlton,17.13,5,Adelaide,12.11,win
+2013,R6,5/5/2013,Carlton,18.13,6,Melbourne,8.12,win
+2013,R8,19/5/2013,Carlton,16.13,8,Port Adelaide,14.7,win
+2013,EF,7/9/2013,Collingwood,9.9,25,Port Adelaide,12.15,lost
+2013,R12,16/6/2013,Collingwood,15.9,12,Western Bulldogs,9.11,win
+2013,R16,12/7/2013,Collingwood,17.9,16,Adelaide,12.12,win
+2013,R18,27/7/2013,Collingwood,15.16,18,Greater Western Sydney,10.6,win
+2013,R19,4/8/2013,Collingwood,20.13,19,Essendon,7.12,win
+2013,R2,7/4/2013,Collingwood,17.15,2,Carlton,15.1,win
+2013,R22,23/8/2013,Collingwood,15.11,22,West Coast,5.9,win
+2013,R23,1/9/2013,Collingwood,17.12,23,North Melbourne,19.11,lost
+2013,R3,14/4/2013,Collingwood,13.12,3,Hawthorn,22.13,lost
+2013,R6,3/5/2013,Collingwood,15.13,6,St Kilda,11.11,win
+2013,R8,18/5/2013,Collingwood,15.12,8,Geelong,14.12,win
+2013,R9,24/5/2013,Collingwood,8.7,9,Sydney,15.12,lost
+2013,R11,7/6/2013,Essendon,11.11,11,Carlton,10.12,win
+2013,R12,15/6/2013,Essendon,17.13,12,Gold Coast,11.6,win
+2013,R15,7/7/2013,Essendon,18.1,15,Port Adelaide,12.16,win
+2013,R18,26/7/2013,Essendon,13.9,18,Hawthorn,22.11,lost
+2013,R2,6/4/2013,Essendon,28.16,2,Melbourne,5.6,win
+2013,R20,11/8/2013,Essendon,9.13,20,West Coast,18.12,lost
+2013,R21,17/8/2013,Essendon,9.16,21,North Melbourne,17.13,lost
+2013,R23,31/8/2013,Essendon,9.11,23,Richmond,15.14,lost
+2013,R5,25/4/2013,Essendon,18.13,5,Collingwood,10.15,win
+2013,R6,4/5/2013,Essendon,17.18,6,Greater Western Sydney,12.9,win
+2013,R8,18/5/2013,Essendon,12.14,8,Brisbane Lions,14.12,lost
+2013,PF,21/9/2013,Fremantle,14.15,28,Sydney,11.8,win
+2013,R1,23/3/2013,Fremantle,16.12,1,West Coast,11.14,win
+2013,R12,15/6/2013,Fremantle,12.14,12,Brisbane Lions,6.1,win
+2013,R13,23/6/2013,Fremantle,10.7,13,North Melbourne,4.5,win
+2013,R15,7/7/2013,Fremantle,15.1,15,St Kilda,11.4,win
+2013,R18,27/7/2013,Fremantle,11.9,18,Adelaide,7.11,win
+2013,R20,11/8/2013,Fremantle,24.13,20,Greater Western Sydney,6.8,win
+2013,R22,24/8/2013,Fremantle,21.8,22,Port Adelaide,9.6,win
+2013,R3,12/4/2013,Fremantle,9.14,3,Essendon,10.12,lost
+2013,R5,26/4/2013,Fremantle,12.9,5,Richmond,12.8,win
+2013,R7,11/5/2013,Fremantle,15.1,7,Collingwood,10.13,win
+2013,R9,26/5/2013,Fremantle,19.16,9,Melbourne,6.4,win
+2013,QF,7/9/2013,Geelong,9.18,26,Fremantle,12.15,lost
+2013,R10,1/6/2013,Geelong,18.15,10,Gold Coast,10.11,win
+2013,R14,29/6/2013,Geelong,11.19,14,Fremantle,7.2,win
+2013,R15,6/7/2013,Geelong,11.16,15,Hawthorn,10.12,win
+2013,R16,13/7/2013,Geelong,13.2,16,Melbourne,4.6,win
+2013,R18,27/7/2013,Geelong,21.11,18,St Kilda,5.6,win
+2013,R2,7/4/2013,Geelong,16.16,2,North Melbourne,17.6,lost
+2013,R20,10/8/2013,Geelong,20.9,20,Port Adelaide,16.8,win
+2013,R22,24/8/2013,Geelong,13.14,22,Sydney,7.6,win
+2013,R23,31/8/2013,Geelong,15.22,23,Brisbane Lions,17.9,lost
+2013,R3,13/4/2013,Geelong,18.11,3,Carlton,15.13,win
+2013,R7,10/5/2013,Geelong,17.11,7,Essendon,11.19,win
+2013,SF,13/9/2013,Geelong,13.18,27,Port Adelaide,12.8,win
+2013,R1,30/3/2013,Gold Coast,13.12,1,St Kilda,10.17,win
+2013,R11,8/6/2013,Gold Coast,9.12,11,North Melbourne,8.3,win
+2013,R14,29/6/2013,Gold Coast,11.17,14,Adelaide,16.15,lost
+2013,R17,20/7/2013,Gold Coast,13.7,17,Collingwood,11.12,win
+2013,R18,27/7/2013,Gold Coast,11.11,18,Carlton,16.24,lost
+2013,R20,10/8/2013,Gold Coast,13.12,20,Melbourne,10.17,win
+2013,R23,1/9/2013,Gold Coast,22.14,23,Greater Western Sydney,9.9,win
+2013,R3,13/4/2013,Gold Coast,13.14,3,Brisbane Lions,13.16,lost
+2013,R4,20/4/2013,Gold Coast,9.12,4,Port Adelaide,16.8,lost
+2013,R6,4/5/2013,Gold Coast,7.12,6,Fremantle,15.9,lost
+2013,R8,18/5/2013,Gold Coast,13.15,8,Western Bulldogs,8.13,win
+2013,R1,30/3/2013,Greater Western Sydney,11.1,1,Sydney,16.1,lost
+2013,R11,8/6/2013,Greater Western Sydney,15.8,11,Geelong,24.13,lost
+2013,R12,16/6/2013,Greater Western Sydney,6.14,12,Port Adelaide,19.11,lost
+2013,R15,6/7/2013,Greater Western Sydney,12.11,15,Western Bulldogs,13.9,lost
+2013,R17,20/7/2013,Greater Western Sydney,11.11,17,Essendon,18.8,lost
+2013,R19,3/8/2013,Greater Western Sydney,19.1,19,Melbourne,12.15,win
+2013,R22,25/8/2013,Greater Western Sydney,6.6,22,Richmond,25.13,lost
+2013,R3,13/4/2013,Greater Western Sydney,10.8,3,St Kilda,21.14,lost
+2013,R5,27/4/2013,Greater Western Sydney,16.8,5,Gold Coast,21.22,lost
+2013,R7,12/5/2013,Greater Western Sydney,7.1,7,Adelaide,29.13,lost
+2013,R9,25/5/2013,Greater Western Sydney,8.7,9,West Coast,23.17,lost
+2013,GF,28/9/2013,Hawthorn,11.11,29,Fremantle,8.14,win
+2013,PF,20/9/2013,Hawthorn,14.18,28,Geelong,15.7,lost
+2013,QF,6/9/2013,Hawthorn,15.15,26,Sydney,7.9,win
+2013,R1,1/4/2013,Hawthorn,12.14,1,Geelong,13.15,lost
+2013,R13,21/6/2013,Hawthorn,19.9,13,West Coast,16.7,win
+2013,R14,30/6/2013,Hawthorn,21.17,14,Brisbane Lions,12.13,win
+2013,R17,20/7/2013,Hawthorn,13.17,17,Western Bulldogs,11.1,win
+2013,R19,3/8/2013,Hawthorn,9.12,19,Richmond,16.11,lost
+2013,R21,16/8/2013,Hawthorn,18.11,21,Collingwood,12.12,win
+2013,R4,20/4/2013,Hawthorn,18.1,4,Fremantle,11.1,win
+2013,R5,28/4/2013,Hawthorn,14.15,5,North Melbourne,13.18,win
+2013,R7,11/5/2013,Hawthorn,18.11,7,Sydney,12.1,win
+2013,R8,18/5/2013,Hawthorn,21.14,8,Greater Western Sydney,9.3,win
+2013,R9,26/5/2013,Hawthorn,18.1,9,Gold Coast,14.8,win
+2013,R1,31/3/2013,Melbourne,8.6,1,Port Adelaide,19.19,lost
+2013,R10,2/6/2013,Melbourne,6.12,10,Hawthorn,21.17,lost
+2013,R11,10/6/2013,Melbourne,5.9,11,Collingwood,17.2,lost
+2013,R14,29/6/2013,Melbourne,15.13,14,Western Bulldogs,15.1,win
+2013,R15,7/7/2013,Melbourne,13.7,15,Sydney,16.2,lost
+2013,R17,20/7/2013,Melbourne,11.9,17,Brisbane Lions,13.16,lost
+2013,R18,27/7/2013,Melbourne,4.4,18,North Melbourne,22.18,lost
+2013,R21,18/8/2013,Melbourne,5.8,21,Fremantle,20.13,lost
+2013,R3,13/4/2013,Melbourne,13.5,3,West Coast,27.15,lost
+2013,R4,21/4/2013,Melbourne,22.12,4,Greater Western Sydney,15.13,win
+2013,R7,12/5/2013,Melbourne,7.12,7,Gold Coast,16.18,lost
+2013,R1,31/3/2013,North Melbourne,13.9,1,Collingwood,15.13,lost
+2013,R10,2/6/2013,North Melbourne,19.19,10,St Kilda,10.5,win
+2013,R14,30/6/2013,North Melbourne,19.16,14,Greater Western Sydney,6.8,win
+2013,R15,6/7/2013,North Melbourne,19.14,15,Richmond,8.18,win
+2013,R17,19/7/2013,North Melbourne,16.12,17,Carlton,16.13,lost
+2013,R19,2/8/2013,North Melbourne,15.6,19,Geelong,13.8,win
+2013,R22,24/8/2013,North Melbourne,15.13,22,Hawthorn,17.15,lost
+2013,R3,13/4/2013,North Melbourne,13.14,3,Sydney,20.11,lost
+2013,R4,21/4/2013,North Melbourne,18.17,4,Brisbane Lions,9.8,win
+2013,R6,4/5/2013,North Melbourne,14.9,6,Port Adelaide,12.11,win
+2013,R9,26/5/2013,North Melbourne,19.1,9,Adelaide,18.17,win
+2013,R13,22/6/2013,Port Adelaide,10.12,13,Sydney,8.6,win
+2013,R14,29/6/2013,Port Adelaide,13.8,14,Collingwood,7.9,win
+2013,R16,13/7/2013,Port Adelaide,12.7,16,Hawthorn,19.1,lost
+2013,R18,28/7/2013,Port Adelaide,9.17,18,Brisbane Lions,9.8,lost
+2013,R2,6/4/2013,Port Adelaide,19.2,2,Greater Western Sydney,11.12,win
+2013,R21,17/8/2013,Port Adelaide,16.17,21,Gold Coast,14.12,win
+2013,R23,31/8/2013,Port Adelaide,15.13,23,Carlton,15.14,lost
+2013,R3,14/4/2013,Port Adelaide,17.16,3,Adelaide,16.13,win
+2013,R5,27/4/2013,Port Adelaide,12.12,5,West Coast,10.19,win
+2013,R7,11/5/2013,Port Adelaide,10.13,7,Richmond,18.6,lost
+2013,R9,25/5/2013,Port Adelaide,9.14,9,Geelong,18.8,lost
+2013,EF,8/9/2013,Richmond,14.12,25,Carlton,18.8,lost
+2013,R12,15/6/2013,Richmond,16.14,12,Adelaide,10.12,win
+2013,R14,30/6/2013,Richmond,17.17,14,St Kilda,8.7,win
+2013,R16,13/7/2013,Richmond,6.17,16,Gold Coast,6.8,lost
+2013,R17,21/7/2013,Richmond,12.12,17,Fremantle,8.9,win
+2013,R20,10/8/2013,Richmond,14.13,20,Brisbane Lions,11.8,win
+2013,R21,17/8/2013,Richmond,14.12,21,Carlton,16.1,lost
+2013,R3,14/4/2013,Richmond,20.15,3,Western Bulldogs,10.8,win
+2013,R4,20/4/2013,Richmond,11.13,4,Collingwood,16.17,lost
+2013,R6,4/5/2013,Richmond,13.9,6,Geelong,20.11,lost
+2013,R8,19/5/2013,Richmond,15.16,8,Melbourne,11.6,win
+2013,R9,25/5/2013,Richmond,9.8,9,Essendon,13.13,lost
+2013,R11,9/6/2013,St Kilda,11.14,11,West Coast,12.12,lost
+2013,R13,22/6/2013,St Kilda,16.8,13,Melbourne,10.9,win
+2013,R17,20/7/2013,St Kilda,13.14,17,Port Adelaide,14.13,lost
+2013,R2,5/4/2013,St Kilda,12.1,2,Richmond,14.15,lost
+2013,R20,9/8/2013,St Kilda,7.14,20,Hawthorn,14.18,lost
+2013,R22,25/8/2013,St Kilda,17.14,22,Gold Coast,10.1,win
+2013,R23,31/8/2013,St Kilda,16.16,23,Fremantle,6.5,win
+2013,R4,20/4/2013,St Kilda,13.13,4,Essendon,19.14,lost
+2013,R5,25/4/2013,St Kilda,9.9,5,Sydney,11.13,lost
+2013,R7,13/5/2013,St Kilda,11.11,7,Carlton,9.14,win
+2013,R9,25/5/2013,St Kilda,15.11,9,Western Bulldogs,17.8,lost
+2013,R10,1/6/2013,Sydney,17.13,10,Essendon,10.11,win
+2013,R14,28/6/2013,Sydney,8.17,14,Carlton,5.13,win
+2013,R16,14/7/2013,Sydney,24.27,16,Greater Western Sydney,5.12,win
+2013,R18,28/7/2013,Sydney,16.14,18,Richmond,9.9,win
+2013,R2,6/4/2013,Sydney,17.12,2,Gold Coast,11.7,win
+2013,R20,10/8/2013,Sydney,10.11,20,Collingwood,14.16,lost
+2013,R21,18/8/2013,Sydney,18.1,21,St Kilda,8.11,win
+2013,R23,30/8/2013,Sydney,16.4,23,Hawthorn,17.1,lost
+2013,R4,19/4/2013,Sydney,16.7,4,Geelong,19.1,lost
+2013,R6,5/5/2013,Sydney,17.13,6,Brisbane Lions,8.7,win
+2013,R8,18/5/2013,Sydney,11.4,8,Fremantle,9.16,win
+2013,SF,14/9/2013,Sydney,13.8,27,Carlton,8.14,win
+2013,R10,3/6/2013,West Coast,8.14,10,Richmond,16.7,lost
+2013,R14,27/6/2013,West Coast,13.13,14,Essendon,15.8,lost
+2013,R16,14/7/2013,West Coast,14.9,16,Fremantle,19.7,lost
+2013,R17,21/7/2013,West Coast,11.13,17,Sydney,17.11,lost
+2013,R19,3/8/2013,West Coast,20.1,19,Gold Coast,17.11,win
+2013,R2,7/4/2013,West Coast,15.8,2,Hawthorn,23.1,lost
+2013,R21,17/8/2013,West Coast,6.5,21,Geelong,16.11,lost
+2013,R23,31/8/2013,West Coast,5.13,23,Adelaide,19.15,lost
+2013,R4,20/4/2013,West Coast,7.23,4,Carlton,12.17,lost
+2013,R6,5/5/2013,West Coast,21.11,6,Western Bulldogs,10.7,win
+2013,R8,17/5/2013,West Coast,12.18,8,North Melbourne,13.1,lost
+2013,R1,30/3/2013,Western Bulldogs,19.13,1,Brisbane Lions,7.17,win
+2013,R10,1/6/2013,Western Bulldogs,10.7,10,Port Adelaide,8.1,win
+2013,R13,22/6/2013,Western Bulldogs,8.13,13,Richmond,17.19,lost
+2013,R16,14/7/2013,Western Bulldogs,14.6,16,Essendon,18.13,lost
+2013,R18,28/7/2013,Western Bulldogs,16.15,18,West Coast,13.11,win
+2013,R19,4/8/2013,Western Bulldogs,15.9,19,Sydney,21.8,lost
+2013,R2,6/4/2013,Western Bulldogs,11.12,2,Fremantle,16.1,lost
+2013,R21,18/8/2013,Western Bulldogs,20.11,21,Adelaide,17.12,win
+2013,R23,1/9/2013,Western Bulldogs,16.11,23,Melbourne,13.9,win
+2013,R5,27/4/2013,Western Bulldogs,13.8,5,Geelong,15.17,lost
+2013,R7,11/5/2013,Western Bulldogs,15.7,7,North Melbourne,22.19,lost
+2014,R11,1/6/2014,Adelaide,16.13,11,Gold Coast,11.11,win
+2014,R13,14/6/2014,Adelaide,16.13,13,North Melbourne,10.13,win
+2014,R15,29/6/2014,Adelaide,14.15,15,Port Adelaide,10.16,win
+2014,R17,11/7/2014,Adelaide,14.8,17,Hawthorn,15.14,lost
+2014,R19,2/8/2014,Adelaide,16.9,19,West Coast,20.16,lost
+2014,R21,16/8/2014,Adelaide,9.15,21,Richmond,10.19,lost
+2014,R23,31/8/2014,Adelaide,22.9,23,St Kilda,9.8,win
+2014,R3,5/4/2014,Adelaide,9.17,3,Sydney,21.8,lost
+2014,R5,20/4/2014,Adelaide,21.11,5,Greater Western Sydney,10.12,win
+2014,R7,3/5/2014,Adelaide,9.13,7,Melbourne,11.4,lost
+2014,R9,15/5/2014,Adelaide,10.16,9,Collingwood,7.13,win
+2014,R11,31/5/2014,Brisbane Lions,14.14,11,Carlton,13.13,win
+2014,R13,14/6/2014,Brisbane Lions,12.8,13,Greater Western Sydney,19.11,lost
+2014,R15,28/6/2014,Brisbane Lions,10.1,15,North Melbourne,9.12,win
+2014,R17,12/7/2014,Brisbane Lions,9.1,17,West Coast,11.1,lost
+2014,R18,26/7/2014,Brisbane Lions,16.14,18,Gold Coast,8.8,win
+2014,R2,30/3/2014,Brisbane Lions,10.8,2,Geelong,13.15,lost
+2014,R20,10/8/2014,Brisbane Lions,9.9,20,Adelaide,25.18,lost
+2014,R22,24/8/2014,Brisbane Lions,6.12,22,Fremantle,15.16,lost
+2014,R5,17/4/2014,Brisbane Lions,9.9,5,Richmond,15.16,lost
+2014,R7,3/5/2014,Brisbane Lions,6.8,7,Sydney,18.15,lost
+2014,R8,10/5/2014,Brisbane Lions,8.9,8,Essendon,9.11,lost
+2014,R1,16/3/2014,Carlton,12.15,1,Port Adelaide,18.12,lost
+2014,R10,25/5/2014,Carlton,12.9,10,Adelaide,10.16,win
+2014,R13,13/6/2014,Carlton,13.12,13,Hawthorn,18.1,lost
+2014,R16,6/7/2014,Carlton,24.7,16,St Kilda,10.6,win
+2014,R18,18/7/2014,Carlton,16.13,18,North Melbourne,13.8,win
+2014,R20,9/8/2014,Carlton,14.13,20,Gold Coast,8.1,win
+2014,R21,15/8/2014,Carlton,11.1,21,Geelong,11.16,lost
+2014,R23,30/8/2014,Carlton,14.6,23,Essendon,13.12,win
+2014,R4,12/4/2014,Carlton,7.16,4,Melbourne,12.9,lost
+2014,R6,26/4/2014,Carlton,14.8,6,West Coast,12.17,win
+2014,R7,2/5/2014,Carlton,10.1,7,Collingwood,14.2,lost
+2014,R1,14/3/2014,Collingwood,5.16,1,Fremantle,17.14,lost
+2014,R10,24/5/2014,Collingwood,17.7,10,West Coast,15.11,win
+2014,R13,15/6/2014,Collingwood,15.8,13,Western Bulldogs,16.1,lost
+2014,R15,29/6/2014,Collingwood,13.13,15,Carlton,11.1,win
+2014,R18,27/7/2014,Collingwood,12.1,18,Adelaide,14.14,lost
+2014,R19,3/8/2014,Collingwood,11.1,19,Port Adelaide,10.1,win
+2014,R21,16/8/2014,Collingwood,8.8,21,Brisbane Lions,18.15,lost
+2014,R23,29/8/2014,Collingwood,8.8,23,Hawthorn,18.13,lost
+2014,R3,5/4/2014,Collingwood,11.1,3,Geelong,12.15,lost
+2014,R5,19/4/2014,Collingwood,13.15,5,North Melbourne,8.1,win
+2014,R6,25/4/2014,Collingwood,12.11,6,Essendon,8.12,win
+2014,R11,31/5/2014,Essendon,15.14,11,Richmond,7.12,win
+2014,R13,15/6/2014,Essendon,10.17,13,Melbourne,12.6,lost
+2014,R14,21/6/2014,Essendon,15.11,14,Adelaide,14.8,win
+2014,R17,13/7/2014,Essendon,16.7,17,Collingwood,5.9,win
+2014,R2,28/3/2014,Essendon,12.14,2,Hawthorn,13.12,lost
+2014,R21,16/8/2014,Essendon,11.11,21,West Coast,11.8,lost
+2014,R22,23/8/2014,Essendon,16.12,22,Gold Coast,13.11,win
+2014,R3,6/4/2014,Essendon,21.12,3,Carlton,8.9,win
+2014,R5,19/4/2014,Essendon,9.11,5,St Kilda,11.15,lost
+2014,R7,3/5/2014,Essendon,10.13,7,Western Bulldogs,9.11,win
+2014,R9,16/5/2014,Essendon,9.1,9,Sydney,18.6,lost
+2014,R12,8/6/2014,Fremantle,12.18,12,Adelaide,7.8,win
+2014,R14,21/6/2014,Fremantle,15.15,14,Brisbane Lions,3.4,win
+2014,R15,28/6/2014,Fremantle,13.1,15,West Coast,11.15,win
+2014,R17,13/7/2014,Fremantle,21.1,17,Greater Western Sydney,9.6,win
+2014,R19,31/7/2014,Fremantle,12.11,19,Carlton,11.12,win
+2014,R2,29/3/2014,Fremantle,12.15,2,Gold Coast,5.9,win
+2014,R21,17/8/2014,Fremantle,17.8,21,Hawthorn,13.13,win
+2014,R23,30/8/2014,Fremantle,16.9,23,Port Adelaide,14.13,win
+2014,R4,13/4/2014,Fremantle,18.5,4,Essendon,9.6,win
+2014,R6,25/4/2014,Fremantle,8.13,6,North Melbourne,10.14,lost
+2014,R9,17/5/2014,Fremantle,13.18,9,Geelong,9.1,win
+2014,SF,13/9/2014,Fremantle,11.17,27,Port Adelaide,15.15,lost
+2014,R1,20/3/2014,Geelong,18.11,1,Adelaide,12.9,win
+2014,R10,23/5/2014,Geelong,16.15,10,North Melbourne,13.13,win
+2014,R12,6/6/2014,Geelong,16.11,12,Carlton,15.12,win
+2014,R13,15/6/2014,Geelong,20.13,13,St Kilda,5.7,win
+2014,R15,27/6/2014,Geelong,13.11,15,Essendon,11.14,win
+2014,R16,6/7/2014,Geelong,10.9,16,Western Bulldogs,7.14,win
+2014,R20,9/8/2014,Geelong,12.9,20,Fremantle,11.13,win
+2014,R23,30/8/2014,Geelong,21.17,23,Brisbane Lions,12.9,win
+2014,R4,12/4/2014,Geelong,16.11,4,West Coast,4.8,win
+2014,R5,21/4/2014,Geelong,15.16,5,Hawthorn,12.15,win
+2014,R7,4/5/2014,Geelong,11.15,7,Richmond,12.4,lost
+2014,SF,12/9/2014,Geelong,13.14,27,North Melbourne,14.14,lost
+2014,R1,15/3/2014,Gold Coast,12.15,1,Richmond,10.9,win
+2014,R10,25/5/2014,Gold Coast,18.11,10,Western Bulldogs,10.14,win
+2014,R12,8/6/2014,Gold Coast,10.14,12,Sydney,17.7,lost
+2014,R14,21/6/2014,Gold Coast,17.16,14,Geelong,11.12,win
+2014,R16,5/7/2014,Gold Coast,11.14,16,Collingwood,10.15,win
+2014,R19,2/8/2014,Gold Coast,17.15,19,St Kilda,9.1,win
+2014,R21,16/8/2014,Gold Coast,7.5,21,Port Adelaide,7.14,win
+2014,R23,31/8/2014,Gold Coast,15.9,23,West Coast,23.13,lost
+2014,R3,5/4/2014,Gold Coast,17.12,3,Brisbane Lions,9.7,win
+2014,R4,12/4/2014,Gold Coast,7.7,4,Hawthorn,23.1,lost
+2014,R6,26/4/2014,Gold Coast,20.14,6,Greater Western Sydney,13.16,win
+2014,R1,15/3/2014,Greater Western Sydney,15.9,1,Sydney,9.13,win
+2014,R10,24/5/2014,Greater Western Sydney,5.11,10,Richmond,24.1,lost
+2014,R12,7/6/2014,Greater Western Sydney,9.12,12,Essendon,11.15,lost
+2014,R14,22/6/2014,Greater Western Sydney,15.1,14,Carlton,14.8,win
+2014,R16,5/7/2014,Greater Western Sydney,9.18,16,Adelaide,20.2,lost
+2014,R18,19/7/2014,Greater Western Sydney,12.15,18,Geelong,13.16,lost
+2014,R20,9/8/2014,Greater Western Sydney,7.9,20,North Melbourne,19.12,lost
+2014,R22,23/8/2014,Greater Western Sydney,9.13,22,Collingwood,11.9,lost
+2014,R3,6/4/2014,Greater Western Sydney,10.19,3,Melbourne,7.5,win
+2014,R4,12/4/2014,Greater Western Sydney,12.11,4,Western Bulldogs,17.8,lost
+2014,R7,3/5/2014,Greater Western Sydney,15.7,7,Port Adelaide,20.12,lost
+2014,PF,20/9/2014,Hawthorn,15.7,28,Port Adelaide,13.16,win
+2014,QF,5/9/2014,Hawthorn,15.14,26,Geelong,10.8,win
+2014,R1,22/3/2014,Hawthorn,21.13,1,Brisbane Lions,13.13,win
+2014,R11,1/6/2014,Hawthorn,14.1,11,Greater Western Sydney,13.9,win
+2014,R12,7/6/2014,Hawthorn,19.9,12,West Coast,12.7,win
+2014,R14,21/6/2014,Hawthorn,17.13,14,Collingwood,13.8,win
+2014,R15,28/6/2014,Hawthorn,17.14,15,Gold Coast,10.3,win
+2014,R18,26/7/2014,Hawthorn,15.14,18,Sydney,13.16,win
+2014,R19,3/8/2014,Hawthorn,16.11,19,Western Bulldogs,6.9,win
+2014,R20,9/8/2014,Hawthorn,17.13,20,Melbourne,9.11,win
+2014,R22,23/8/2014,Hawthorn,14.1,22,Geelong,11.5,win
+2014,R3,4/4/2014,Hawthorn,21.11,3,Fremantle,11.13,win
+2014,R7,3/5/2014,Hawthorn,27.13,7,St Kilda,4.6,win
+2014,R11,31/5/2014,Melbourne,11.9,11,Port Adelaide,14.11,lost
+2014,R12,9/6/2014,Melbourne,3.1,12,Collingwood,8.13,lost
+2014,R14,22/6/2014,Melbourne,10.6,14,North Melbourne,15.17,lost
+2014,R16,5/7/2014,Melbourne,4.1,16,Fremantle,15.7,lost
+2014,R17,12/7/2014,Melbourne,5.6,17,Geelong,14.18,lost
+2014,R19,3/8/2014,Melbourne,6.15,19,Brisbane Lions,11.8,lost
+2014,R2,30/3/2014,Melbourne,4.6,2,West Coast,18.15,lost
+2014,R21,17/8/2014,Melbourne,3.16,21,Greater Western Sydney,15.8,lost
+2014,R5,20/4/2014,Melbourne,11.12,5,Gold Coast,11.2,lost
+2014,R6,26/4/2014,Melbourne,5.8,6,Sydney,9.15,lost
+2014,R8,10/5/2014,Melbourne,12.11,8,Western Bulldogs,15.9,lost
+2014,EF,6/9/2014,North Melbourne,14.9,25,Essendon,12.9,win
+2014,R1,21/3/2014,North Melbourne,9.6,1,Essendon,15.9,lost
+2014,R12,8/6/2014,North Melbourne,17.14,12,Richmond,13.1,win
+2014,R16,4/7/2014,North Melbourne,16.12,16,Hawthorn,13.1,win
+2014,R17,12/7/2014,North Melbourne,13.14,17,St Kilda,3.15,win
+2014,R19,2/8/2014,North Melbourne,10.19,19,Geelong,16.15,lost
+2014,R21,17/8/2014,North Melbourne,17.9,21,Western Bulldogs,8.13,win
+2014,R22,23/8/2014,North Melbourne,14.17,22,Adelaide,13.16,win
+2014,R23,30/8/2014,North Melbourne,19.9,23,Melbourne,14.9,win
+2014,R3,6/4/2014,North Melbourne,14.13,3,Port Adelaide,13.12,win
+2014,R7,4/5/2014,North Melbourne,11.11,7,Gold Coast,18.12,lost
+2014,R9,17/5/2014,North Melbourne,17.23,9,Brisbane Lions,6.2,win
+2014,EF,7/9/2014,Port Adelaide,20.12,25,Richmond,11.9,win
+2014,R10,24/5/2014,Port Adelaide,15.1,10,Hawthorn,13.8,win
+2014,R12,7/6/2014,Port Adelaide,19.15,12,St Kilda,9.5,win
+2014,R14,21/6/2014,Port Adelaide,19.14,14,Western Bulldogs,8.8,win
+2014,R16,5/7/2014,Port Adelaide,7.18,16,Essendon,8.14,lost
+2014,R18,20/7/2014,Port Adelaide,10.12,18,Melbourne,10.9,lost
+2014,R2,29/3/2014,Port Adelaide,19.13,2,Adelaide,11.7,win
+2014,R20,9/8/2014,Port Adelaide,7.16,20,Sydney,12.12,lost
+2014,R22,22/8/2014,Port Adelaide,20.2,22,Carlton,5.7,win
+2014,R4,12/4/2014,Port Adelaide,24.15,4,Brisbane Lions,7.4,win
+2014,R6,27/4/2014,Port Adelaide,16.11,6,Geelong,9.13,win
+2014,R8,10/5/2014,Port Adelaide,13.16,8,Fremantle,11.1,win
+2014,R13,14/6/2014,Richmond,12.13,13,Fremantle,16.9,lost
+2014,R14,20/6/2014,Richmond,7.9,14,Sydney,9.8,lost
+2014,R16,5/7/2014,Richmond,12.7,16,Brisbane Lions,7.12,win
+2014,R17,13/7/2014,Richmond,19.12,17,Port Adelaide,16.1,win
+2014,R19,2/8/2014,Richmond,13.11,19,Greater Western Sydney,8.14,win
+2014,R2,27/3/2014,Richmond,14.14,2,Carlton,12.14,win
+2014,R20,8/8/2014,Richmond,14.11,20,Essendon,11.11,win
+2014,R22,24/8/2014,Richmond,15.8,22,St Kilda,10.12,win
+2014,R4,11/4/2014,Richmond,10.12,4,Collingwood,16.14,lost
+2014,R6,27/4/2014,Richmond,7.1,6,Hawthorn,18.1,lost
+2014,R9,17/5/2014,Richmond,9.2,9,Melbourne,14.7,lost
+2014,R1,22/3/2014,St Kilda,10.8,1,Melbourne,6.15,win
+2014,R11,30/5/2014,St Kilda,8.6,11,Collingwood,21.14,lost
+2014,R14,22/6/2014,St Kilda,10.1,14,West Coast,15.13,lost
+2014,R15,28/6/2014,St Kilda,11.7,15,Richmond,18.9,lost
+2014,R18,19/7/2014,St Kilda,17.16,18,Fremantle,9.6,win
+2014,R2,29/3/2014,St Kilda,15.5,2,Greater Western Sydney,13.1,win
+2014,R20,10/8/2014,St Kilda,15.9,20,Western Bulldogs,18.14,lost
+2014,R4,13/4/2014,St Kilda,7.8,4,Adelaide,20.16,lost
+2014,R6,25/4/2014,St Kilda,11.13,6,Brisbane Lions,12.1,lost
+2014,R8,12/5/2014,St Kilda,9.15,8,Carlton,15.11,lost
+2014,R9,18/5/2014,St Kilda,13.9,9,Gold Coast,19.11,lost
+2014,GF,27/9/2014,Sydney,11.8,29,Hawthorn,21.11,lost
+2014,PF,19/9/2014,Sydney,19.22,28,North Melbourne,9.11,win
+2014,QF,6/9/2014,Sydney,13.15,26,Fremantle,10.9,win
+2014,R11,29/5/2014,Sydney,22.16,11,Geelong,5.8,win
+2014,R13,14/6/2014,Sydney,14.14,13,Port Adelaide,13.16,win
+2014,R15,28/6/2014,Sydney,15.16,15,Greater Western Sydney,8.12,win
+2014,R17,12/7/2014,Sydney,18.14,17,Carlton,7.9,win
+2014,R19,1/8/2014,Sydney,11.13,19,Essendon,8.9,win
+2014,R2,29/3/2014,Sydney,10.9,2,Collingwood,12.17,lost
+2014,R21,16/8/2014,Sydney,19.13,21,St Kilda,8.8,win
+2014,R23,30/8/2014,Sydney,9.11,23,Richmond,10.8,lost
+2014,R4,13/4/2014,Sydney,6.12,4,North Melbourne,13.13,lost
+2014,R5,19/4/2014,Sydney,13.14,5,Fremantle,11.9,win
+2014,R8,9/5/2014,Sydney,15.17,8,Hawthorn,13.1,win
+2014,R1,23/3/2014,West Coast,21.8,1,Western Bulldogs,11.3,win
+2014,R11,1/6/2014,West Coast,6.8,11,North Melbourne,12.1,lost
+2014,R13,14/6/2014,West Coast,15.13,13,Gold Coast,15.1,win
+2014,R16,6/7/2014,West Coast,7.9,16,Sydney,10.19,lost
+2014,R18,25/7/2014,West Coast,6.6,18,Richmond,8.11,lost
+2014,R20,10/8/2014,West Coast,19.12,20,Collingwood,10.6,win
+2014,R22,23/8/2014,West Coast,18.11,22,Melbourne,8.5,win
+2014,R3,5/4/2014,West Coast,12.11,3,St Kilda,8.1,win
+2014,R5,19/4/2014,West Coast,7.14,5,Port Adelaide,10.1,lost
+2014,R7,4/5/2014,West Coast,7.12,7,Fremantle,11.7,lost
+2014,R8,11/5/2014,West Coast,30.8,8,Greater Western Sydney,12.5,win
+2014,R11,1/6/2014,Western Bulldogs,6.15,11,Fremantle,13.11,lost
+2014,R12,7/6/2014,Western Bulldogs,13.9,12,Brisbane Lions,14.11,lost
+2014,R15,29/6/2014,Western Bulldogs,14.7,15,Melbourne,13.7,win
+2014,R17,12/7/2014,Western Bulldogs,13.16,17,Gold Coast,9.12,win
+2014,R18,20/7/2014,Western Bulldogs,14.1,18,Essendon,15.11,lost
+2014,R2,30/3/2014,Western Bulldogs,8.6,2,North Melbourne,12.11,lost
+2014,R22,24/8/2014,Western Bulldogs,9.13,22,Sydney,20.1,lost
+2014,R23,31/8/2014,Western Bulldogs,15.19,23,Greater Western Sydney,18.7,lost
+2014,R3,5/4/2014,Western Bulldogs,15.1,3,Richmond,15.8,lost
+2014,R5,20/4/2014,Western Bulldogs,13.13,5,Carlton,18.11,lost
+2014,R6,27/4/2014,Western Bulldogs,12.11,6,Adelaide,13.14,lost
+2015,R1,5/4/2015,Adelaide,21.14,1,North Melbourne,9.9,win
+2015,R12,18/6/2015,Adelaide,12.13,12,Hawthorn,17.12,lost
+2015,R17,25/7/2015,Adelaide,19.11,17,Gold Coast,12.8,win
+2015,R19,7/8/2015,Adelaide,11.22,19,Richmond,8.4,win
+2015,R21,22/8/2015,Adelaide,20.11,21,Brisbane Lions,6.8,win
+2015,R22,30/8/2015,Adelaide,19.12,22,West Coast,10.9,win
+2015,R3,18/4/2015,Adelaide,12.8,3,Melbourne,7.13,win
+2015,R5,3/5/2015,Adelaide,13.13,5,Port Adelaide,18.7,lost
+2015,R7,16/5/2015,Adelaide,18.11,7,St Kilda,10.13,win
+2015,R9,30/5/2015,Adelaide,7.15,9,Fremantle,10.8,lost
+2015,R1,4/4/2015,Brisbane Lions,11.8,1,Collingwood,12.14,lost
+2015,R13,27/6/2015,Brisbane Lions,10.9,13,Adelaide,11.16,lost
+2015,R15,12/7/2015,Brisbane Lions,7.7,15,Sydney,10.1,lost
+2015,R17,25/7/2015,Brisbane Lions,5.8,17,North Melbourne,16.14,lost
+2015,R19,8/8/2015,Brisbane Lions,14.16,19,Gold Coast,17.12,lost
+2015,R20,15/8/2015,Brisbane Lions,20.11,20,Carlton,9.13,win
+2015,R23,5/9/2015,Brisbane Lions,19.16,23,Western Bulldogs,19.8,lost
+2015,R3,18/4/2015,Brisbane Lions,8.1,3,Richmond,21.11,lost
+2015,R4,26/4/2015,Brisbane Lions,9.11,4,West Coast,17.16,lost
+2015,R7,17/5/2015,Brisbane Lions,15.12,7,Port Adelaide,8.17,win
+2015,R9,31/5/2015,Brisbane Lions,13.8,9,St Kilda,16.12,lost
+2015,R1,2/4/2015,Carlton,11.12,1,Richmond,15.15,lost
+2015,R10,6/6/2015,Carlton,14.6,10,Adelaide,14.15,win
+2015,R12,20/6/2015,Carlton,17.8,12,Port Adelaide,16.1,win
+2015,R13,28/6/2015,Carlton,14.19,13,Gold Coast,9.15,win
+2015,R17,24/7/2015,Carlton,4.11,17,Hawthorn,27.11,lost
+2015,R18,1/8/2015,Carlton,8.6,18,North Melbourne,18.1,lost
+2015,R21,23/8/2015,Carlton,12.6,21,Melbourne,7.13,win
+2015,R3,18/4/2015,Carlton,11.18,3,Essendon,16.9,lost
+2015,R5,1/5/2015,Carlton,6.9,5,Collingwood,18.12,lost
+2015,R6,10/5/2015,Carlton,11.9,6,Brisbane Lions,12.12,lost
+2015,R7,16/5/2015,Carlton,9.3,7,Greater Western Sydney,19.21,lost
+2015,R11,14/6/2015,Collingwood,18.11,11,Greater Western Sydney,11.11,win
+2015,R14,3/7/2015,Collingwood,12.19,14,Hawthorn,15.11,lost
+2015,R16,18/7/2015,Collingwood,7.14,16,West Coast,11.21,lost
+2015,R18,1/8/2015,Collingwood,7.12,18,Melbourne,13.13,lost
+2015,R19,8/8/2015,Collingwood,16.9,19,Carlton,13.9,win
+2015,R2,11/4/2015,Collingwood,9.9,2,Adelaide,12.18,lost
+2015,R21,22/8/2015,Collingwood,7.14,21,Richmond,23.9,lost
+2015,R23,6/9/2015,Collingwood,14.8,23,Essendon,14.11,win
+2015,R3,17/4/2015,Collingwood,21.14,3,St Kilda,10.6,win
+2015,R6,8/5/2015,Collingwood,8.11,6,Geelong,15.1,lost
+2015,R9,31/5/2015,Collingwood,17.1,9,North Melbourne,14.11,win
+2015,R10,6/6/2015,Essendon,7.11,10,Geelong,19.8,lost
+2015,R14,5/7/2015,Essendon,8.4,14,St Kilda,25.12,lost
+2015,R15,11/7/2015,Essendon,10.9,15,Melbourne,7.18,win
+2015,R17,25/7/2015,Essendon,17.14,17,Port Adelaide,20.9,lost
+2015,R18,2/8/2015,Essendon,5.1,18,Western Bulldogs,19.13,lost
+2015,R2,12/4/2015,Essendon,12.6,2,Hawthorn,11.1,win
+2015,R20,15/8/2015,Essendon,8.11,20,Adelaide,27.9,lost
+2015,R22,29/8/2015,Essendon,7.5,22,Richmond,10.14,lost
+2015,R4,25/4/2015,Essendon,6.13,4,Collingwood,9.15,lost
+2015,R7,15/5/2015,Essendon,12.1,7,North Melbourne,13.15,lost
+2015,R8,24/5/2015,Essendon,21.1,8,Brisbane Lions,12.6,win
+2015,PF,25/9/2015,Fremantle,10.7,28,Hawthorn,15.4,lost
+2015,QF,12/9/2015,Fremantle,10.9,26,Sydney,7.18,win
+2015,R1,5/4/2015,Fremantle,11.9,1,Port Adelaide,10.8,win
+2015,R10,5/6/2015,Fremantle,10.1,10,Richmond,15.7,lost
+2015,R13,25/6/2015,Fremantle,12.8,13,Collingwood,11.7,win
+2015,R14,5/7/2015,Fremantle,13.6,14,Brisbane Lions,7.6,win
+2015,R16,18/7/2015,Fremantle,13.17,16,Carlton,8.5,win
+2015,R18,2/8/2015,Fremantle,12.12,18,Greater Western Sydney,9.9,win
+2015,R20,16/8/2015,Fremantle,11.14,20,West Coast,15.14,lost
+2015,R22,30/8/2015,Fremantle,17.6,22,Melbourne,8.6,win
+2015,R4,25/4/2015,Fremantle,11.8,4,Sydney,8.12,win
+2015,R6,9/5/2015,Fremantle,12.8,6,Essendon,7.1,win
+2015,R8,23/5/2015,Fremantle,17.13,8,North Melbourne,5.12,win
+2015,R12,21/6/2015,Geelong,13.11,12,Melbourne,18.5,lost
+2015,R16,18/7/2015,Geelong,10.12,16,Western Bulldogs,9.1,win
+2015,R18,1/8/2015,Geelong,17.11,18,Brisbane Lions,8.9,win
+2015,R19,8/8/2015,Geelong,14.11,19,Sydney,9.9,win
+2015,R2,12/4/2015,Geelong,9.6,2,Fremantle,15.14,lost
+2015,R20,15/8/2015,Geelong,12.13,20,Hawthorn,19.7,lost
+2015,R22,28/8/2015,Geelong,9.8,22,Collingwood,17.8,lost
+2015,R23,5/9/2015,Geelong,17.17,23,Adelaide,11.14,win
+2015,R3,19/4/2015,Geelong,16.9,3,Gold Coast,13.18,win
+2015,R4,26/4/2015,Geelong,9.13,4,North Melbourne,12.11,lost
+2015,R8,22/5/2015,Geelong,22.8,8,Carlton,9.9,win
+2015,R10,6/6/2015,Gold Coast,5.11,10,Sydney,13.15,lost
+2015,R11,13/6/2015,Gold Coast,7.4,11,Fremantle,6.17,win
+2015,R14,4/7/2015,Gold Coast,19.11,14,North Melbourne,10.1,win
+2015,R16,18/7/2015,Gold Coast,12.7,16,Greater Western Sydney,13.16,lost
+2015,R18,1/8/2015,Gold Coast,12.11,18,West Coast,11.17,win
+2015,R2,11/4/2015,Gold Coast,10.16,2,St Kilda,16.8,lost
+2015,R21,22/8/2015,Gold Coast,14.13,21,Essendon,14.11,win
+2015,R22,29/8/2015,Gold Coast,7.9,22,Port Adelaide,12.16,lost
+2015,R5,2/5/2015,Gold Coast,18.1,5,Brisbane Lions,7.12,win
+2015,R6,9/5/2015,Gold Coast,11.12,6,Adelaide,18.11,lost
+2015,R8,23/5/2015,Gold Coast,9.9,8,Collingwood,20.12,lost
+2015,R10,7/6/2015,Greater Western Sydney,14.13,10,Brisbane Lions,10.7,win
+2015,R12,20/6/2015,Greater Western Sydney,8.13,12,North Melbourne,18.9,lost
+2015,R15,12/7/2015,Greater Western Sydney,12.12,15,St Kilda,6.13,win
+2015,R17,25/7/2015,Greater Western Sydney,6.6,17,Geelong,9.15,lost
+2015,R19,9/8/2015,Greater Western Sydney,14.9,19,Essendon,8.13,win
+2015,R2,11/4/2015,Greater Western Sydney,15.11,2,Melbourne,8.8,win
+2015,R21,22/8/2015,Greater Western Sydney,6.8,21,Sydney,20.13,lost
+2015,R22,29/8/2015,Greater Western Sydney,20.12,22,Carlton,7.9,win
+2015,R4,25/4/2015,Greater Western Sydney,16.23,4,Gold Coast,7.11,win
+2015,R6,9/5/2015,Greater Western Sydney,16.12,6,Hawthorn,14.14,win
+2015,R8,23/5/2015,Greater Western Sydney,16.12,8,Adelaide,12.12,win
+2015,R1,6/4/2015,Hawthorn,17.21,1,Geelong,8.13,win
+2015,R13,27/6/2015,Hawthorn,16.18,13,Essendon,11.1,win
+2015,R15,12/7/2015,Hawthorn,17.13,15,Fremantle,6.7,win
+2015,R18,31/7/2015,Hawthorn,7.11,18,Richmond,10.11,lost
+2015,R21,21/8/2015,Hawthorn,13.8,21,Port Adelaide,16.12,lost
+2015,R22,29/8/2015,Hawthorn,21.8,22,Brisbane Lions,9.8,win
+2015,R23,5/9/2015,Hawthorn,17.11,23,Carlton,8.8,win
+2015,R3,19/4/2015,Hawthorn,19.13,3,Western Bulldogs,8.9,win
+2015,R7,16/5/2015,Hawthorn,24.11,7,Melbourne,7.8,win
+2015,R8,23/5/2015,Hawthorn,9.15,8,Sydney,11.7,lost
+2015,R9,30/5/2015,Hawthorn,14.9,9,Gold Coast,6.4,win
+2015,SF,18/9/2015,Hawthorn,21.9,27,Adelaide,8.13,win
+2015,R1,4/4/2015,Melbourne,17.13,1,Gold Coast,13.11,win
+2015,R10,8/6/2015,Melbourne,13.7,10,Collingwood,17.8,lost
+2015,R14,4/7/2015,Melbourne,9.6,14,West Coast,16.18,lost
+2015,R16,19/7/2015,Melbourne,8.12,16,Brisbane Lions,4.12,win
+2015,R17,26/7/2015,Melbourne,6.1,17,St Kilda,12.11,lost
+2015,R19,9/8/2015,Melbourne,14.8,19,North Melbourne,19.13,lost
+2015,R23,6/9/2015,Melbourne,15.13,23,Greater Western Sydney,11.11,win
+2015,R5,3/5/2015,Melbourne,6.14,5,Fremantle,18.1,lost
+2015,R6,9/5/2015,Melbourne,7.8,6,Sydney,12.16,lost
+2015,R8,24/5/2015,Melbourne,15.13,8,Western Bulldogs,9.1,win
+2015,R9,30/5/2015,Melbourne,8.6,9,Port Adelaide,18.7,lost
+2015,R10,7/6/2015,North Melbourne,13.7,10,West Coast,10.15,win
+2015,R11,13/6/2015,North Melbourne,10.15,11,Sydney,14.7,lost
+2015,R15,11/7/2015,North Melbourne,18.12,15,Geelong,11.13,win
+2015,R16,17/7/2015,North Melbourne,14.9,16,Essendon,9.14,win
+2015,R2,12/4/2015,North Melbourne,20.13,2,Brisbane Lions,7.9,win
+2015,R20,15/8/2015,North Melbourne,18.12,20,St Kilda,11.17,win
+2015,R21,23/8/2015,North Melbourne,14.1,21,Fremantle,12.11,win
+2015,R22,29/8/2015,North Melbourne,10.13,22,Western Bulldogs,14.12,lost
+2015,R3,18/4/2015,North Melbourne,16.9,3,Port Adelaide,17.11,lost
+2015,R5,2/5/2015,North Melbourne,10.1,5,Hawthorn,19.16,lost
+2015,R6,9/5/2015,North Melbourne,16.13,6,Richmond,10.14,win
+2015,R10,6/6/2015,Port Adelaide,16.4,10,Western Bulldogs,9.8,win
+2015,R11,12/6/2015,Port Adelaide,11.3,11,Geelong,14.8,lost
+2015,R15,9/7/2015,Port Adelaide,9.12,15,Collingwood,9.9,lost
+2015,R16,19/7/2015,Port Adelaide,17.11,16,Adelaide,18.8,lost
+2015,R18,2/8/2015,Port Adelaide,17.1,18,St Kilda,6.13,win
+2015,R2,11/4/2015,Port Adelaide,6.8,2,Sydney,14.8,lost
+2015,R20,15/8/2015,Port Adelaide,16.15,20,Greater Western Sydney,13.12,win
+2015,R23,5/9/2015,Port Adelaide,18.14,23,Fremantle,8.5,win
+2015,R4,25/4/2015,Port Adelaide,15.9,4,Hawthorn,13.13,win
+2015,R6,10/5/2015,Port Adelaide,10.8,6,West Coast,11.12,lost
+2015,R8,24/5/2015,Port Adelaide,5.13,8,Richmond,11.1,lost
+2015,EF,13/9/2015,Richmond,14.4,25,North Melbourne,15.15,lost
+2015,R12,19/6/2015,Richmond,10.1,12,West Coast,13.12,lost
+2015,R14,4/7/2015,Richmond,10.18,14,Greater Western Sydney,10.9,lost
+2015,R15,10/7/2015,Richmond,10.11,15,Carlton,5.11,win
+2015,R17,25/7/2015,Richmond,10.18,17,Fremantle,12.1,lost
+2015,R2,11/4/2015,Richmond,9.12,2,Western Bulldogs,12.13,lost
+2015,R20,16/8/2015,Richmond,22.6,20,Gold Coast,8.7,win
+2015,R23,4/9/2015,Richmond,16.12,23,North Melbourne,10.7,win
+2015,R4,24/4/2015,Richmond,6.15,4,Melbourne,12.11,lost
+2015,R5,2/5/2015,Richmond,11.1,5,Geelong,12.13,lost
+2015,R7,17/5/2015,Richmond,16.9,7,Collingwood,15.1,win
+2015,R9,30/5/2015,Richmond,10.12,9,Essendon,8.11,win
+2015,R1,5/4/2015,St Kilda,11.12,1,Greater Western Sydney,12.15,lost
+2015,R10,7/6/2015,St Kilda,10.9,10,Hawthorn,20.12,lost
+2015,R11,14/6/2015,St Kilda,12.13,11,Melbourne,12.11,win
+2015,R13,27/6/2015,St Kilda,7.14,13,Western Bulldogs,9.8,lost
+2015,R16,19/7/2015,St Kilda,10.13,16,Richmond,13.11,lost
+2015,R19,9/8/2015,St Kilda,8.11,19,Fremantle,15.6,lost
+2015,R21,22/8/2015,St Kilda,14.13,21,Geelong,15.7,lost
+2015,R22,30/8/2015,St Kilda,4.14,22,Sydney,20.15,lost
+2015,R4,25/4/2015,St Kilda,12.9,4,Carlton,18.13,lost
+2015,R5,3/5/2015,St Kilda,11.14,5,Essendon,11.16,lost
+2015,R8,23/5/2015,St Kilda,12.6,8,West Coast,20.11,lost
+2015,R1,4/4/2015,Sydney,10.12,1,Essendon,9.6,win
+2015,R13,26/6/2015,Sydney,11.11,13,Richmond,14.11,lost
+2015,R14,2/7/2015,Sydney,14.1,14,Port Adelaide,12.12,win
+2015,R16,18/7/2015,Sydney,7.15,16,Hawthorn,23.8,lost
+2015,R18,1/8/2015,Sydney,17.15,18,Adelaide,9.11,win
+2015,R20,14/8/2015,Sydney,13.9,20,Collingwood,10.16,win
+2015,R23,5/9/2015,Sydney,19.13,23,Gold Coast,9.1,win
+2015,R3,18/4/2015,Sydney,16.15,3,Greater Western Sydney,12.18,win
+2015,R5,2/5/2015,Sydney,10.13,5,Western Bulldogs,11.11,lost
+2015,R7,16/5/2015,Sydney,18.12,7,Geelong,11.11,win
+2015,R9,29/5/2015,Sydney,19.8,9,Carlton,9.8,win
+2015,SF,19/9/2015,Sydney,7.9,27,North Melbourne,11.11,lost
+2015,GF,3/10/2015,West Coast,8.13,29,Hawthorn,16.11,lost
+2015,PF,26/9/2015,West Coast,10.2,28,North Melbourne,7.13,win
+2015,QF,11/9/2015,West Coast,14.12,26,Hawthorn,9.1,win
+2015,R11,13/6/2015,West Coast,14.12,11,Essendon,6.1,win
+2015,R15,11/7/2015,West Coast,22.15,15,Adelaide,14.7,win
+2015,R17,26/7/2015,West Coast,15.13,17,Sydney,7.9,win
+2015,R19,8/8/2015,West Coast,11.8,19,Hawthorn,13.1,lost
+2015,R2,10/4/2015,West Coast,20.11,2,Carlton,9.8,win
+2015,R21,23/8/2015,West Coast,25.12,21,Western Bulldogs,13.7,win
+2015,R23,5/9/2015,West Coast,18.17,23,St Kilda,4.6,win
+2015,R3,19/4/2015,West Coast,12.9,3,Fremantle,17.9,lost
+2015,R5,2/5/2015,West Coast,18.12,5,Greater Western Sydney,4.9,win
+2015,R7,16/5/2015,West Coast,21.9,7,Gold Coast,6.7,win
+2015,R9,31/5/2015,West Coast,16.24,9,Geelong,10.4,win
+2015,EF,12/9/2015,Western Bulldogs,14.18,25,Adelaide,16.13,lost
+2015,R1,4/4/2015,Western Bulldogs,14.13,1,West Coast,14.3,lost
+2015,R12,20/6/2015,Western Bulldogs,22.14,12,Brisbane Lions,11.8,win
+2015,R14,4/7/2015,Western Bulldogs,9.1,14,Carlton,7.11,win
+2015,R15,11/7/2015,Western Bulldogs,14.11,15,Gold Coast,11.7,win
+2015,R17,26/7/2015,Western Bulldogs,15.14,17,Collingwood,13.8,win
+2015,R19,8/8/2015,Western Bulldogs,19.14,19,Port Adelaide,9.1,win
+2015,R20,16/8/2015,Western Bulldogs,24.9,20,Melbourne,8.7,win
+2015,R4,26/4/2015,Western Bulldogs,18.17,4,Adelaide,10.8,win
+2015,R6,9/5/2015,Western Bulldogs,13.9,6,St Kilda,14.1,lost
+2015,R7,17/5/2015,Western Bulldogs,14.4,7,Fremantle,15.11,lost
+2015,R9,30/5/2015,Western Bulldogs,16.17,9,Greater Western Sydney,11.2,win
+2016,EF,10/9/2016,Adelaide,21.15,25,North Melbourne,12.7,win
+2016,R10,28/5/2016,Adelaide,15.17,10,Greater Western Sydney,13.7,win
+2016,R11,5/6/2016,Adelaide,19.19,11,St Kilda,6.9,win
+2016,R14,23/6/2016,Adelaide,12.28,14,North Melbourne,10.7,win
+2016,R17,16/7/2016,Adelaide,14.13,17,Collingwood,10.9,win
+2016,R19,31/7/2016,Adelaide,22.11,19,Essendon,9.7,win
+2016,R2,2/4/2016,Adelaide,22.12,2,Port Adelaide,11.2,win
+2016,R20,6/8/2016,Adelaide,27.15,20,Brisbane Lions,6.3,win
+2016,R23,26/8/2016,Adelaide,10.11,23,West Coast,14.16,lost
+2016,R4,16/4/2016,Adelaide,16.17,4,Sydney,15.13,win
+2016,R6,30/4/2016,Adelaide,14.13,6,Fremantle,8.16,win
+2016,R8,13/5/2016,Adelaide,11.6,8,Geelong,13.2,lost
+2016,R10,28/5/2016,Brisbane Lions,13.9,10,Hawthorn,21.9,lost
+2016,R12,11/6/2016,Brisbane Lions,9.1,12,Fremantle,23.9,lost
+2016,R13,18/6/2016,Brisbane Lions,12.1,13,West Coast,20.11,lost
+2016,R17,17/7/2016,Brisbane Lions,9.13,17,Greater Western Sydney,22.14,lost
+2016,R19,30/7/2016,Brisbane Lions,11.13,19,Port Adelaide,25.23,lost
+2016,R2,2/4/2016,Brisbane Lions,11.17,2,North Melbourne,17.15,lost
+2016,R21,13/8/2016,Brisbane Lions,15.9,21,Carlton,13.17,win
+2016,R22,21/8/2016,Brisbane Lions,10.9,22,Geelong,19.15,lost
+2016,R4,16/4/2016,Brisbane Lions,14.23,4,Gold Coast,14.1,win
+2016,R6,1/5/2016,Brisbane Lions,14.1,6,Sydney,15.7,lost
+2016,R8,14/5/2016,Brisbane Lions,10.5,8,Collingwood,20.23,lost
+2016,R10,29/5/2016,Carlton,16.8,10,Geelong,12.13,win
+2016,R11,4/6/2016,Carlton,16.6,11,Brisbane Lions,9.1,win
+2016,R15,2/7/2016,Carlton,6.9,15,Collingwood,8.9,lost
+2016,R16,10/7/2016,Carlton,7.5,16,Adelaide,16.11,lost
+2016,R17,17/7/2016,Carlton,11.9,17,West Coast,12.1,lost
+2016,R2,3/4/2016,Carlton,10.11,2,Sydney,20.11,lost
+2016,R20,7/8/2016,Carlton,7.9,20,St Kilda,19.8,lost
+2016,R22,21/8/2016,Carlton,11.12,22,Melbourne,7.16,win
+2016,R4,16/4/2016,Carlton,7.7,4,Western Bulldogs,13.7,lost
+2016,R6,1/5/2016,Carlton,10.12,6,Essendon,8.9,win
+2016,R8,15/5/2016,Carlton,14.9,8,Port Adelaide,13.13,win
+2016,R10,29/5/2016,Collingwood,7.11,10,Western Bulldogs,11.8,lost
+2016,R11,5/6/2016,Collingwood,7.16,11,Port Adelaide,19.11,lost
+2016,R14,24/6/2016,Collingwood,12.13,14,Fremantle,5.7,win
+2016,R18,22/7/2016,Collingwood,12.12,18,North Melbourne,18.16,lost
+2016,R19,30/7/2016,Collingwood,13.13,19,West Coast,11.6,win
+2016,R2,1/4/2016,Collingwood,13.9,2,Richmond,12.14,win
+2016,R22,20/8/2016,Collingwood,16.22,22,Gold Coast,6.11,win
+2016,R4,17/4/2016,Collingwood,9.13,4,Melbourne,16.6,lost
+2016,R5,25/4/2016,Collingwood,22.1,5,Essendon,11.7,win
+2016,R7,7/5/2016,Collingwood,12.12,7,Carlton,15.9,lost
+2016,R9,21/5/2016,Collingwood,16.8,9,Geelong,11.14,win
+2016,R10,28/5/2016,Essendon,10.7,10,Richmond,16.9,lost
+2016,R12,10/6/2016,Essendon,6.7,12,Hawthorn,23.13,lost
+2016,R13,19/6/2016,Essendon,12.18,13,Greater Western Sydney,17.15,lost
+2016,R16,10/7/2016,Essendon,14.14,16,St Kilda,17.7,lost
+2016,R18,24/7/2016,Essendon,12.19,18,Brisbane Lions,20.8,lost
+2016,R2,2/4/2016,Essendon,11.14,2,Melbourne,10.7,win
+2016,R21,14/8/2016,Essendon,11.9,21,Gold Coast,9.15,win
+2016,R22,21/8/2016,Essendon,7.11,22,Western Bulldogs,14.9,lost
+2016,R23,27/8/2016,Essendon,15.13,23,Carlton,10.19,win
+2016,R4,16/4/2016,Essendon,6.6,4,Geelong,9.18,lost
+2016,R8,14/5/2016,Essendon,8.12,8,North Melbourne,10.14,lost
+2016,R11,4/6/2016,Fremantle,20.6,11,Essendon,6.11,win
+2016,R13,18/6/2016,Fremantle,12.14,13,Port Adelaide,9.15,win
+2016,R17,15/7/2016,Fremantle,9.7,17,Geelong,11.12,lost
+2016,R19,31/7/2016,Fremantle,7.5,19,Sydney,21.11,lost
+2016,R2,2/4/2016,Fremantle,14.16,2,Gold Coast,19.12,lost
+2016,R20,7/8/2016,Fremantle,9.1,20,West Coast,17.8,lost
+2016,R21,14/8/2016,Fremantle,11.4,21,Adelaide,21.16,lost
+2016,R23,28/8/2016,Fremantle,10.9,23,Western Bulldogs,6.13,win
+2016,R5,24/4/2016,Fremantle,9.14,5,Carlton,10.12,lost
+2016,R7,7/5/2016,Fremantle,11.11,7,Greater Western Sydney,14.11,lost
+2016,R9,21/5/2016,Fremantle,6.9,9,Richmond,11.17,lost
+2016,PF,23/9/2016,Geelong,8.12,28,Sydney,15.7,lost
+2016,QF,9/9/2016,Geelong,12.13,26,Hawthorn,12.11,win
+2016,R1,28/3/2016,Geelong,18.8,1,Hawthorn,12.14,win
+2016,R11,4/6/2016,Geelong,14.14,11,Greater Western Sydney,14.4,lost
+2016,R12,11/6/2016,Geelong,15.15,12,North Melbourne,12.2,win
+2016,R16,8/7/2016,Geelong,9.6,16,Sydney,15.8,lost
+2016,R18,23/7/2016,Geelong,12.13,18,Adelaide,7.13,win
+2016,R19,29/7/2016,Geelong,16.7,19,Western Bulldogs,11.12,win
+2016,R20,7/8/2016,Geelong,15.1,20,Essendon,4.1,win
+2016,R23,27/8/2016,Geelong,24.11,23,Melbourne,6.8,win
+2016,R3,10/4/2016,Geelong,18.17,3,Brisbane Lions,7.14,win
+2016,R6,30/4/2016,Geelong,25.18,6,Gold Coast,7.6,win
+2016,R7,7/5/2016,Geelong,18.15,7,West Coast,12.7,win
+2016,R1,26/3/2016,Gold Coast,17.19,1,Essendon,9.6,win
+2016,R11,4/6/2016,Gold Coast,6.5,11,Sydney,11.13,lost
+2016,R15,2/7/2016,Gold Coast,15.18,15,St Kilda,8.2,win
+2016,R16,9/7/2016,Gold Coast,22.7,16,Brisbane Lions,17.11,win
+2016,R18,23/7/2016,Gold Coast,16.9,18,Fremantle,12.9,win
+2016,R20,6/8/2016,Gold Coast,13.6,20,Greater Western Sydney,14.8,lost
+2016,R23,27/8/2016,Gold Coast,9.12,23,Port Adelaide,13.11,lost
+2016,R3,9/4/2016,Gold Coast,13.17,3,Carlton,5.11,win
+2016,R5,23/4/2016,Gold Coast,11.15,5,North Melbourne,18.11,lost
+2016,R7,7/5/2016,Gold Coast,14.3,7,Melbourne,24.16,lost
+2016,R9,21/5/2016,Gold Coast,11.8,9,Adelaide,22.17,lost
+2016,PF,24/9/2016,Greater Western Sydney,12.11,28,Western Bulldogs,13.11,lost
+2016,R12,12/6/2016,Greater Western Sydney,15.15,12,Sydney,9.9,win
+2016,R14,25/6/2016,Greater Western Sydney,18.19,14,Carlton,9.11,win
+2016,R16,9/7/2016,Greater Western Sydney,14.9,16,Collingwood,19.11,lost
+2016,R19,30/7/2016,Greater Western Sydney,17.9,19,Richmond,3.5,win
+2016,R2,3/4/2016,Greater Western Sydney,13.11,2,Geelong,11.1,win
+2016,R21,13/8/2016,Greater Western Sydney,14.12,21,West Coast,14.13,lost
+2016,R22,20/8/2016,Greater Western Sydney,19.15,22,Fremantle,5.7,win
+2016,R4,17/4/2016,Greater Western Sydney,22.19,4,Port Adelaide,9.11,win
+2016,R6,30/4/2016,Greater Western Sydney,24.14,6,Hawthorn,12.11,win
+2016,R8,14/5/2016,Greater Western Sydney,22.17,8,Gold Coast,9.4,win
+2016,R9,22/5/2016,Greater Western Sydney,15.8,9,Western Bulldogs,10.13,win
+2016,R11,4/6/2016,Hawthorn,11.16,11,Melbourne,10.4,win
+2016,R14,26/6/2016,Hawthorn,12.14,14,Gold Coast,8.12,win
+2016,R18,24/7/2016,Hawthorn,16.18,18,Richmond,5.14,win
+2016,R19,30/7/2016,Hawthorn,10.14,19,Carlton,7.13,win
+2016,R2,3/4/2016,Hawthorn,14.15,2,West Coast,7.11,win
+2016,R21,13/8/2016,Hawthorn,14.12,21,North Melbourne,8.9,win
+2016,R23,28/8/2016,Hawthorn,17.1,23,Collingwood,17.9,lost
+2016,R4,16/4/2016,Hawthorn,13.9,4,St Kilda,13.6,win
+2016,R5,22/4/2016,Hawthorn,17.1,5,Adelaide,17.7,lost
+2016,R8,14/5/2016,Hawthorn,17.14,8,Fremantle,11.9,win
+2016,R9,20/5/2016,Hawthorn,7.13,9,Sydney,10.9,lost
+2016,SF,16/9/2016,Hawthorn,12.12,27,Western Bulldogs,16.11,lost
+2016,R1,26/3/2016,Melbourne,12.8,1,Greater Western Sydney,10.18,win
+2016,R10,28/5/2016,Melbourne,10.16,10,Port Adelaide,18.13,lost
+2016,R12,13/6/2016,Melbourne,16.8,12,Collingwood,8.1,win
+2016,R15,3/7/2016,Melbourne,15.8,15,Adelaide,18.12,lost
+2016,R16,9/7/2016,Melbourne,12.15,16,Fremantle,8.7,win
+2016,R19,31/7/2016,Melbourne,9.12,19,Gold Coast,9.1,win
+2016,R20,6/8/2016,Melbourne,17.8,20,Hawthorn,11.15,win
+2016,R5,24/4/2016,Melbourne,20.9,5,Richmond,14.12,win
+2016,R6,30/4/2016,Melbourne,15.6,6,St Kilda,20.15,lost
+2016,R8,15/5/2016,Melbourne,12.1,8,Western Bulldogs,17.12,lost
+2016,R9,22/5/2016,Melbourne,19.17,9,Brisbane Lions,9.14,win
+2016,R1,26/3/2016,North Melbourne,16.11,1,Adelaide,14.13,win
+2016,R11,3/6/2016,North Melbourne,18.16,11,Richmond,7.12,win
+2016,R13,17/6/2016,North Melbourne,11.18,13,Hawthorn,14.9,lost
+2016,R17,16/7/2016,North Melbourne,10.17,17,Port Adelaide,16.9,lost
+2016,R19,30/7/2016,North Melbourne,12.13,19,St Kilda,8.14,win
+2016,R22,20/8/2016,North Melbourne,10.16,22,Sydney,12.13,lost
+2016,R23,27/8/2016,North Melbourne,9.9,23,Greater Western Sydney,14.16,lost
+2016,R3,10/4/2016,North Melbourne,21.1,3,Melbourne,20.11,win
+2016,R4,17/4/2016,North Melbourne,20.12,4,Fremantle,14.17,win
+2016,R6,29/4/2016,North Melbourne,9.7,6,Western Bulldogs,6.9,win
+2016,R9,21/5/2016,North Melbourne,17.11,9,Carlton,6.1,win
+2016,R1,27/3/2016,Port Adelaide,20.13,1,St Kilda,15.1,win
+2016,R12,11/6/2016,Port Adelaide,14.13,12,Western Bulldogs,15.1,lost
+2016,R15,1/7/2016,Port Adelaide,14.1,15,Richmond,8.8,win
+2016,R16,7/7/2016,Port Adelaide,12.7,16,Hawthorn,15.11,lost
+2016,R18,24/7/2016,Port Adelaide,9.6,18,Greater Western Sydney,11.13,lost
+2016,R21,13/8/2016,Port Adelaide,8.6,21,Melbourne,13.16,lost
+2016,R22,20/8/2016,Port Adelaide,14.1,22,Adelaide,15.19,lost
+2016,R3,8/4/2016,Port Adelaide,17.1,3,Essendon,7.9,win
+2016,R5,23/4/2016,Port Adelaide,8.11,5,Geelong,16.11,lost
+2016,R7,8/5/2016,Port Adelaide,21.1,7,Brisbane Lions,7.17,win
+2016,R9,21/5/2016,Port Adelaide,13.8,9,West Coast,14.1,lost
+2016,R1,24/3/2016,Richmond,14.8,1,Carlton,12.11,win
+2016,R12,12/6/2016,Richmond,17.12,12,Gold Coast,15.7,win
+2016,R14,25/6/2016,Richmond,17.15,14,Brisbane Lions,11.9,win
+2016,R17,16/7/2016,Richmond,16.6,17,Essendon,11.17,win
+2016,R20,5/8/2016,Richmond,14.8,20,Collingwood,11.11,win
+2016,R21,14/8/2016,Richmond,12.6,21,Geelong,10.22,win
+2016,R22,20/8/2016,Richmond,6.1,22,St Kilda,7.13,lost
+2016,R3,9/4/2016,Richmond,13.14,3,Adelaide,19.14,lost
+2016,R6,30/4/2016,Richmond,8.11,6,Port Adelaide,13.16,lost
+2016,R7,6/5/2016,Richmond,13.12,7,Hawthorn,21.1,lost
+2016,R8,14/5/2016,Richmond,14.17,8,Sydney,15.1,lost
+2016,R10,28/5/2016,St Kilda,15.11,10,Fremantle,10.7,win
+2016,R12,12/6/2016,St Kilda,17.8,12,Carlton,12.6,win
+2016,R14,25/6/2016,St Kilda,14.9,14,Geelong,13.12,win
+2016,R17,17/7/2016,St Kilda,15.2,17,Melbourne,11.8,win
+2016,R2,2/4/2016,St Kilda,5.6,2,Western Bulldogs,13.15,lost
+2016,R21,13/8/2016,St Kilda,11.1,21,Sydney,23.8,lost
+2016,R23,28/8/2016,St Kilda,25.11,23,Brisbane Lions,15.13,win
+2016,R3,9/4/2016,St Kilda,18.11,3,Collingwood,14.6,win
+2016,R5,24/4/2016,St Kilda,12.7,5,Greater Western Sydney,19.12,lost
+2016,R7,8/5/2016,St Kilda,11.9,7,North Melbourne,11.16,win
+2016,R9,22/5/2016,St Kilda,16.13,9,Essendon,9.9,win
+2016,GF,1/10/2016,Sydney,10.7,29,Western Bulldogs,13.11,lost
+2016,QF,10/9/2016,Sydney,7.13,26,Greater Western Sydney,12.19,lost
+2016,R1,26/3/2016,Sydney,18.25,1,Collingwood,7.11,win
+2016,R10,27/5/2016,Sydney,14.7,10,North Melbourne,9.11,win
+2016,R13,19/6/2016,Sydney,12.14,13,Melbourne,4.7,win
+2016,R15,2/7/2016,Sydney,11.13,15,Western Bulldogs,13.5,lost
+2016,R17,14/7/2016,Sydney,10.1,17,Hawthorn,11.9,lost
+2016,R18,23/7/2016,Sydney,10.14,18,Carlton,10.8,lost
+2016,R20,6/8/2016,Sydney,14.16,20,Port Adelaide,4.9,win
+2016,R23,27/8/2016,Sydney,25.14,23,Richmond,7.9,win
+2016,R3,9/4/2016,Sydney,14.9,3,Greater Western Sydney,10.8,win
+2016,R5,23/4/2016,Sydney,12.16,5,West Coast,7.7,win
+2016,R7,7/5/2016,Sydney,20.15,7,Essendon,7.12,win
+2016,SF,17/9/2016,Sydney,18.1,27,Adelaide,12.1,win
+2016,EF,8/9/2016,West Coast,7.1,25,Western Bulldogs,14.15,lost
+2016,R1,27/3/2016,West Coast,26.1,1,Brisbane Lions,15.12,win
+2016,R10,29/5/2016,West Coast,20.12,10,Gold Coast,7.13,win
+2016,R12,11/6/2016,West Coast,11.1,12,Adelaide,15.15,lost
+2016,R15,30/6/2016,West Coast,20.1,15,Essendon,7.1,win
+2016,R16,10/7/2016,West Coast,16.8,16,North Melbourne,11.6,win
+2016,R18,23/7/2016,West Coast,10.6,18,Melbourne,8.12,win
+2016,R22,19/8/2016,West Coast,13.14,22,Hawthorn,10.7,win
+2016,R3,9/4/2016,West Coast,12.2,3,Fremantle,8.11,win
+2016,R4,15/4/2016,West Coast,18.17,4,Richmond,9.3,win
+2016,R6,1/5/2016,West Coast,18.16,6,Collingwood,9.8,win
+2016,R8,15/5/2016,West Coast,20.12,8,St Kilda,3.11,win
+2016,R1,27/3/2016,Western Bulldogs,15.13,1,Fremantle,5.8,win
+2016,R11,5/6/2016,Western Bulldogs,12.11,11,West Coast,11.9,win
+2016,R13,18/6/2016,Western Bulldogs,5.13,13,Geelong,16.4,lost
+2016,R16,9/7/2016,Western Bulldogs,12.13,16,Richmond,11.9,win
+2016,R17,16/7/2016,Western Bulldogs,15.17,17,Gold Coast,8.11,win
+2016,R18,23/7/2016,Western Bulldogs,9.6,18,St Kilda,11.9,lost
+2016,R20,6/8/2016,Western Bulldogs,9.7,20,North Melbourne,7.5,win
+2016,R21,12/8/2016,Western Bulldogs,14.11,21,Collingwood,14.8,lost
+2016,R3,10/4/2016,Western Bulldogs,13.12,3,Hawthorn,14.9,lost
+2016,R5,23/4/2016,Western Bulldogs,17.18,5,Brisbane Lions,10.7,win
+2016,R7,7/5/2016,Western Bulldogs,18.15,7,Adelaide,17.6,win
+2017,GF,30/9/2017,Adelaide,8.12,29,Richmond,16.12,lost
+2017,PF,22/9/2017,Adelaide,21.1,28,Geelong,10.15,win
+2017,QF,7/9/2017,Adelaide,12.12,26,Greater Western Sydney,6.12,win
+2017,R1,26/3/2017,Adelaide,22.15,1,Greater Western Sydney,14.7,win
+2017,R10,27/5/2017,Adelaide,20.23,10,Fremantle,6.7,win
+2017,R12,9/6/2017,Adelaide,16.15,12,St Kilda,7.12,win
+2017,R14,22/6/2017,Adelaide,12.1,14,Hawthorn,14.12,lost
+2017,R16,7/7/2017,Adelaide,16.8,16,Western Bulldogs,5.15,win
+2017,R18,21/7/2017,Adelaide,13.13,18,Geelong,10.1,win
+2017,R20,6/8/2017,Adelaide,18.22,20,Port Adelaide,7.4,win
+2017,R22,18/8/2017,Adelaide,11.14,22,Sydney,13.5,lost
+2017,R4,15/4/2017,Adelaide,24.9,4,Essendon,13.1,win
+2017,R6,30/4/2017,Adelaide,21.14,6,Richmond,10.4,win
+2017,R8,13/5/2017,Adelaide,9.12,8,Melbourne,17.5,lost
+2017,R12,10/6/2017,Brisbane Lions,18.13,12,Fremantle,9.1,win
+2017,R14,24/6/2017,Brisbane Lions,12.14,14,Greater Western Sydney,22.14,lost
+2017,R16,8/7/2017,Brisbane Lions,11.12,16,Geelong,25.13,lost
+2017,R18,23/7/2017,Brisbane Lions,17.1,18,Carlton,11.16,win
+2017,R2,1/4/2017,Brisbane Lions,12.12,2,Essendon,17.9,lost
+2017,R20,5/8/2017,Brisbane Lions,13.11,20,Western Bulldogs,14.19,lost
+2017,R21,12/8/2017,Brisbane Lions,22.1,21,Gold Coast,12.12,win
+2017,R23,26/8/2017,Brisbane Lions,11.13,23,North Melbourne,19.16,lost
+2017,R4,16/4/2017,Brisbane Lions,10.7,4,Richmond,17.17,lost
+2017,R6,29/4/2017,Brisbane Lions,10.7,6,Port Adelaide,22.18,lost
+2017,R9,20/5/2017,Brisbane Lions,7.18,9,Adelaide,21.14,lost
+2017,R1,23/3/2017,Carlton,14.5,1,Richmond,20.12,lost
+2017,R10,28/5/2017,Carlton,15.6,10,North Melbourne,17.11,lost
+2017,R12,11/6/2017,Carlton,10.11,12,Greater Western Sydney,9.16,win
+2017,R15,1/7/2017,Carlton,12.5,15,Adelaide,13.11,lost
+2017,R16,9/7/2017,Carlton,12.1,16,Melbourne,14.6,lost
+2017,R17,16/7/2017,Carlton,9.8,17,Western Bulldogs,12.1,lost
+2017,R19,29/7/2017,Carlton,8.1,19,Geelong,18.15,lost
+2017,R22,19/8/2017,Carlton,12.5,22,Hawthorn,10.1,win
+2017,R3,9/4/2017,Carlton,7.15,3,Essendon,6.6,win
+2017,R4,15/4/2017,Carlton,12.1,4,Gold Coast,17.6,lost
+2017,R6,29/4/2017,Carlton,15.7,6,Sydney,11.12,win
+2017,R1,24/3/2017,Collingwood,12.14,1,Western Bulldogs,15.1,lost
+2017,R10,28/5/2017,Collingwood,18.21,10,Brisbane Lions,13.6,win
+2017,R14,24/6/2017,Collingwood,9.8,14,Port Adelaide,13.15,lost
+2017,R16,8/7/2017,Collingwood,12.8,16,Essendon,18.9,lost
+2017,R18,23/7/2017,Collingwood,13.15,18,West Coast,13.7,lost
+2017,R19,30/7/2017,Collingwood,15.13,19,Adelaide,16.7,lost
+2017,R22,19/8/2017,Collingwood,9.5,22,Geelong,10.1,lost
+2017,R23,26/8/2017,Collingwood,14.15,23,Melbourne,12.11,win
+2017,R4,16/4/2017,Collingwood,7.13,4,St Kilda,9.15,lost
+2017,R7,6/5/2017,Collingwood,8.8,7,Carlton,12.7,lost
+2017,R9,20/5/2017,Collingwood,13.12,9,Hawthorn,11.6,win
+2017,R1,25/3/2017,Essendon,17.14,1,Hawthorn,12.19,win
+2017,R12,10/6/2017,Essendon,19.17,12,Port Adelaide,8.13,win
+2017,R15,2/7/2017,Essendon,11.16,15,Brisbane Lions,13.12,lost
+2017,R18,22/7/2017,Essendon,20.12,18,North Melbourne,16.9,win
+2017,R20,5/8/2017,Essendon,11.18,20,Carlton,11.1,win
+2017,R21,12/8/2017,Essendon,12.8,21,Adelaide,18.15,lost
+2017,R23,27/8/2017,Essendon,16.11,23,Fremantle,14.8,win
+2017,R5,25/4/2017,Essendon,15.1,5,Collingwood,11.16,win
+2017,R6,30/4/2017,Essendon,10.14,6,Melbourne,17.1,lost
+2017,R8,13/5/2017,Essendon,17.8,8,Geelong,13.15,win
+2017,R9,21/5/2017,Essendon,19.11,9,West Coast,8.16,win
+2017,R1,26/3/2017,Fremantle,10.13,1,Geelong,18.7,lost
+2017,R11,4/6/2017,Fremantle,12.13,11,Collingwood,15.15,lost
+2017,R15,2/7/2017,Fremantle,12.8,15,St Kilda,12.17,win
+2017,R17,16/7/2017,Fremantle,5.14,17,West Coast,11.8,lost
+2017,R18,22/7/2017,Fremantle,7.6,18,Hawthorn,15.1,lost
+2017,R20,5/8/2017,Fremantle,12.18,20,Gold Coast,10.7,win
+2017,R22,20/8/2017,Fremantle,7.9,22,Richmond,25.5,lost
+2017,R3,8/4/2017,Fremantle,13.11,3,Western Bulldogs,10.13,win
+2017,R5,22/4/2017,Fremantle,9.13,5,North Melbourne,9.8,lost
+2017,R7,7/5/2017,Fremantle,17.14,7,Essendon,11.13,win
+2017,R9,21/5/2017,Fremantle,13.8,9,Carlton,7.9,win
+2017,QF,8/9/2017,Geelong,5.1,26,Richmond,13.13,lost
+2017,R10,25/5/2017,Geelong,11.15,10,Port Adelaide,11.13,win
+2017,R11,2/6/2017,Geelong,13.18,11,Adelaide,10.14,win
+2017,R14,25/6/2017,Geelong,10.14,14,Fremantle,11.6,lost
+2017,R17,15/7/2017,Geelong,13.1,17,Hawthorn,12.13,win
+2017,R2,2/4/2017,Geelong,17.1,2,North Melbourne,17.9,lost
+2017,R20,4/8/2017,Geelong,8.13,20,Sydney,16.11,lost
+2017,R21,12/8/2017,Geelong,11.14,21,Richmond,9.12,win
+2017,R23,26/8/2017,Geelong,15.13,23,Greater Western Sydney,8.11,win
+2017,R3,8/4/2017,Geelong,20.6,3,Melbourne,13.19,win
+2017,R6,30/4/2017,Geelong,11.12,6,Collingwood,15.17,lost
+2017,R9,19/5/2017,Geelong,16.8,9,Western Bulldogs,12.9,win
+2017,SF,15/9/2017,Geelong,15.8,27,Sydney,5.9,win
+2017,R1,25/3/2017,Gold Coast,14.12,1,Brisbane Lions,15.8,lost
+2017,R11,3/6/2017,Gold Coast,11.14,11,West Coast,11.11,win
+2017,R13,17/6/2017,Gold Coast,11.7,13,Carlton,12.11,lost
+2017,R15,1/7/2017,Gold Coast,18.1,15,North Melbourne,14.15,win
+2017,R17,15/7/2017,Gold Coast,13.1,17,Collingwood,15.13,lost
+2017,R19,29/7/2017,Gold Coast,10.5,19,Richmond,14.14,lost
+2017,R22,19/8/2017,Gold Coast,9.3,22,Essendon,12.18,lost
+2017,R3,9/4/2017,Gold Coast,21.13,3,Hawthorn,7.11,win
+2017,R5,22/4/2017,Gold Coast,13.8,5,Adelaide,23.15,lost
+2017,R7,6/5/2017,Gold Coast,18.16,7,Geelong,15.9,win
+2017,R8,14/5/2017,Gold Coast,4.14,8,Port Adelaide,16.14,lost
+2017,R11,3/6/2017,Greater Western Sydney,18.9,11,Essendon,15.11,win
+2017,R15,1/7/2017,Greater Western Sydney,10.8,15,Geelong,10.8,draw
+2017,R17,15/7/2017,Greater Western Sydney,12.11,17,Sydney,14.12,lost
+2017,R19,29/7/2017,Greater Western Sydney,13.2,19,Fremantle,13.8,lost
+2017,R2,1/4/2017,Greater Western Sydney,24.16,2,Gold Coast,8.1,win
+2017,R20,5/8/2017,Greater Western Sydney,14.13,20,Melbourne,10.2,win
+2017,R22,19/8/2017,Greater Western Sydney,12.9,22,West Coast,9.6,win
+2017,R4,15/4/2017,Greater Western Sydney,16.16,4,Port Adelaide,11.15,win
+2017,R6,28/4/2017,Greater Western Sydney,11.9,6,Western Bulldogs,9.19,win
+2017,R8,13/5/2017,Greater Western Sydney,15.12,8,Collingwood,15.9,lost
+2017,R9,20/5/2017,Greater Western Sydney,11.12,9,Richmond,10.15,win
+2017,SF,16/9/2017,Greater Western Sydney,19.11,27,West Coast,9.4,win
+2017,R12,10/6/2017,Hawthorn,12.7,12,Gold Coast,13.17,lost
+2017,R15,2/7/2017,Hawthorn,18.1,15,Collingwood,14.1,win
+2017,R16,8/7/2017,Hawthorn,14.13,16,Greater Western Sydney,15.7,lost
+2017,R19,28/7/2017,Hawthorn,10.12,19,Sydney,9.12,win
+2017,R2,1/4/2017,Hawthorn,13.11,2,Adelaide,16.17,lost
+2017,R21,13/8/2017,Hawthorn,18.8,21,North Melbourne,14.5,win
+2017,R23,25/8/2017,Hawthorn,15.9,23,Western Bulldogs,13.12,win
+2017,R4,17/4/2017,Hawthorn,6.12,4,Geelong,20.14,lost
+2017,R5,23/4/2017,Hawthorn,19.11,5,West Coast,11.9,win
+2017,R6,29/4/2017,Hawthorn,8.7,6,St Kilda,19.16,lost
+2017,R8,13/5/2017,Hawthorn,17.11,8,Brisbane Lions,11.9,win
+2017,R10,27/5/2017,Melbourne,18.14,10,Gold Coast,13.9,win
+2017,R12,12/6/2017,Melbourne,15.14,12,Collingwood,15.1,win
+2017,R15,30/6/2017,Melbourne,7.8,15,Sydney,11.19,lost
+2017,R17,15/7/2017,Melbourne,10.1,17,Adelaide,17.14,lost
+2017,R18,22/7/2017,Melbourne,13.1,18,Port Adelaide,9.11,win
+2017,R2,2/4/2017,Melbourne,13.8,2,Carlton,9.1,win
+2017,R21,13/8/2017,Melbourne,14.12,21,St Kilda,10.12,win
+2017,R22,20/8/2017,Melbourne,16.8,22,Brisbane Lions,14.7,win
+2017,R4,15/4/2017,Melbourne,15.14,4,Fremantle,16.1,lost
+2017,R7,7/5/2017,Melbourne,14.7,7,Hawthorn,14.1,win
+2017,R9,21/5/2017,Melbourne,13.12,9,North Melbourne,15.14,lost
+2017,R1,26/3/2017,North Melbourne,13.15,1,West Coast,21.1,lost
+2017,R11,3/6/2017,North Melbourne,9.12,11,Richmond,14.17,lost
+2017,R13,16/6/2017,North Melbourne,10.12,13,St Kilda,12.17,lost
+2017,R16,9/7/2017,North Melbourne,12.1,16,Fremantle,13.8,lost
+2017,R19,29/7/2017,North Melbourne,11.1,19,Melbourne,10.12,win
+2017,R20,5/8/2017,North Melbourne,7.15,20,Collingwood,16.15,lost
+2017,R3,8/4/2017,North Melbourne,10.7,3,Greater Western Sydney,15.19,lost
+2017,R4,14/4/2017,North Melbourne,12.14,4,Western Bulldogs,12.17,lost
+2017,R6,29/4/2017,North Melbourne,16.11,6,Gold Coast,14.1,win
+2017,R7,6/5/2017,North Melbourne,22.13,7,Adelaide,13.8,win
+2017,R8,14/5/2017,North Melbourne,11.12,8,Sydney,18.12,lost
+2017,EF,9/9/2017,Port Adelaide,8.12,25,West Coast,9.6,lost
+2017,R11,1/6/2017,Port Adelaide,13.2,11,Hawthorn,7.5,win
+2017,R13,17/6/2017,Port Adelaide,18.13,13,Brisbane Lions,12.9,win
+2017,R15,1/7/2017,Port Adelaide,8.15,15,Richmond,11.1,lost
+2017,R17,15/7/2017,Port Adelaide,19.13,17,North Melbourne,8.9,win
+2017,R19,29/7/2017,Port Adelaide,9.9,19,St Kilda,8.13,win
+2017,R2,2/4/2017,Port Adelaide,22.13,2,Fremantle,8.8,win
+2017,R21,13/8/2017,Port Adelaide,14.14,21,Collingwood,10.11,win
+2017,R23,26/8/2017,Port Adelaide,20.15,23,Gold Coast,3.2,win
+2017,R3,8/4/2017,Port Adelaide,12.11,3,Adelaide,15.1,lost
+2017,R5,21/4/2017,Port Adelaide,20.17,5,Carlton,6.11,win
+2017,R7,6/5/2017,Port Adelaide,12.15,7,West Coast,15.7,lost
+2017,PF,23/9/2017,Richmond,15.13,28,Greater Western Sydney,9.13,win
+2017,R10,27/5/2017,Richmond,11.15,10,Essendon,10.6,win
+2017,R13,17/6/2017,Richmond,10.11,13,Sydney,12.8,lost
+2017,R14,25/6/2017,Richmond,11.18,14,Carlton,8.1,win
+2017,R17,16/7/2017,Richmond,16.16,17,Brisbane Lions,12.9,win
+2017,R18,23/7/2017,Richmond,9.1,18,Greater Western Sydney,6.9,win
+2017,R2,30/3/2017,Richmond,14.15,2,Collingwood,11.14,win
+2017,R20,6/8/2017,Richmond,13.15,20,Hawthorn,9.1,win
+2017,R23,27/8/2017,Richmond,19.8,23,St Kilda,12.9,win
+2017,R3,8/4/2017,Richmond,11.1,3,West Coast,8.17,win
+2017,R5,24/4/2017,Richmond,12.16,5,Melbourne,11.9,win
+2017,R8,14/5/2017,Richmond,10.1,8,Fremantle,10.12,lost
+2017,R1,25/3/2017,St Kilda,13.12,1,Melbourne,18.12,lost
+2017,R14,25/6/2017,St Kilda,14.19,14,Gold Coast,10.12,win
+2017,R16,8/7/2017,St Kilda,21.12,16,Richmond,10.11,win
+2017,R17,14/7/2017,St Kilda,7.15,17,Essendon,17.16,lost
+2017,R20,6/8/2017,St Kilda,15.13,20,West Coast,14.11,win
+2017,R22,20/8/2017,St Kilda,18.19,22,North Melbourne,12.6,win
+2017,R3,9/4/2017,St Kilda,14.23,3,Brisbane Lions,11.1,win
+2017,R5,23/4/2017,St Kilda,13.1,5,Geelong,19.12,lost
+2017,R7,5/5/2017,St Kilda,16.12,7,Greater Western Sydney,12.13,win
+2017,R8,13/5/2017,St Kilda,12.13,8,Carlton,10.6,win
+2017,R9,20/5/2017,St Kilda,10.8,9,Sydney,18.1,lost
+2017,EF,9/9/2017,Sydney,19.7,25,Essendon,8.8,win
+2017,R1,25/3/2017,Sydney,12.1,1,Port Adelaide,17.8,lost
+2017,R10,26/5/2017,Sydney,11.9,10,Hawthorn,12.9,lost
+2017,R12,8/6/2017,Sydney,12.16,12,Western Bulldogs,6.6,win
+2017,R14,23/6/2017,Sydney,11.2,14,Essendon,12.13,lost
+2017,R16,8/7/2017,Sydney,17.16,16,Gold Coast,7.9,win
+2017,R18,22/7/2017,Sydney,14.17,18,St Kilda,9.5,win
+2017,R21,12/8/2017,Sydney,22.11,21,Fremantle,5.9,win
+2017,R23,26/8/2017,Sydney,21.12,23,Carlton,8.9,win
+2017,R3,7/4/2017,Sydney,11.13,3,Collingwood,11.14,lost
+2017,R5,22/4/2017,Sydney,9.9,5,Greater Western Sydney,15.15,lost
+2017,R7,7/5/2017,Sydney,20.15,7,Brisbane Lions,12.9,win
+2017,R10,28/5/2017,West Coast,14.6,10,Greater Western Sydney,14.14,win
+2017,R13,15/6/2017,West Coast,11.17,13,Geelong,10.1,win
+2017,R14,24/6/2017,West Coast,14.12,14,Melbourne,15.9,lost
+2017,R16,9/7/2017,West Coast,13.1,16,Port Adelaide,18.12,lost
+2017,R19,30/7/2017,West Coast,17.11,19,Brisbane Lions,6.9,win
+2017,R2,1/4/2017,West Coast,18.8,2,St Kilda,13.19,win
+2017,R21,12/8/2017,West Coast,15.1,21,Carlton,12.11,win
+2017,R23,27/8/2017,West Coast,15.1,23,Adelaide,10.11,win
+2017,R4,13/4/2017,West Coast,13.13,4,Sydney,10.5,win
+2017,R6,29/4/2017,West Coast,16.7,6,Fremantle,9.8,win
+2017,R8,12/5/2017,West Coast,9.15,8,Western Bulldogs,8.13,win
+2017,R10,27/5/2017,Western Bulldogs,13.12,10,St Kilda,7.8,win
+2017,R13,18/6/2017,Western Bulldogs,8.8,13,Melbourne,17.11,lost
+2017,R14,24/6/2017,Western Bulldogs,15.17,14,North Melbourne,16.1,lost
+2017,R15,1/7/2017,Western Bulldogs,11.14,15,West Coast,12.15,lost
+2017,R18,22/7/2017,Western Bulldogs,16.14,18,Gold Coast,8.8,win
+2017,R19,30/7/2017,Western Bulldogs,19.13,19,Essendon,13.19,win
+2017,R2,31/3/2017,Western Bulldogs,16.14,2,Sydney,13.9,win
+2017,R21,11/8/2017,Western Bulldogs,7.15,21,Greater Western Sydney,16.9,lost
+2017,R22,19/8/2017,Western Bulldogs,11.13,22,Port Adelaide,14.12,lost
+2017,R5,22/4/2017,Western Bulldogs,17.2,5,Brisbane Lions,14.6,win
+2017,R7,6/5/2017,Western Bulldogs,11.14,7,Richmond,11.9,lost
+2018,R11,3/6/2018,Adelaide,11.15,11,Greater Western Sydney,14.13,lost
+2018,R15,30/6/2018,Adelaide,12.16,15,West Coast,12.6,lost
+2018,R17,12/7/2018,Adelaide,16.16,17,Geelong,14.13,win
+2018,R19,28/7/2018,Adelaide,10.17,19,Melbourne,13.12,lost
+2018,R2,29/3/2018,Adelaide,18.1,2,Richmond,12.1,win
+2018,R20,4/8/2018,Adelaide,13.18,20,Port Adelaide,14.9,lost
+2018,R22,19/8/2018,Adelaide,12.14,22,North Melbourne,11.11,win
+2018,R4,13/4/2018,Adelaide,9.4,4,Collingwood,16.1,lost
+2018,R6,28/4/2018,Adelaide,16.14,6,Gold Coast,9.8,win
+2018,R7,5/5/2018,Adelaide,19.11,7,Carlton,10.1,win
+2018,R9,18/5/2018,Adelaide,9.9,9,Western Bulldogs,2.14,win
+2018,R10,26/5/2018,Brisbane Lions,6.13,10,Sydney,10.7,lost
+2018,R12,10/6/2018,Brisbane Lions,8.14,12,Essendon,12.12,lost
+2018,R14,23/6/2018,Brisbane Lions,12.1,14,Greater Western Sydney,16.13,lost
+2018,R16,7/7/2018,Brisbane Lions,18.12,16,Carlton,7.13,win
+2018,R18,21/7/2018,Brisbane Lions,13.1,18,Adelaide,13.15,lost
+2018,R2,31/3/2018,Brisbane Lions,10.14,2,Melbourne,14.16,lost
+2018,R20,4/8/2018,Brisbane Lions,16.8,20,North Melbourne,16.11,win
+2018,R23,26/8/2018,Brisbane Lions,11.6,23,West Coast,14.14,lost
+2018,R5,22/4/2018,Brisbane Lions,10.11,5,Gold Coast,11.1,lost
+2018,R7,6/5/2018,Brisbane Lions,18.6,7,Collingwood,19.7,lost
+2018,R9,20/5/2018,Brisbane Lions,20.9,9,Hawthorn,11.7,win
+2018,R13,16/6/2018,Carlton,6.1,13,Fremantle,15.13,lost
+2018,R15,30/6/2018,Carlton,10.9,15,Port Adelaide,13.12,lost
+2018,R18,22/7/2018,Carlton,7.1,18,Hawthorn,18.16,lost
+2018,R2,31/3/2018,Carlton,9.13,2,Gold Coast,15.11,lost
+2018,R20,5/8/2018,Carlton,7.4,20,Greater Western Sydney,23.13,lost
+2018,R22,19/8/2018,Carlton,7.7,22,Western Bulldogs,10.6,lost
+2018,R23,25/8/2018,Carlton,8.13,23,Adelaide,26.9,lost
+2018,R3,6/4/2018,Carlton,11.1,3,Collingwood,16.4,lost
+2018,R5,21/4/2018,Carlton,10.9,5,West Coast,10.19,win
+2018,R8,12/5/2018,Carlton,14.7,8,Essendon,10.18,win
+2018,R9,20/5/2018,Carlton,7.8,9,Melbourne,25.9,lost
+2018,R10,25/5/2018,Collingwood,13.12,10,Western Bulldogs,8.7,win
+2018,R11,3/6/2018,Collingwood,21.12,11,Fremantle,12.5,win
+2018,R14,24/6/2018,Collingwood,11.13,14,Carlton,9.5,win
+2018,R17,15/7/2018,Collingwood,9.13,17,West Coast,15.12,lost
+2018,R18,21/7/2018,Collingwood,20.1,18,North Melbourne,9.1,win
+2018,R2,31/3/2018,Collingwood,12.7,2,Greater Western Sydney,15.5,lost
+2018,R21,11/8/2018,Collingwood,14.2,21,Brisbane Lions,11.7,win
+2018,R22,18/8/2018,Collingwood,17.13,22,Port Adelaide,10.4,win
+2018,R5,25/4/2018,Collingwood,14.17,5,Essendon,7.1,win
+2018,R6,29/4/2018,Collingwood,10.1,6,Richmond,16.17,lost
+2018,R8,13/5/2018,Collingwood,5.15,8,Geelong,9.12,lost
+2018,SF,15/9/2018,Collingwood,9.15,27,Greater Western Sydney,9.5,lost
+2018,R1,23/3/2018,Essendon,14.15,1,Adelaide,12.15,win
+2018,R11,2/6/2018,Essendon,6.7,11,Richmond,17.12,lost
+2018,R15,1/7/2018,Essendon,19.11,15,North Melbourne,16.12,win
+2018,R16,8/7/2018,Essendon,9.8,16,Collingwood,12.6,lost
+2018,R18,21/7/2018,Essendon,13.21,18,Fremantle,11.4,win
+2018,R19,27/7/2018,Essendon,15.19,19,Sydney,10.6,win
+2018,R21,10/8/2018,Essendon,18.14,21,St Kilda,11.13,win
+2018,R4,15/4/2018,Essendon,16.1,4,Port Adelaide,12.12,win
+2018,R6,29/4/2018,Essendon,10.12,6,Melbourne,16.12,lost
+2018,R7,5/5/2018,Essendon,10.7,7,Hawthorn,13.12,lost
+2018,R9,19/5/2018,Essendon,12.12,9,Geelong,7.8,win
+2018,R10,27/5/2018,Fremantle,8.1,10,North Melbourne,12.14,lost
+2018,R12,10/6/2018,Fremantle,10.11,12,Adelaide,9.14,win
+2018,R15,1/7/2018,Fremantle,9.1,15,Brisbane Lions,18.11,lost
+2018,R17,15/7/2018,Fremantle,8.11,17,Port Adelaide,7.8,win
+2018,R19,29/7/2018,Fremantle,7.11,19,Hawthorn,17.1,lost
+2018,R2,31/3/2018,Fremantle,16.1,2,Essendon,14.6,win
+2018,R21,12/8/2018,Fremantle,15.11,21,Carlton,10.12,win
+2018,R23,25/8/2018,Fremantle,9.13,23,Collingwood,11.1,lost
+2018,R5,21/4/2018,Fremantle,16.12,5,Western Bulldogs,8.6,win
+2018,R6,29/4/2018,Fremantle,12.9,6,West Coast,13.11,lost
+2018,R8,12/5/2018,Fremantle,13.11,8,St Kilda,8.11,win
+2018,R10,26/5/2018,Geelong,11.7,10,Carlton,5.15,win
+2018,R12,9/6/2018,Geelong,14.12,12,North Melbourne,8.11,win
+2018,R13,17/6/2018,Geelong,9.11,13,Richmond,12.11,lost
+2018,R18,21/7/2018,Geelong,16.4,18,Melbourne,14.14,win
+2018,R19,28/7/2018,Geelong,18.12,19,Brisbane Lions,11.12,win
+2018,R2,2/4/2018,Geelong,18.9,2,Hawthorn,17.16,win
+2018,R22,18/8/2018,Geelong,24.14,22,Fremantle,3.7,win
+2018,R23,25/8/2018,Geelong,22.1,23,Gold Coast,5.1,win
+2018,R4,15/4/2018,Geelong,15.13,4,St Kilda,7.14,win
+2018,R6,28/4/2018,Geelong,10.9,6,Sydney,12.14,lost
+2018,R7,4/5/2018,Geelong,14.9,7,Greater Western Sydney,4.8,win
+2018,R1,24/3/2018,Gold Coast,7.13,1,North Melbourne,5.9,win
+2018,R11,2/6/2018,Gold Coast,4.12,11,Geelong,17.19,lost
+2018,R13,16/6/2018,Gold Coast,11.12,13,St Kilda,11.14,lost
+2018,R15,30/6/2018,Gold Coast,8.12,15,Collingwood,14.15,lost
+2018,R17,14/7/2018,Gold Coast,6.15,17,Essendon,13.17,lost
+2018,R19,28/7/2018,Gold Coast,5.14,19,Carlton,12.7,lost
+2018,R21,11/8/2018,Gold Coast,7.9,21,Richmond,19.11,lost
+2018,R22,18/8/2018,Gold Coast,11.8,22,Brisbane Lions,10.18,win
+2018,R3,7/4/2018,Gold Coast,10.8,3,Fremantle,13.18,lost
+2018,R8,12/5/2018,Gold Coast,11.11,8,Melbourne,21.2,lost
+2018,R9,19/5/2018,Gold Coast,6.6,9,Port Adelaide,11.16,lost
+2018,R1,25/3/2018,Greater Western Sydney,20.13,1,Western Bulldogs,7.9,win
+2018,R10,26/5/2018,Greater Western Sydney,8.12,10,Essendon,14.11,lost
+2018,R12,9/6/2018,Greater Western Sydney,20.14,12,Gold Coast,4.2,win
+2018,R15,30/6/2018,Greater Western Sydney,13.17,15,Hawthorn,13.6,lost
+2018,R17,14/7/2018,Greater Western Sydney,11.13,17,Richmond,10.17,win
+2018,R19,28/7/2018,Greater Western Sydney,13.8,19,St Kilda,8.13,win
+2018,R21,11/8/2018,Greater Western Sydney,15.16,21,Adelaide,13.14,win
+2018,R22,18/8/2018,Greater Western Sydney,8.12,22,Sydney,11.14,lost
+2018,R4,14/4/2018,Greater Western Sydney,11.16,4,Fremantle,7.9,win
+2018,R6,28/4/2018,Greater Western Sydney,10.17,6,Brisbane Lions,5.13,win
+2018,R8,12/5/2018,Greater Western Sydney,8.13,8,West Coast,12.14,lost
+2018,R1,24/3/2018,Hawthorn,15.11,1,Collingwood,9.13,win
+2018,R10,27/5/2018,Hawthorn,9.6,10,West Coast,11.9,lost
+2018,R11,2/6/2018,Hawthorn,9.1,11,Port Adelaide,9.7,lost
+2018,R13,16/6/2018,Hawthorn,12.16,13,Adelaide,4.8,win
+2018,R14,23/6/2018,Hawthorn,13.18,14,Gold Coast,5.13,win
+2018,R17,14/7/2018,Hawthorn,9.11,17,Brisbane Lions,15.8,lost
+2018,R20,4/8/2018,Hawthorn,16.11,20,Essendon,16.7,lost
+2018,R21,11/8/2018,Hawthorn,10.11,21,Geelong,8.12,win
+2018,R4,15/4/2018,Hawthorn,18.7,4,Melbourne,6.12,win
+2018,R6,28/4/2018,Hawthorn,13.11,6,St Kilda,7.12,win
+2018,R8,11/5/2018,Hawthorn,10.11,8,Sydney,12.7,lost
+2018,SF,14/9/2018,Hawthorn,10.11,27,Melbourne,16.8,lost
+2018,EF,7/9/2018,Melbourne,10.15,25,Geelong,6.1,win
+2018,R1,25/3/2018,Melbourne,13.16,1,Geelong,14.13,lost
+2018,R10,27/5/2018,Melbourne,23.8,10,Adelaide,8.7,win
+2018,R12,11/6/2018,Melbourne,14.7,12,Collingwood,20.13,lost
+2018,R15,1/7/2018,Melbourne,18.9,15,St Kilda,18.11,win
+2018,R16,7/7/2018,Melbourne,13.24,16,Fremantle,7.6,win
+2018,R17,14/7/2018,Melbourne,18.11,17,Western Bulldogs,10.9,win
+2018,R20,5/8/2018,Melbourne,21.17,20,Gold Coast,7.5,win
+2018,R21,12/8/2018,Melbourne,10.18,21,Sydney,13.9,lost
+2018,R23,26/8/2018,Melbourne,15.12,23,Greater Western Sydney,8.9,win
+2018,R3,7/4/2018,Melbourne,18.15,3,North Melbourne,13.8,win
+2018,R5,24/4/2018,Melbourne,8.8,5,Richmond,15.12,lost
+2018,R11,3/6/2018,North Melbourne,21.15,11,Brisbane Lions,12.15,win
+2018,R16,8/7/2018,North Melbourne,14.11,16,Gold Coast,8.1,win
+2018,R17,15/7/2018,North Melbourne,15.8,17,Sydney,16.8,lost
+2018,R19,29/7/2018,North Melbourne,12.9,19,West Coast,6.5,win
+2018,R2,30/3/2018,North Melbourne,13.17,2,St Kilda,5.13,win
+2018,R21,12/8/2018,North Melbourne,12.13,21,Western Bulldogs,13.14,lost
+2018,R4,14/4/2018,North Melbourne,18.8,4,Carlton,4.6,win
+2018,R5,22/4/2018,North Melbourne,14.14,5,Hawthorn,11.4,win
+2018,R6,28/4/2018,North Melbourne,10.9,6,Port Adelaide,15.12,lost
+2018,R8,13/5/2018,North Melbourne,11.6,8,Richmond,12.1,lost
+2018,R9,19/5/2018,North Melbourne,17.1,9,Greater Western Sydney,9.15,win
+2018,R1,24/3/2018,Port Adelaide,16.14,1,Fremantle,9.6,win
+2018,R12,8/6/2018,Port Adelaide,10.12,12,Richmond,8.1,win
+2018,R13,14/6/2018,Port Adelaide,20.12,13,Western Bulldogs,11.9,win
+2018,R14,22/6/2018,Port Adelaide,11.9,14,Melbourne,9.11,win
+2018,R16,7/7/2018,Port Adelaide,12.14,16,St Kilda,7.8,win
+2018,R18,22/7/2018,Port Adelaide,8.1,18,Greater Western Sydney,11.14,lost
+2018,R21,11/8/2018,Port Adelaide,9.4,21,West Coast,9.8,lost
+2018,R23,24/8/2018,Port Adelaide,13.11,23,Essendon,17.9,lost
+2018,R3,7/4/2018,Port Adelaide,14.13,3,Brisbane Lions,14.8,lost
+2018,R5,21/4/2018,Port Adelaide,7.8,5,Geelong,12.12,lost
+2018,R8,12/5/2018,Port Adelaide,14.11,8,Adelaide,14.6,lost
+2018,PF,21/9/2018,Richmond,8.1,28,Collingwood,15.7,lost
+2018,QF,6/9/2018,Richmond,13.17,26,Hawthorn,9.1,win
+2018,R1,22/3/2018,Richmond,17.19,1,Carlton,15.5,win
+2018,R10,26/5/2018,Richmond,15.15,10,St Kilda,12.5,win
+2018,R15,28/6/2018,Richmond,14.9,15,Sydney,11.1,win
+2018,R16,6/7/2018,Richmond,15.13,16,Adelaide,8.8,win
+2018,R19,28/7/2018,Richmond,16.9,19,Collingwood,12.5,win
+2018,R20,3/8/2018,Richmond,12.13,20,Geelong,12.1,win
+2018,R22,17/8/2018,Richmond,12.9,22,Essendon,11.7,win
+2018,R23,25/8/2018,Richmond,15.8,23,Western Bulldogs,14.11,win
+2018,R3,8/4/2018,Richmond,15.12,3,Hawthorn,13.11,win
+2018,R4,14/4/2018,Richmond,16.14,4,Brisbane Lions,2.5,win
+2018,R7,6/5/2018,Richmond,15.2,7,Fremantle,4.9,win
+2018,R1,24/3/2018,St Kilda,16.11,1,Brisbane Lions,12.1,win
+2018,R12,9/6/2018,St Kilda,7.13,12,Sydney,19.12,lost
+2018,R17,13/7/2018,St Kilda,16.2,17,Carlton,7.1,win
+2018,R18,20/7/2018,St Kilda,8.9,18,Richmond,16.15,lost
+2018,R20,4/8/2018,St Kilda,9.14,20,Western Bulldogs,15.13,lost
+2018,R22,18/8/2018,St Kilda,11.1,22,Hawthorn,12.8,lost
+2018,R23,26/8/2018,St Kilda,14.1,23,North Melbourne,17.15,lost
+2018,R3,7/4/2018,St Kilda,7.13,3,Adelaide,15.14,lost
+2018,R5,21/4/2018,St Kilda,10.13,5,Greater Western Sydney,9.19,win
+2018,R7,6/5/2018,St Kilda,9.13,7,Melbourne,16.1,lost
+2018,R9,19/5/2018,St Kilda,10.12,9,Collingwood,15.1,lost
+2018,EF,8/9/2018,Sydney,4.6,25,Greater Western Sydney,10.19,lost
+2018,R11,1/6/2018,Sydney,13.13,11,Carlton,9.7,win
+2018,R13,15/6/2018,Sydney,10.12,13,West Coast,7.15,win
+2018,R16,5/7/2018,Sydney,9.5,16,Geelong,8.23,win
+2018,R18,21/7/2018,Sydney,8.16,18,Gold Coast,12.16,lost
+2018,R2,1/4/2018,Sydney,10.11,2,Port Adelaide,14.1,lost
+2018,R20,4/8/2018,Sydney,11.7,20,Collingwood,10.11,win
+2018,R23,25/8/2018,Sydney,10.14,23,Hawthorn,12.11,lost
+2018,R3,7/4/2018,Sydney,16.7,3,Greater Western Sydney,12.15,win
+2018,R5,20/4/2018,Sydney,10.15,5,Adelaide,12.13,lost
+2018,R7,5/5/2018,Sydney,9.12,7,North Melbourne,9.14,lost
+2018,R9,19/5/2018,Sydney,17.9,9,Fremantle,7.1,win
+2018,GF,29/9/2018,West Coast,11.13,29,Collingwood,11.8,lost
+2018,PF,22/9/2018,West Coast,18.13,28,Melbourne,7.13,win
+2018,QF,8/9/2018,West Coast,12.14,26,Collingwood,10.1,win
+2018,R1,25/3/2018,West Coast,13.8,1,Sydney,18.7,lost
+2018,R11,2/6/2018,West Coast,16.5,11,St Kilda,14.4,win
+2018,R14,21/6/2018,West Coast,6.16,14,Essendon,12.8,lost
+2018,R16,8/7/2018,West Coast,13.8,16,Greater Western Sydney,10.15,win
+2018,R18,22/7/2018,West Coast,14.16,18,Western Bulldogs,6.1,win
+2018,R20,5/8/2018,West Coast,21.16,20,Fremantle,13.6,win
+2018,R22,19/8/2018,West Coast,14.7,22,Melbourne,16.12,lost
+2018,R3,8/4/2018,West Coast,14.11,3,Geelong,11.14,win
+2018,R4,14/4/2018,West Coast,21.13,4,Gold Coast,9.5,win
+2018,R7,5/5/2018,West Coast,16.6,7,Port Adelaide,9.6,win
+2018,R9,20/5/2018,West Coast,20.1,9,Richmond,12.11,win
+2018,R11,2/6/2018,Western Bulldogs,7.9,11,Melbourne,15.1,lost
+2018,R14,23/6/2018,Western Bulldogs,11.9,14,North Melbourne,12.5,lost
+2018,R15,29/6/2018,Western Bulldogs,16.7,15,Geelong,15.11,win
+2018,R16,7/7/2018,Western Bulldogs,9.5,16,Hawthorn,19.8,lost
+2018,R19,29/7/2018,Western Bulldogs,5.4,19,Port Adelaide,11.12,lost
+2018,R2,1/4/2018,Western Bulldogs,9.16,2,West Coast,18.13,lost
+2018,R3,8/4/2018,Western Bulldogs,14.2,3,Essendon,12.11,win
+2018,R4,14/4/2018,Western Bulldogs,11.13,4,Sydney,13.8,lost
+2018,R6,27/4/2018,Western Bulldogs,11.14,6,Carlton,8.11,win
+2018,R7,5/5/2018,Western Bulldogs,11.15,7,Gold Coast,10.12,win
+2018,R8,12/5/2018,Western Bulldogs,16.11,8,Brisbane Lions,14.9,win
+2019,R1,23/3/2019,Adelaide,7.13,1,Hawthorn,12.15,lost
+2019,R10,25/5/2019,Adelaide,10.13,10,West Coast,13.7,lost
+2019,R12,8/6/2019,Adelaide,12.1,12,Greater Western Sydney,9.7,win
+2019,R13,13/6/2019,Adelaide,15.11,13,Richmond,9.14,win
+2019,R16,6/7/2019,Adelaide,5.14,16,Port Adelaide,15.11,lost
+2019,R18,19/7/2019,Adelaide,10.15,18,Essendon,15.6,lost
+2019,R20,3/8/2019,Adelaide,14.8,20,St Kilda,10.1,win
+2019,R22,17/8/2019,Adelaide,6.12,22,Collingwood,17.12,lost
+2019,R3,4/4/2019,Adelaide,10.15,3,Geelong,14.15,lost
+2019,R5,21/4/2019,Adelaide,18.11,5,Gold Coast,6.1,win
+2019,R7,5/5/2019,Adelaide,7.9,7,Fremantle,5.4,win
+2019,QF,7/9/2019,Brisbane Lions,8.17,26,Richmond,18.4,lost
+2019,R1,23/3/2019,Brisbane Lions,15.12,1,West Coast,8.1,win
+2019,R11,1/6/2019,Brisbane Lions,12.13,11,Hawthorn,10.6,win
+2019,R15,30/6/2019,Brisbane Lions,15.17,15,Melbourne,11.8,win
+2019,R18,20/7/2019,Brisbane Lions,12.15,18,North Melbourne,12.3,lost
+2019,R20,4/8/2019,Brisbane Lions,14.14,20,Western Bulldogs,11.14,win
+2019,R21,10/8/2019,Brisbane Lions,22.12,21,Gold Coast,8.5,win
+2019,R22,17/8/2019,Brisbane Lions,10.15,22,Geelong,10.14,win
+2019,R3,6/4/2019,Brisbane Lions,16.11,3,Port Adelaide,13.12,win
+2019,R5,18/4/2019,Brisbane Lions,8.13,5,Collingwood,18.15,lost
+2019,R7,4/5/2019,Brisbane Lions,14.19,7,Sydney,12.9,win
+2019,R9,18/5/2019,Brisbane Lions,13.15,9,Adelaide,13.14,win
+2019,SF,14/9/2019,Brisbane Lions,11.14,27,Greater Western Sydney,12.11,lost
+2019,R1,21/3/2019,Carlton,9.1,1,Richmond,14.13,lost
+2019,R12,8/6/2019,Carlton,11.12,12,Brisbane Lions,9.9,win
+2019,R13,15/6/2019,Carlton,15.1,13,Western Bulldogs,15.13,lost
+2019,R16,7/7/2019,Carlton,15.1,16,Melbourne,15.15,lost
+2019,R18,20/7/2019,Carlton,15.9,18,Gold Coast,11.9,win
+2019,R19,27/7/2019,Carlton,13.9,19,Adelaide,9.6,win
+2019,R20,4/8/2019,Carlton,11.9,20,West Coast,15.9,lost
+2019,R22,17/8/2019,Carlton,11.12,22,St Kilda,10.8,win
+2019,R3,6/4/2019,Carlton,10.14,3,Sydney,14.9,lost
+2019,R7,5/5/2019,Carlton,8.14,7,North Melbourne,18.12,lost
+2019,R8,11/5/2019,Carlton,13.9,8,Collingwood,16.1,lost
+2019,PF,21/9/2019,Collingwood,7.1,28,Greater Western Sydney,8.8,lost
+2019,R1,22/3/2019,Collingwood,9.11,1,Geelong,10.12,lost
+2019,R11,1/6/2019,Collingwood,11.9,11,Fremantle,11.13,win
+2019,R12,10/6/2019,Collingwood,15.8,12,Melbourne,7.15,win
+2019,R15,29/6/2019,Collingwood,5.7,15,North Melbourne,11.15,lost
+2019,R19,26/7/2019,Collingwood,9.12,19,Richmond,14.14,lost
+2019,R20,4/8/2019,Collingwood,18.12,20,Gold Coast,8.3,win
+2019,R23,23/8/2019,Collingwood,10.16,23,Essendon,10.5,lost
+2019,R3,6/4/2019,Collingwood,11.1,3,West Coast,15.8,lost
+2019,R4,12/4/2019,Collingwood,11.12,4,Western Bulldogs,9.1,win
+2019,R7,3/5/2019,Collingwood,15.18,7,Port Adelaide,10.9,win
+2019,R9,18/5/2019,Collingwood,17.1,9,St Kilda,10.11,win
+2019,R11,2/6/2019,Essendon,11.8,11,Carlton,4.9,win
+2019,R13,14/6/2019,Essendon,14.12,13,Hawthorn,11.11,win
+2019,R15,27/6/2019,Essendon,12.5,15,Greater Western Sydney,10.11,win
+2019,R16,6/7/2019,Essendon,11.1,16,Sydney,9.12,win
+2019,R17,13/7/2019,Essendon,12.14,17,North Melbourne,12.9,lost
+2019,R2,30/3/2019,Essendon,9.11,2,St Kilda,10.16,lost
+2019,R20,3/8/2019,Essendon,9.13,20,Port Adelaide,19.12,lost
+2019,R21,10/8/2019,Essendon,4.9,21,Western Bulldogs,21.11,lost
+2019,R4,13/4/2019,Essendon,17.1,4,Brisbane Lions,9.11,win
+2019,R6,25/4/2019,Essendon,10.9,6,Collingwood,10.13,win
+2019,R9,18/5/2019,Essendon,8.12,9,Fremantle,7.11,win
+2019,R1,24/3/2019,Fremantle,21.15,1,North Melbourne,9.5,win
+2019,R10,26/5/2019,Fremantle,10.13,10,Brisbane Lions,10.12,win
+2019,R13,15/6/2019,Fremantle,15.1,13,Port Adelaide,12.7,win
+2019,R15,30/6/2019,Fremantle,11.9,15,Carlton,11.13,win
+2019,R16,6/7/2019,Fremantle,2.19,16,West Coast,19.8,lost
+2019,R18,20/7/2019,Fremantle,7.1,18,Sydney,7.9,lost
+2019,R20,3/8/2019,Fremantle,14.11,20,Geelong,9.7,win
+2019,R22,17/8/2019,Fremantle,7.13,22,Essendon,13.9,lost
+2019,R3,7/4/2019,Fremantle,11.5,3,St Kilda,9.12,win
+2019,R6,27/4/2019,Fremantle,13.1,6,Western Bulldogs,9.15,win
+2019,R8,12/5/2019,Fremantle,12.14,8,Richmond,17.9,lost
+2019,QF,6/9/2019,Geelong,7.9,26,Collingwood,9.7,lost
+2019,R11,1/6/2019,Geelong,13.7,11,Sydney,8.15,win
+2019,R15,28/6/2019,Geelong,14.12,15,Adelaide,10.9,win
+2019,R17,13/7/2019,Geelong,12.12,17,St Kilda,8.9,win
+2019,R18,21/7/2019,Geelong,8.13,18,Hawthorn,12.13,lost
+2019,R2,30/3/2019,Geelong,20.6,2,Melbourne,6.1,win
+2019,R21,10/8/2019,Geelong,9.15,21,North Melbourne,1.8,win
+2019,R23,24/8/2019,Geelong,19.15,23,Carlton,8.13,win
+2019,R4,13/4/2019,Geelong,11.9,4,Greater Western Sydney,11.13,win
+2019,R6,28/4/2019,Geelong,15.14,6,West Coast,7.4,win
+2019,R7,5/5/2019,Geelong,13.8,7,Essendon,7.12,win
+2019,R9,18/5/2019,Geelong,21.7,9,Western Bulldogs,13.11,win
+2019,SF,13/9/2019,Geelong,13.1,27,West Coast,10.8,win
+2019,R10,25/5/2019,Gold Coast,9.1,10,Geelong,13.13,lost
+2019,R12,8/6/2019,Gold Coast,11.6,12,North Melbourne,14.15,lost
+2019,R13,15/6/2019,Gold Coast,11.1,13,St Kilda,11.14,lost
+2019,R16,6/7/2019,Gold Coast,9.4,16,Richmond,23.12,lost
+2019,R17,13/7/2019,Gold Coast,8.8,17,Adelaide,23.13,lost
+2019,R19,28/7/2019,Gold Coast,15.6,19,Essendon,16.1,lost
+2019,R2,31/3/2019,Gold Coast,7.19,2,Fremantle,8.1,lost
+2019,R23,24/8/2019,Gold Coast,7.13,23,Greater Western Sydney,20.7,lost
+2019,R4,14/4/2019,Gold Coast,8.11,4,Carlton,8.9,lost
+2019,R6,27/4/2019,Gold Coast,9.8,6,Brisbane Lions,16.15,lost
+2019,R8,11/5/2019,Gold Coast,9.6,8,Melbourne,8.13,win
+2019,EF,7/9/2019,Greater Western Sydney,16.17,25,Western Bulldogs,8.7,win
+2019,R1,24/3/2019,Greater Western Sydney,16.16,1,Essendon,5.1,win
+2019,R11,1/6/2019,Greater Western Sydney,19.12,11,Gold Coast,6.7,win
+2019,R16,7/7/2019,Greater Western Sydney,11.8,16,Brisbane Lions,14.1,lost
+2019,R18,20/7/2019,Greater Western Sydney,19.8,18,Collingwood,11.9,win
+2019,R20,3/8/2019,Greater Western Sydney,12.11,20,Sydney,12.9,lost
+2019,R21,9/8/2019,Greater Western Sydney,4.5,21,Hawthorn,13.7,lost
+2019,R22,18/8/2019,Greater Western Sydney,9.11,22,Western Bulldogs,19.12,lost
+2019,R3,6/4/2019,Greater Western Sydney,19.11,3,Richmond,10.16,win
+2019,R5,20/4/2019,Greater Western Sydney,11.16,5,Fremantle,16.1,lost
+2019,R7,4/5/2019,Greater Western Sydney,18.6,7,St Kilda,10.1,win
+2019,R9,19/5/2019,Greater Western Sydney,20.18,9,Carlton,7.3,win
+2019,R10,25/5/2019,Hawthorn,12.8,10,Port Adelaide,6.13,win
+2019,R15,29/6/2019,Hawthorn,9.17,15,West Coast,11.11,lost
+2019,R16,5/7/2019,Hawthorn,9.13,16,Collingwood,9.9,lost
+2019,R17,13/7/2019,Hawthorn,12.12,17,Fremantle,8.5,win
+2019,R19,27/7/2019,Hawthorn,7.18,19,Brisbane Lions,13.9,lost
+2019,R2,31/3/2019,Hawthorn,13.9,2,Western Bulldogs,16.1,lost
+2019,R22,18/8/2019,Hawthorn,18.1,22,Gold Coast,7.6,win
+2019,R3,7/4/2019,Hawthorn,13.9,3,North Melbourne,10.11,win
+2019,R5,22/4/2019,Hawthorn,13.12,5,Geelong,17.11,lost
+2019,R6,28/4/2019,Hawthorn,13.15,6,Carlton,13.1,win
+2019,R8,12/5/2019,Hawthorn,10.11,8,Greater Western Sydney,5.8,win
+2019,R1,23/3/2019,Melbourne,9.7,1,Port Adelaide,12.15,lost
+2019,R10,26/5/2019,Melbourne,10.8,10,Greater Western Sydney,14.1,lost
+2019,R11,1/6/2019,Melbourne,12.16,11,Adelaide,14.6,lost
+2019,R14,22/6/2019,Melbourne,13.7,14,Fremantle,11.5,win
+2019,R18,21/7/2019,Melbourne,11.12,18,West Coast,14.7,lost
+2019,R20,3/8/2019,Melbourne,9.6,20,Richmond,13.15,lost
+2019,R21,10/8/2019,Melbourne,7.11,21,Collingwood,10.1,lost
+2019,R22,16/8/2019,Melbourne,5.12,22,Sydney,15.5,lost
+2019,R3,5/4/2019,Melbourne,18.4,3,Essendon,20.1,lost
+2019,R5,20/4/2019,Melbourne,7.13,5,St Kilda,15.5,lost
+2019,R7,4/5/2019,Melbourne,11.13,7,Hawthorn,11.8,lost
+2019,R11,31/5/2019,North Melbourne,15.9,11,Richmond,9.8,win
+2019,R13,16/6/2019,North Melbourne,10.8,13,Greater Western Sydney,14.7,lost
+2019,R16,7/7/2019,North Melbourne,17.1,16,St Kilda,11.7,win
+2019,R2,31/3/2019,North Melbourne,13.9,2,Brisbane Lions,16.11,lost
+2019,R20,2/8/2019,North Melbourne,12.14,20,Hawthorn,9.1,win
+2019,R22,17/8/2019,North Melbourne,22.12,22,Port Adelaide,8.1,win
+2019,R23,24/8/2019,North Melbourne,13.1,23,Melbourne,12.11,win
+2019,R4,13/4/2019,North Melbourne,9.17,4,Adelaide,8.11,win
+2019,R5,19/4/2019,North Melbourne,7.16,5,Essendon,17.14,lost
+2019,R8,12/5/2019,North Melbourne,11.14,8,Geelong,16.8,lost
+2019,R9,18/5/2019,North Melbourne,10.12,9,Sydney,11.11,lost
+2019,R14,22/6/2019,Port Adelaide,9.13,14,Geelong,8.8,win
+2019,R15,29/6/2019,Port Adelaide,5.11,15,Western Bulldogs,10.6,lost
+2019,R17,14/7/2019,Port Adelaide,6.13,17,Brisbane Lions,14.13,lost
+2019,R19,27/7/2019,Port Adelaide,7.13,19,Greater Western Sydney,8.8,lost
+2019,R2,30/3/2019,Port Adelaide,13.1,2,Carlton,11.6,win
+2019,R21,10/8/2019,Port Adelaide,15.13,21,Sydney,7.14,win
+2019,R23,25/8/2019,Port Adelaide,15.2,23,Fremantle,10.7,win
+2019,R4,13/4/2019,Port Adelaide,14.8,4,Richmond,15.9,lost
+2019,R6,26/4/2019,Port Adelaide,12.16,6,North Melbourne,11.6,win
+2019,R8,11/5/2019,Port Adelaide,9.14,8,Adelaide,13.1,lost
+2019,R9,19/5/2019,Port Adelaide,13.11,9,Gold Coast,7.9,win
+2019,GF,28/9/2019,Richmond,17.12,29,Greater Western Sydney,3.7,win
+2019,PF,20/9/2019,Richmond,12.13,28,Geelong,9.12,win
+2019,R10,25/5/2019,Richmond,10.13,10,Essendon,6.14,win
+2019,R12,7/6/2019,Richmond,5.7,12,Geelong,16.8,lost
+2019,R17,14/7/2019,Richmond,13.16,17,Greater Western Sydney,9.13,win
+2019,R18,20/7/2019,Richmond,15.11,18,Port Adelaide,9.9,win
+2019,R2,28/3/2019,Richmond,10.6,2,Collingwood,17.8,lost
+2019,R21,11/8/2019,Richmond,11.7,21,Carlton,6.9,win
+2019,R22,18/8/2019,Richmond,13.1,22,West Coast,13.4,lost
+2019,R23,25/8/2019,Richmond,12.1,23,Brisbane Lions,8.7,win
+2019,R5,20/4/2019,Richmond,13.11,5,Sydney,10.7,win
+2019,R6,24/4/2019,Richmond,12.13,6,Melbourne,6.6,win
+2019,R9,19/5/2019,Richmond,14.11,9,Hawthorn,8.11,win
+2019,R1,24/3/2019,St Kilda,13.7,1,Gold Coast,13.6,win
+2019,R10,26/5/2019,St Kilda,9.14,10,Carlton,8.7,win
+2019,R11,2/6/2019,St Kilda,9.15,11,Port Adelaide,22.7,lost
+2019,R14,22/6/2019,St Kilda,8.11,14,Brisbane Lions,17.13,lost
+2019,R15,30/6/2019,St Kilda,10.1,15,Richmond,16.7,lost
+2019,R18,21/7/2019,St Kilda,17.14,18,Western Bulldogs,14.5,win
+2019,R19,27/7/2019,St Kilda,15.14,19,Melbourne,13.7,win
+2019,R21,11/8/2019,St Kilda,10.12,21,Fremantle,10.9,lost
+2019,R4,14/4/2019,St Kilda,10.14,4,Hawthorn,10.9,lost
+2019,R6,27/4/2019,St Kilda,10.8,6,Adelaide,15.7,lost
+2019,R8,11/5/2019,St Kilda,10.1,8,West Coast,12.16,lost
+2019,R10,24/5/2019,Sydney,11.7,10,Collingwood,11.14,win
+2019,R12,9/6/2019,Sydney,18.8,12,West Coast,10.11,win
+2019,R14,21/6/2019,Sydney,12.1,14,Hawthorn,9.9,win
+2019,R15,29/6/2019,Sydney,14.9,15,Gold Coast,7.9,win
+2019,R17,13/7/2019,Sydney,8.14,17,Carlton,9.15,lost
+2019,R19,28/7/2019,Sydney,12.8,19,Geelong,16.11,lost
+2019,R2,29/3/2019,Sydney,8.14,2,Adelaide,12.16,lost
+2019,R23,24/8/2019,Sydney,17.7,23,St Kilda,8.16,win
+2019,R4,11/4/2019,Sydney,11.12,4,Melbourne,15.1,lost
+2019,R6,27/4/2019,Sydney,12.7,6,Greater Western Sydney,18.12,lost
+2019,R8,10/5/2019,Sydney,11.11,8,Essendon,10.12,win
+2019,EF,5/9/2019,West Coast,17.14,25,Essendon,9.7,win
+2019,R11,2/6/2019,West Coast,21.7,11,Western Bulldogs,10.12,win
+2019,R14,20/6/2019,West Coast,14.22,14,Essendon,11.5,win
+2019,R17,12/7/2019,West Coast,12.5,17,Collingwood,11.12,win
+2019,R19,27/7/2019,West Coast,18.13,19,North Melbourne,10.12,win
+2019,R2,30/3/2019,West Coast,16.8,2,Greater Western Sydney,7.1,win
+2019,R21,11/8/2019,West Coast,13.12,21,Adelaide,12.8,win
+2019,R23,24/8/2019,West Coast,9.13,23,Hawthorn,16.9,lost
+2019,R4,13/4/2019,West Coast,10.9,4,Fremantle,7.14,win
+2019,R5,19/4/2019,West Coast,8.5,5,Port Adelaide,13.17,lost
+2019,R7,4/5/2019,West Coast,11.14,7,Gold Coast,8.9,win
+2019,R9,17/5/2019,West Coast,13.7,9,Melbourne,9.15,win
+2019,R1,23/3/2019,Western Bulldogs,11.16,1,Sydney,9.11,win
+2019,R10,25/5/2019,Western Bulldogs,13.12,10,North Melbourne,18.7,lost
+2019,R14,23/6/2019,Western Bulldogs,10.13,14,Collingwood,13.4,lost
+2019,R16,6/7/2019,Western Bulldogs,10.11,16,Geelong,7.13,win
+2019,R17,14/7/2019,Western Bulldogs,10.14,17,Melbourne,9.12,win
+2019,R19,28/7/2019,Western Bulldogs,16.17,19,Fremantle,9.12,win
+2019,R23,25/8/2019,Western Bulldogs,18.13,23,Adelaide,13.9,win
+2019,R3,7/4/2019,Western Bulldogs,9.14,3,Gold Coast,10.13,lost
+2019,R5,21/4/2019,Western Bulldogs,7.15,5,Carlton,15.11,lost
+2019,R7,4/5/2019,Western Bulldogs,15.9,7,Richmond,7.1,win
+2019,R8,11/5/2019,Western Bulldogs,13.14,8,Brisbane Lions,11.1,win
+2020,R1,21/3/2020,Adelaide,11.5,1,Sydney,11.8,lost
+2020,R10,5/8/2020,Adelaide,5.7,10,Melbourne,13.1,lost
+2020,R11,11/8/2020,Adelaide,5.8,11,Collingwood,10.2,lost
+2020,R13,23/8/2020,Adelaide,5.7,13,Geelong,9.11,lost
+2020,R16,8/9/2020,Adelaide,8.11,16,Greater Western Sydney,7.5,win
+2020,R18,19/9/2020,Adelaide,4.9,18,Richmond,12.5,lost
+2020,R5,5/7/2020,Adelaide,4.1,5,Fremantle,8.6,lost
+2020,R7,20/7/2020,Adelaide,8.7,7,St Kilda,12.6,lost
+2020,R8,26/7/2020,Adelaide,8.11,8,Essendon,9.8,lost
+2020,PF,17/10/2020,Brisbane Lions,6.6,28,Geelong,11.16,lost
+2020,QF,2/10/2020,Brisbane Lions,10.9,26,Richmond,8.6,win
+2020,R11,8/8/2020,Brisbane Lions,14.12,11,Western Bulldogs,11.6,win
+2020,R13,23/8/2020,Brisbane Lions,6.14,13,St Kilda,7.6,lost
+2020,R15,4/9/2020,Brisbane Lions,6.6,15,Collingwood,5.4,win
+2020,R16,9/9/2020,Brisbane Lions,13.1,16,Gold Coast,6.7,win
+2020,R18,19/9/2020,Brisbane Lions,11.12,18,Carlton,10.1,win
+2020,R2,13/6/2020,Brisbane Lions,12.9,2,Fremantle,10.9,win
+2020,R3,20/6/2020,Brisbane Lions,10.14,3,West Coast,6.8,win
+2020,R4,28/6/2020,Brisbane Lions,10.23,4,Adelaide,7.4,win
+2020,R5,4/7/2020,Brisbane Lions,12.13,5,Port Adelaide,6.12,win
+2020,R14,30/8/2020,Carlton,7.6,14,Collingwood,10.12,lost
+2020,R16,8/9/2020,Carlton,8.9,16,Sydney,8.4,win
+2020,R17,13/9/2020,Carlton,8.8,17,Adelaide,10.12,lost
+2020,R2,13/6/2020,Carlton,7.11,2,Melbourne,8.6,lost
+2020,R5,2/7/2020,Carlton,8.7,5,St Kilda,11.7,lost
+2020,R6,12/7/2020,Carlton,16.7,6,Western Bulldogs,7.9,win
+2020,R7,19/7/2020,Carlton,9.7,7,Port Adelaide,9.1,win
+2020,R9,31/7/2020,Carlton,9.4,9,Hawthorn,14.5,lost
+2020,R10,6/8/2020,Collingwood,6.14,10,Sydney,6.5,lost
+2020,R13,24/8/2020,Collingwood,10.5,13,North Melbourne,5.5,win
+2020,R17,14/9/2020,Collingwood,10.8,17,Gold Coast,6.1,win
+2020,R18,21/9/2020,Collingwood,7.3,18,Port Adelaide,9.7,lost
+2020,R2,11/6/2020,Collingwood,5.6,2,Richmond,5.6,draw
+2020,R3,20/6/2020,Collingwood,12.9,3,St Kilda,5.7,win
+2020,R5,3/7/2020,Collingwood,7.6,5,Essendon,10.3,lost
+2020,R6,10/7/2020,Collingwood,8.11,6,Hawthorn,3.9,win
+2020,R1,21/3/2020,Essendon,9.9,1,Fremantle,8.9,win
+2020,R10,7/8/2020,Essendon,8.7,10,Greater Western Sydney,8.11,win
+2020,R13,22/8/2020,Essendon,10.1,13,Richmond,10.13,lost
+2020,R18,19/9/2020,Essendon,7.7,18,Melbourne,10.8,lost
+2020,R4,27/6/2020,Essendon,8.3,4,Carlton,7.1,win
+2020,R6,11/7/2020,Essendon,9.13,6,North Melbourne,7.11,win
+2020,R7,17/7/2020,Essendon,7.9,7,Western Bulldogs,14.9,lost
+2020,R9,31/7/2020,Essendon,3.1,9,Brisbane Lions,14.7,lost
+2020,R11,10/8/2020,Fremantle,7.6,11,Hawthorn,4.8,win
+2020,R12,15/8/2020,Fremantle,5.6,12,Carlton,5.1,win
+2020,R13,22/8/2020,Fremantle,7.8,13,Sydney,2.7,win
+2020,R14,29/8/2020,Fremantle,8.5,14,Greater Western Sydney,14.7,lost
+2020,R18,20/9/2020,Fremantle,6.8,18,Western Bulldogs,11.8,lost
+2020,R3,21/6/2020,Fremantle,6.5,3,Port Adelaide,10.1,lost
+2020,R6,11/7/2020,Fremantle,12.7,6,St Kilda,11.7,win
+2020,R7,19/7/2020,Fremantle,5.2,7,West Coast,9.8,lost
+2020,R8,27/7/2020,Fremantle,2.4,8,Geelong,6.12,lost
+2020,R9,2/8/2020,Fremantle,10.1,9,Collingwood,7.7,win
+2020,R10,5/8/2020,Geelong,13.12,10,North Melbourne,9.3,win
+2020,R12,14/8/2020,Geelong,14.7,12,Port Adelaide,4.7,win
+2020,R16,6/9/2020,Geelong,17.6,16,Essendon,5.12,win
+2020,R17,11/9/2020,Geelong,4.7,17,Richmond,7.15,lost
+2020,R2,12/6/2020,Geelong,17.6,2,Hawthorn,7.5,win
+2020,R3,20/6/2020,Geelong,11.11,3,Carlton,12.7,lost
+2020,R5,4/7/2020,Geelong,13.11,5,Gold Coast,8.4,win
+2020,R6,9/7/2020,Geelong,11.7,6,Brisbane Lions,6.1,win
+2020,R7,16/7/2020,Geelong,5.5,7,Collingwood,8.9,lost
+2020,SF,10/10/2020,Geelong,15.1,27,Collingwood,5.2,win
+2020,R1,21/3/2020,Gold Coast,4.5,1,Port Adelaide,10.16,lost
+2020,R10,6/8/2020,Gold Coast,11.8,10,St Kilda,12.6,lost
+2020,R11,12/8/2020,Gold Coast,11.7,11,Essendon,11.7,draw
+2020,R13,21/8/2020,Gold Coast,4.3,13,Carlton,7.18,lost
+2020,R14,30/8/2020,Gold Coast,12.19,14,North Melbourne,4.4,win
+2020,R2,13/6/2020,Gold Coast,14.6,2,West Coast,6.1,win
+2020,R3,21/6/2020,Gold Coast,12.1,3,Adelaide,4.5,win
+2020,R4,27/6/2020,Gold Coast,10.4,4,Fremantle,8.3,win
+2020,R8,23/7/2020,Gold Coast,6.1,8,Western Bulldogs,7.9,lost
+2020,R9,2/8/2020,Gold Coast,4.11,9,Greater Western Sydney,9.7,lost
+2020,R1,21/3/2020,Greater Western Sydney,17.3,1,Geelong,11.7,win
+2020,R15,3/9/2020,Greater Western Sydney,6.12,15,Carlton,5.9,win
+2020,R17,12/9/2020,Greater Western Sydney,11.8,17,Melbourne,12.7,lost
+2020,R2,14/6/2020,Greater Western Sydney,8.12,2,North Melbourne,12.8,lost
+2020,R4,26/6/2020,Greater Western Sydney,10.6,4,Collingwood,9.1,win
+2020,R5,5/7/2020,Greater Western Sydney,13.5,5,Hawthorn,7.7,win
+2020,R7,18/7/2020,Greater Western Sydney,10.8,7,Brisbane Lions,13.1,lost
+2020,R8,24/7/2020,Greater Western Sydney,9.8,8,Richmond,6.14,win
+2020,R1,22/3/2020,Hawthorn,14.6,1,Brisbane Lions,9.8,win
+2020,R14,27/8/2020,Hawthorn,10.11,14,Essendon,13.9,lost
+2020,R15,1/9/2020,Hawthorn,7.6,15,Adelaide,12.11,lost
+2020,R17,13/9/2020,Hawthorn,6.4,17,Western Bulldogs,11.1,lost
+2020,R18,20/9/2020,Hawthorn,17.6,18,Gold Coast,8.9,win
+2020,R4,28/6/2020,Hawthorn,8.1,4,North Melbourne,8.6,lost
+2020,R7,19/7/2020,Hawthorn,7.6,7,Melbourne,14.7,lost
+2020,R11,9/8/2020,Melbourne,13.14,11,North Melbourne,5.5,win
+2020,R12,15/8/2020,Melbourne,16.4,12,Collingwood,6.8,win
+2020,R14,29/8/2020,Melbourne,8.4,14,St Kilda,7.7,win
+2020,R16,7/9/2020,Melbourne,4.9,16,Fremantle,6.11,lost
+2020,R4,28/6/2020,Melbourne,6.8,4,Geelong,7.5,lost
+2020,R5,5/7/2020,Melbourne,8.4,5,Richmond,12.7,lost
+2020,R6,11/7/2020,Melbourne,12.8,6,Gold Coast,9.9,win
+2020,R8,26/7/2020,Melbourne,7.7,8,Brisbane Lions,7.11,win
+2020,R9,30/7/2020,Melbourne,4.8,9,Port Adelaide,12.11,lost
+2020,R1,22/3/2020,North Melbourne,8.8,1,St Kilda,7.12,win
+2020,R12,15/8/2020,North Melbourne,8.4,12,Brisbane Lions,7.11,win
+2020,R16,5/9/2020,North Melbourne,6.6,16,Port Adelaide,11.12,lost
+2020,R17,12/9/2020,North Melbourne,5.5,17,Fremantle,15.9,lost
+2020,R18,17/9/2020,North Melbourne,4.1,18,West Coast,7.7,lost
+2020,R3,20/6/2020,North Melbourne,8.12,3,Sydney,10.11,lost
+2020,R8,25/7/2020,North Melbourne,9.3,8,Carlton,9.1,win
+2020,R9,1/8/2020,North Melbourne,19.5,9,Adelaide,7.8,win
+2020,PF,16/10/2020,Port Adelaide,6.4,28,Richmond,6.1,win
+2020,QF,1/10/2020,Port Adelaide,9.4,26,Geelong,5.12,win
+2020,R10,3/8/2020,Port Adelaide,8.7,10,Western Bulldogs,5.12,win
+2020,R11,8/8/2020,Port Adelaide,13.15,11,Richmond,11.6,win
+2020,R13,22/8/2020,Port Adelaide,9.14,13,Hawthorn,9.4,lost
+2020,R14,29/8/2020,Port Adelaide,11.7,14,Sydney,7.5,win
+2020,R17,12/9/2020,Port Adelaide,11.13,17,Essendon,4.5,win
+2020,R2,13/6/2020,Port Adelaide,17.8,2,Adelaide,5.5,win
+2020,R4,27/6/2020,Port Adelaide,13.11,4,West Coast,6.5,win
+2020,R6,12/7/2020,Port Adelaide,9.9,6,Greater Western Sydney,6.1,win
+2020,R8,25/7/2020,Port Adelaide,6.8,8,St Kilda,12.1,lost
+2020,GF,24/10/2020,Richmond,12.9,29,Geelong,7.8,win
+2020,R1,19/3/2020,Richmond,16.9,1,Carlton,12.9,win
+2020,R10,4/8/2020,Richmond,12.1,10,Brisbane Lions,4.17,win
+2020,R12,17/8/2020,Richmond,8.5,12,Gold Coast,4.8,win
+2020,R14,27/8/2020,Richmond,14.4,14,West Coast,9.7,win
+2020,R15,2/9/2020,Richmond,8.8,15,Fremantle,4.5,win
+2020,R3,18/6/2020,Richmond,5.9,3,Hawthorn,11.5,lost
+2020,R6,12/7/2020,Richmond,4.1,6,Sydney,3.8,win
+2020,R7,18/7/2020,Richmond,11.11,7,North Melbourne,2.11,win
+2020,SF,9/10/2020,Richmond,12.8,27,St Kilda,6.13,win
+2020,EF,3/10/2020,St Kilda,10.7,25,Western Bulldogs,9.1,win
+2020,R11,10/8/2020,St Kilda,4.1,11,Geelong,14.9,lost
+2020,R12,16/8/2020,St Kilda,10.8,12,Essendon,5.3,win
+2020,R16,6/9/2020,St Kilda,11.14,16,Hawthorn,9.12,win
+2020,R17,10/9/2020,St Kilda,6.14,17,West Coast,9.11,lost
+2020,R18,18/9/2020,St Kilda,12.1,18,Greater Western Sydney,3.12,win
+2020,R2,14/6/2020,St Kilda,14.4,2,Western Bulldogs,7.7,win
+2020,R4,27/6/2020,St Kilda,15.3,4,Richmond,10.7,win
+2020,R9,1/8/2020,St Kilda,15.11,9,Sydney,6.12,win
+2020,R12,13/8/2020,Sydney,10.6,12,Greater Western Sydney,3.7,win
+2020,R15,3/9/2020,Sydney,10.7,15,Melbourne,6.1,win
+2020,R17,13/9/2020,Sydney,6.5,17,Brisbane Lions,11.7,lost
+2020,R18,20/9/2020,Sydney,9.9,18,Geelong,10.9,lost
+2020,R2,14/6/2020,Sydney,11.7,2,Essendon,12.7,lost
+2020,R4,25/6/2020,Sydney,5.9,4,Western Bulldogs,10.7,lost
+2020,R7,18/7/2020,Sydney,9.6,7,Gold Coast,13.14,lost
+2020,R8,25/7/2020,Sydney,9.6,8,Hawthorn,7.11,win
+2020,EF,3/10/2020,West Coast,11.9,25,Collingwood,12.4,lost
+2020,R1,22/3/2020,West Coast,12.6,1,Melbourne,7.9,win
+2020,R11,9/8/2020,West Coast,11.6,11,Carlton,7.8,win
+2020,R12,16/8/2020,West Coast,12.9,12,Hawthorn,7.7,win
+2020,R13,23/8/2020,West Coast,9.7,13,Greater Western Sydney,7.7,win
+2020,R15,1/9/2020,West Coast,9.6,15,Essendon,6.9,win
+2020,R5,4/7/2020,West Coast,11.11,5,Sydney,6.7,win
+2020,R6,11/7/2020,West Coast,10.7,6,Adelaide,5.4,win
+2020,R8,26/7/2020,West Coast,18.3,8,Collingwood,6.9,win
+2020,R9,1/8/2020,West Coast,11.7,9,Geelong,10.4,win
+2020,R1,20/3/2020,Western Bulldogs,5.4,1,Collingwood,13.8,lost
+2020,R12,16/8/2020,Western Bulldogs,16.15,12,Adelaide,8.6,win
+2020,R13,22/8/2020,Western Bulldogs,12.8,13,Melbourne,7.1,win
+2020,R14,28/8/2020,Western Bulldogs,9.7,14,Geelong,10.12,lost
+2020,R16,6/9/2020,Western Bulldogs,6.13,16,West Coast,7.5,lost
+2020,R3,19/6/2020,Western Bulldogs,8.9,3,Greater Western Sydney,4.9,win
+2020,R5,4/7/2020,Western Bulldogs,13.9,5,North Melbourne,5.8,win
+2020,R9,29/7/2020,Western Bulldogs,7.7,9,Richmond,13.12,lost
+2021,R1,20/3/2021,Adelaide,15.13,1,Geelong,13.13,win
+2021,R10,22/5/2021,Adelaide,15.6,10,Melbourne,14.11,win
+2021,R12,5/6/2021,Adelaide,10.13,12,Collingwood,12.6,lost
+2021,R16,3/7/2021,Adelaide,8.11,16,Brisbane Lions,17.9,lost
+2021,R18,18/7/2021,Adelaide,8.8,18,West Coast,14.14,lost
+2021,R19,24/7/2021,Adelaide,16.6,19,Hawthorn,13.5,win
+2021,R21,7/8/2021,Adelaide,7.9,21,Port Adelaide,7.13,win
+2021,R23,22/8/2021,Adelaide,13.2,23,North Melbourne,8.6,win
+2021,R3,2/4/2021,Adelaide,14.11,3,Gold Coast,12.13,win
+2021,R5,18/4/2021,Adelaide,11.6,5,Fremantle,12.12,lost
+2021,R7,1/5/2021,Adelaide,4.15,7,Greater Western Sydney,15.16,lost
+2021,R1,20/3/2021,Brisbane Lions,14.1,1,Sydney,19.11,lost
+2021,R10,21/5/2021,Brisbane Lions,15.12,10,Richmond,11.8,win
+2021,R11,29/5/2021,Brisbane Lions,19.15,11,Greater Western Sydney,10.5,win
+2021,R15,24/6/2021,Brisbane Lions,13.16,15,Geelong,7.8,win
+2021,R17,10/7/2021,Brisbane Lions,8.15,17,St Kilda,14.11,lost
+2021,R19,24/7/2021,Brisbane Lions,17.18,19,Gold Coast,10.11,win
+2021,R22,14/8/2021,Brisbane Lions,22.1,22,Collingwood,8.9,win
+2021,R23,21/8/2021,Brisbane Lions,19.11,23,West Coast,13.9,win
+2021,R5,17/4/2021,Brisbane Lions,15.12,5,Essendon,6.9,win
+2021,R7,1/5/2021,Brisbane Lions,13.15,7,Port Adelaide,5.14,win
+2021,R8,9/5/2021,Brisbane Lions,14.11,8,Fremantle,10.11,win
+2021,SF,4/9/2021,Brisbane Lions,11.12,27,Western Bulldogs,11.13,lost
+2021,R10,22/5/2021,Carlton,13.8,10,Hawthorn,9.9,win
+2021,R12,6/6/2021,Carlton,10.13,12,West Coast,14.11,lost
+2021,R15,27/6/2021,Carlton,12.11,15,Adelaide,10.13,win
+2021,R17,10/7/2021,Carlton,5.14,17,Geelong,10.1,lost
+2021,R19,24/7/2021,Carlton,11.11,19,North Melbourne,18.8,lost
+2021,R2,25/3/2021,Carlton,13.7,2,Collingwood,16.1,lost
+2021,R21,7/8/2021,Carlton,8.9,21,Gold Coast,11.1,lost
+2021,R23,21/8/2021,Carlton,11.9,23,Greater Western Sydney,12.17,lost
+2021,R3,4/4/2021,Carlton,16.13,3,Fremantle,9.1,win
+2021,R5,17/4/2021,Carlton,9.14,5,Port Adelaide,15.6,lost
+2021,R6,24/4/2021,Carlton,12.13,6,Brisbane Lions,15.13,lost
+2021,R1,19/3/2021,Collingwood,7.11,1,Western Bulldogs,10.9,lost
+2021,R10,23/5/2021,Collingwood,8.1,10,Port Adelaide,8.11,lost
+2021,R11,29/5/2021,Collingwood,6.15,11,Geelong,8.13,lost
+2021,R15,26/6/2021,Collingwood,12.7,15,Fremantle,14.7,lost
+2021,R16,4/7/2021,Collingwood,8.13,16,St Kilda,10.1,lost
+2021,R18,18/7/2021,Collingwood,9.8,18,Carlton,13.13,lost
+2021,R20,31/7/2021,Collingwood,14.6,20,West Coast,6.9,win
+2021,R3,1/4/2021,Collingwood,11.6,3,Brisbane Lions,11.7,lost
+2021,R4,10/4/2021,Collingwood,9.6,4,Greater Western Sydney,14.6,lost
+2021,R6,25/4/2021,Collingwood,13.7,6,Essendon,16.13,lost
+2021,R7,1/5/2021,Collingwood,7.13,7,Gold Coast,12.7,lost
+2021,R1,20/3/2021,Essendon,13.13,1,Hawthorn,14.8,lost
+2021,R10,23/5/2021,Essendon,22.9,10,North Melbourne,10.9,win
+2021,R12,5/6/2021,Essendon,12.12,12,Richmond,19.9,lost
+2021,R15,26/6/2021,Essendon,8.9,15,Melbourne,9.14,lost
+2021,R17,9/7/2021,Essendon,11.18,17,Adelaide,2.9,win
+2021,R19,25/7/2021,Essendon,7.11,19,Greater Western Sydney,9.12,lost
+2021,R20,1/8/2021,Essendon,16.6,20,Sydney,17.7,lost
+2021,R23,22/8/2021,Essendon,16.6,23,Collingwood,9.1,win
+2021,R3,3/4/2021,Essendon,22.11,3,St Kilda,9.14,win
+2021,R7,2/5/2021,Essendon,16.11,7,Carlton,19.9,lost
+2021,R9,16/5/2021,Essendon,10.8,9,Fremantle,8.13,win
+2021,R10,22/5/2021,Fremantle,12.14,10,Sydney,13.6,lost
+2021,R12,6/6/2021,Fremantle,9.11,12,Western Bulldogs,13.15,lost
+2021,R13,12/6/2021,Fremantle,11.1,13,Gold Coast,6.13,win
+2021,R16,3/7/2021,Fremantle,8.16,16,Carlton,12.8,lost
+2021,R18,15/7/2021,Fremantle,3.13,18,Geelong,14.16,lost
+2021,R2,28/3/2021,Fremantle,11.21,2,Greater Western Sydney,7.14,win
+2021,R20,1/8/2021,Fremantle,7.13,20,Richmond,6.15,win
+2021,R21,8/8/2021,Fremantle,8.6,21,Brisbane Lions,18.1,lost
+2021,R22,15/8/2021,Fremantle,12.7,22,West Coast,9.1,win
+2021,R4,11/4/2021,Fremantle,13.18,4,Hawthorn,12.9,win
+2021,R6,24/4/2021,Fremantle,14.15,6,North Melbourne,6.12,win
+2021,R10,22/5/2021,Geelong,14.7,10,Gold Coast,8.9,win
+2021,R14,18/6/2021,Geelong,12.11,14,Western Bulldogs,11.12,win
+2021,R16,2/7/2021,Geelong,15.8,16,Essendon,8.9,win
+2021,R19,25/7/2021,Geelong,15.5,19,Richmond,8.9,win
+2021,R2,26/3/2021,Geelong,12.9,2,Brisbane Lions,11.14,win
+2021,R21,6/8/2021,Geelong,8.17,21,Greater Western Sydney,13.6,lost
+2021,R22,14/8/2021,Geelong,13.7,22,St Kilda,11.5,win
+2021,R23,21/8/2021,Geelong,12.5,23,Melbourne,12.9,lost
+2021,R3,5/4/2021,Geelong,10.9,3,Hawthorn,9.1,win
+2021,R5,18/4/2021,Geelong,10.17,5,North Melbourne,7.5,win
+2021,R6,24/4/2021,Geelong,21.1,6,West Coast,5.9,win
+2021,SF,3/9/2021,Geelong,15.13,27,Greater Western Sydney,10.8,win
+2021,R11,29/5/2021,Gold Coast,17.11,11,Hawthorn,11.1,win
+2021,R14,19/6/2021,Gold Coast,4.7,14,Port Adelaide,12.9,lost
+2021,R16,1/7/2021,Gold Coast,10.17,16,Richmond,10.7,lost
+2021,R18,17/7/2021,Gold Coast,11.13,18,Western Bulldogs,14.6,lost
+2021,R2,27/3/2021,Gold Coast,14.14,2,North Melbourne,5.9,win
+2021,R20,1/8/2021,Gold Coast,4.6,20,Melbourne,18.2,lost
+2021,R22,15/8/2021,Gold Coast,4.6,22,Essendon,14.14,lost
+2021,R4,10/4/2021,Gold Coast,8.11,4,Carlton,9.16,lost
+2021,R6,24/4/2021,Gold Coast,15.1,6,Sydney,9.6,win
+2021,R8,8/5/2021,Gold Coast,7.12,8,St Kilda,8.15,lost
+2021,R9,15/5/2021,Gold Coast,7.9,9,Brisbane Lions,19.1,lost
+2021,R1,21/3/2021,Greater Western Sydney,11.12,1,St Kilda,13.8,lost
+2021,R10,23/5/2021,Greater Western Sydney,13.15,10,West Coast,11.11,win
+2021,R14,19/6/2021,Greater Western Sydney,16.6,14,Carlton,9.12,win
+2021,R15,27/6/2021,Greater Western Sydney,11.6,15,Hawthorn,13.12,lost
+2021,R17,11/7/2021,Greater Western Sydney,9.1,17,Gold Coast,10.5,lost
+2021,R18,18/7/2021,Greater Western Sydney,11.6,18,Sydney,15.8,lost
+2021,R20,1/8/2021,Greater Western Sydney,11.7,20,Port Adelaide,15.1,lost
+2021,R22,13/8/2021,Greater Western Sydney,16.1,22,Richmond,10.7,win
+2021,R3,4/4/2021,Greater Western Sydney,11.2,3,Melbourne,15.12,lost
+2021,R6,23/4/2021,Greater Western Sydney,9.11,6,Western Bulldogs,15.14,lost
+2021,R8,8/5/2021,Greater Western Sydney,16.11,8,Essendon,16.9,lost
+2021,R14,20/6/2021,Hawthorn,10.13,14,Essendon,13.8,lost
+2021,R16,3/7/2021,Hawthorn,7.11,16,Port Adelaide,13.9,lost
+2021,R17,10/7/2021,Hawthorn,6.1,17,Fremantle,16.12,lost
+2021,R2,28/3/2021,Hawthorn,7.7,2,Richmond,11.12,lost
+2021,R20,1/8/2021,Hawthorn,14.8,20,Brisbane Lions,12.8,win
+2021,R21,8/8/2021,Hawthorn,15.7,21,Collingwood,12.6,win
+2021,R22,14/8/2021,Hawthorn,9.1,22,Western Bulldogs,5.7,win
+2021,R5,18/4/2021,Hawthorn,8.6,5,Melbourne,15.14,lost
+2021,R6,25/4/2021,Hawthorn,15.12,6,Adelaide,16.3,lost
+2021,R8,9/5/2021,Hawthorn,8.12,8,West Coast,14.14,lost
+2021,R9,15/5/2021,Hawthorn,12.8,9,North Melbourne,13.9,lost
+2021,GF,25/9/2021,Melbourne,21.14,29,Western Bulldogs,10.6,win
+2021,PF,10/9/2021,Melbourne,19.11,28,Geelong,6.6,win
+2021,QF,28/8/2021,Melbourne,13.15,26,Brisbane Lions,9.6,win
+2021,R1,20/3/2021,Melbourne,11.14,1,Fremantle,8.1,win
+2021,R12,4/6/2021,Melbourne,14.13,12,Brisbane Lions,11.9,win
+2021,R13,14/6/2021,Melbourne,9.9,13,Collingwood,11.14,lost
+2021,R16,3/7/2021,Melbourne,7.13,16,Greater Western Sydney,9.1,lost
+2021,R18,17/7/2021,Melbourne,11.13,18,Hawthorn,12.7,lost
+2021,R19,24/7/2021,Melbourne,9.11,19,Western Bulldogs,13.7,lost
+2021,R22,15/8/2021,Melbourne,16.8,22,Adelaide,9.9,win
+2021,R4,11/4/2021,Melbourne,12.13,4,Geelong,9.6,win
+2021,R6,24/4/2021,Melbourne,12.1,6,Richmond,6.12,win
+2021,R8,8/5/2021,Melbourne,10.7,8,Sydney,8.1,win
+2021,R9,16/5/2021,Melbourne,13.16,9,Carlton,10.8,win
+2021,R1,21/3/2021,North Melbourne,9.11,1,Port Adelaide,17.15,lost
+2021,R13,13/6/2021,North Melbourne,14.1,13,Greater Western Sydney,14.1,draw
+2021,R14,19/6/2021,North Melbourne,6.9,14,Brisbane Lions,9.14,lost
+2021,R15,26/6/2021,North Melbourne,9.18,15,Gold Coast,9.9,lost
+2021,R18,18/7/2021,North Melbourne,11.8,18,Essendon,13.14,lost
+2021,R20,31/7/2021,North Melbourne,6.6,20,Geelong,8.14,lost
+2021,R22,14/8/2021,North Melbourne,12.5,22,Sydney,13.13,lost
+2021,R3,2/4/2021,North Melbourne,5.9,3,Western Bulldogs,25.17,lost
+2021,R4,11/4/2021,North Melbourne,10.8,4,Adelaide,16.13,lost
+2021,R7,2/5/2021,North Melbourne,11.7,7,Melbourne,16.7,lost
+2021,R8,8/5/2021,North Melbourne,11.1,8,Collingwood,14.1,lost
+2021,PF,11/9/2021,Port Adelaide,6.9,28,Western Bulldogs,17.14,lost
+2021,QF,27/8/2021,Port Adelaide,12.14,26,Geelong,5.13,win
+2021,R11,30/5/2021,Port Adelaide,18.7,11,Fremantle,9.15,win
+2021,R13,10/6/2021,Port Adelaide,14.7,13,Geelong,17.1,lost
+2021,R15,26/6/2021,Port Adelaide,12.9,15,Sydney,10.11,win
+2021,R17,8/7/2021,Port Adelaide,8.7,17,Melbourne,12.14,lost
+2021,R19,23/7/2021,Port Adelaide,14.13,19,Collingwood,10.9,win
+2021,R2,27/3/2021,Port Adelaide,18.11,2,Essendon,9.11,win
+2021,R22,14/8/2021,Port Adelaide,21.14,22,Carlton,5.15,win
+2021,R4,9/4/2021,Port Adelaide,11.13,4,Richmond,11.11,win
+2021,R6,25/4/2021,Port Adelaide,14.9,6,St Kilda,5.9,win
+2021,R8,8/5/2021,Port Adelaide,12.15,8,Adelaide,5.8,win
+2021,R9,15/5/2021,Port Adelaide,12.5,9,Western Bulldogs,15.6,lost
+2021,R1,18/3/2021,Richmond,15.15,1,Carlton,11.14,win
+2021,R11,30/5/2021,Richmond,17.9,11,Adelaide,12.11,win
+2021,R15,25/6/2021,Richmond,2.1,15,St Kilda,9.8,lost
+2021,R17,11/7/2021,Richmond,11.5,17,Collingwood,13.9,lost
+2021,R18,16/7/2021,Richmond,16.1,18,Brisbane Lions,13.8,win
+2021,R21,7/8/2021,Richmond,13.11,21,North Melbourne,8.8,win
+2021,R23,21/8/2021,Richmond,12.11,23,Hawthorn,12.11,draw
+2021,R3,3/4/2021,Richmond,10.12,3,Sydney,17.15,lost
+2021,R7,30/4/2021,Richmond,11.11,7,Western Bulldogs,7.13,win
+2021,R8,7/5/2021,Richmond,9.9,8,Geelong,19.12,lost
+2021,R9,15/5/2021,Richmond,13.9,9,Greater Western Sydney,12.11,win
+2021,R11,29/5/2021,St Kilda,12.16,11,North Melbourne,10.8,win
+2021,R13,12/6/2021,St Kilda,8.12,13,Adelaide,9.12,lost
+2021,R18,17/7/2021,St Kilda,8.13,18,Port Adelaide,10.14,lost
+2021,R2,27/3/2021,St Kilda,11.7,2,Melbourne,12.19,lost
+2021,R20,30/7/2021,St Kilda,12.9,20,Carlton,18.4,lost
+2021,R21,7/8/2021,St Kilda,14.9,21,Sydney,10.4,win
+2021,R23,22/8/2021,St Kilda,17.5,23,Fremantle,6.13,win
+2021,R4,10/4/2021,St Kilda,15.12,4,West Coast,13.4,win
+2021,R5,15/4/2021,St Kilda,7.6,5,Richmond,20.14,lost
+2021,R7,1/5/2021,St Kilda,19.14,7,Hawthorn,9.5,win
+2021,R9,14/5/2021,St Kilda,5.17,9,Geelong,10.8,lost
+2021,EF,28/8/2021,Sydney,10.13,25,Greater Western Sydney,11.8,lost
+2021,R11,30/5/2021,Sydney,15.1,11,Carlton,11.12,win
+2021,R12,5/6/2021,Sydney,13.14,12,St Kilda,12.11,win
+2021,R13,11/6/2021,Sydney,7.9,13,Hawthorn,14.5,lost
+2021,R16,4/7/2021,Sydney,18.1,16,West Coast,3.8,win
+2021,R19,25/7/2021,Sydney,14.14,19,Fremantle,8.1,win
+2021,R2,27/3/2021,Sydney,18.13,2,Adelaide,11.22,win
+2021,R23,21/8/2021,Sydney,21.1,23,Gold Coast,6.13,win
+2021,R4,8/4/2021,Sydney,11.17,4,Essendon,12.8,lost
+2021,R5,17/4/2021,Sydney,10.9,5,Greater Western Sydney,9.17,win
+2021,R7,1/5/2021,Sydney,14.6,7,Geelong,12.16,win
+2021,R9,15/5/2021,Sydney,10.12,9,Collingwood,5.12,win
+2021,R1,21/3/2021,West Coast,12.11,1,Gold Coast,8.1,win
+2021,R11,29/5/2021,West Coast,11.5,11,Essendon,12.15,lost
+2021,R13,13/6/2021,West Coast,13.7,13,Richmond,12.9,win
+2021,R15,27/6/2021,West Coast,6.7,15,Western Bulldogs,13.2,lost
+2021,R17,12/7/2021,West Coast,8.12,17,North Melbourne,10.1,lost
+2021,R19,24/7/2021,West Coast,14.1,19,St Kilda,13.8,win
+2021,R21,9/8/2021,West Coast,9.9,21,Melbourne,10.12,lost
+2021,R3,3/4/2021,West Coast,16.12,3,Port Adelaide,11.5,win
+2021,R5,16/4/2021,West Coast,16.7,5,Collingwood,11.1,win
+2021,R7,2/5/2021,West Coast,20.12,7,Fremantle,11.7,win
+2021,R9,16/5/2021,West Coast,16.1,9,Adelaide,11.1,win
+2021,EF,29/8/2021,Western Bulldogs,13.7,25,Essendon,4.12,win
+2021,R10,22/5/2021,Western Bulldogs,21.18,10,St Kilda,5.3,win
+2021,R11,28/5/2021,Western Bulldogs,8.11,11,Melbourne,13.9,lost
+2021,R16,4/7/2021,Western Bulldogs,16.12,16,North Melbourne,11.13,win
+2021,R17,11/7/2021,Western Bulldogs,8.12,17,Sydney,11.13,lost
+2021,R2,28/3/2021,Western Bulldogs,14.16,2,West Coast,14.9,lost
+2021,R20,31/7/2021,Western Bulldogs,15.15,20,Adelaide,8.8,win
+2021,R21,8/8/2021,Western Bulldogs,12.12,21,Essendon,15.7,lost
+2021,R23,20/8/2021,Western Bulldogs,10.4,23,Port Adelaide,9.12,win
+2021,R4,10/4/2021,Western Bulldogs,10.13,4,Brisbane Lions,8.6,win
+2021,R5,17/4/2021,Western Bulldogs,17.16,5,Gold Coast,8.8,win
+2021,R8,9/5/2021,Western Bulldogs,16.11,8,Carlton,13.13,win
+2022,R1,20/3/2022,Adelaide,12.1,1,Fremantle,11.17,win
+2022,R10,21/5/2022,Adelaide,9.15,10,St Kilda,14.6,lost
+2022,R12,4/6/2022,Adelaide,13.1,12,West Coast,8.9,win
+2022,R16,2/7/2022,Adelaide,10.5,16,Melbourne,14.1,lost
+2022,R18,16/7/2022,Adelaide,13.8,18,Collingwood,14.7,lost
+2022,R20,30/7/2022,Adelaide,12.12,20,Carlton,8.7,win
+2022,R22,13/8/2022,Adelaide,15.13,22,North Melbourne,10.14,win
+2022,R3,1/4/2022,Adelaide,15.6,3,Port Adelaide,13.14,win
+2022,R5,16/4/2022,Adelaide,15.11,5,Richmond,12.1,win
+2022,R7,30/4/2022,Adelaide,8.6,7,Greater Western Sydney,17.11,lost
+2022,R9,14/5/2022,Adelaide,9.12,9,Brisbane Lions,16.6,lost
+2022,EF,1/9/2022,Brisbane Lions,16.1,25,Richmond,16.8,lost
+2022,R1,19/3/2022,Brisbane Lions,11.14,1,Port Adelaide,10.9,win
+2022,R11,28/5/2022,Brisbane Lions,16.14,11,Greater Western Sydney,15.6,win
+2022,R13,11/6/2022,Brisbane Lions,10.18,13,St Kilda,8.9,win
+2022,R16,30/6/2022,Brisbane Lions,16.12,16,Western Bulldogs,9.13,win
+2022,R17,10/7/2022,Brisbane Lions,13.12,17,Essendon,15.1,lost
+2022,R19,23/7/2022,Brisbane Lions,16.14,19,Gold Coast,14.9,win
+2022,R21,7/8/2022,Brisbane Lions,17.12,21,Carlton,12.9,win
+2022,R23,19/8/2022,Brisbane Lions,8.9,23,Melbourne,18.7,lost
+2022,R3,2/4/2022,Brisbane Lions,23.18,3,North Melbourne,7.6,win
+2022,R5,14/4/2022,Brisbane Lions,15.8,5,Collingwood,14.7,win
+2022,R8,7/5/2022,Brisbane Lions,16.9,8,West Coast,4.6,win
+2022,R1,17/3/2022,Carlton,14.17,1,Richmond,11.1,win
+2022,R10,20/5/2022,Carlton,15.12,10,Sydney,13.9,win
+2022,R15,25/6/2022,Carlton,12.9,15,Fremantle,7.8,win
+2022,R16,1/7/2022,Carlton,10.18,16,St Kilda,14.9,lost
+2022,R18,16/7/2022,Carlton,8.7,18,Geelong,12.13,lost
+2022,R19,24/7/2022,Carlton,13.12,19,Greater Western Sydney,8.6,win
+2022,R23,21/8/2022,Carlton,10.14,23,Collingwood,11.9,lost
+2022,R3,3/4/2022,Carlton,11.8,3,Hawthorn,11.7,win
+2022,R5,17/4/2022,Carlton,14.1,5,Port Adelaide,13.13,win
+2022,R7,30/4/2022,Carlton,17.12,7,North Melbourne,10.4,win
+2022,R8,8/5/2022,Carlton,17.14,8,Adelaide,10.8,win
+2022,R11,29/5/2022,Collingwood,11.13,11,Carlton,11.9,lost
+2022,R13,13/6/2022,Collingwood,12.1,13,Melbourne,8.8,win
+2022,R15,26/6/2022,Collingwood,11.22,15,Greater Western Sydney,12.5,lost
+2022,R17,9/7/2022,Collingwood,13.1,17,North Melbourne,12.9,win
+2022,R19,24/7/2022,Collingwood,12.8,19,Essendon,11.1,win
+2022,R2,26/3/2022,Collingwood,15.1,2,Adelaide,8.1,win
+2022,R20,30/7/2022,Collingwood,13.1,20,Port Adelaide,12.1,win
+2022,R3,2/4/2022,Collingwood,13.13,3,Geelong,16.8,lost
+2022,R4,9/4/2022,Collingwood,10.14,4,West Coast,14.3,lost
+2022,R7,1/5/2022,Collingwood,17.13,7,Gold Coast,14.6,win
+2022,R9,13/5/2022,Collingwood,7.9,9,Western Bulldogs,14.15,lost
+2022,SF,10/9/2022,Collingwood,11.13,27,Fremantle,9.5,win
+2022,R13,10/6/2022,Essendon,7.12,13,Carlton,12.8,lost
+2022,R16,2/7/2022,Essendon,15.5,16,Sydney,12.14,win
+2022,R18,17/7/2022,Essendon,14.19,18,Gold Coast,8.7,win
+2022,R2,26/3/2022,Essendon,10.15,2,Brisbane Lions,15.7,lost
+2022,R20,31/7/2022,Essendon,17.12,20,North Melbourne,9.12,win
+2022,R22,14/8/2022,Essendon,9.8,22,Port Adelaide,23.8,lost
+2022,R23,20/8/2022,Essendon,11.9,23,Richmond,21.15,lost
+2022,R4,10/4/2022,Essendon,15.13,4,Adelaide,15.9,lost
+2022,R5,17/4/2022,Essendon,8.11,5,Fremantle,16.11,lost
+2022,R6,25/4/2022,Essendon,12.1,6,Collingwood,15.3,lost
+2022,R8,7/5/2022,Essendon,16.12,8,Hawthorn,11.15,win
+2022,EF,3/9/2022,Fremantle,11.7,25,Western Bulldogs,8.12,win
+2022,R10,22/5/2022,Fremantle,6.8,10,Collingwood,12.8,lost
+2022,R12,5/6/2022,Fremantle,15.9,12,Brisbane Lions,13.7,win
+2022,R13,11/6/2022,Fremantle,14.11,13,Hawthorn,12.1,win
+2022,R16,3/7/2022,Fremantle,15.9,16,Port Adelaide,14.7,win
+2022,R18,16/7/2022,Fremantle,9.11,18,Sydney,11.16,lost
+2022,R2,27/3/2022,Fremantle,8.7,2,St Kilda,9.11,lost
+2022,R20,29/7/2022,Fremantle,5.9,20,Melbourne,12.13,lost
+2022,R22,13/8/2022,Fremantle,9.17,22,West Coast,7.5,win
+2022,R4,9/4/2022,Fremantle,13.1,4,Greater Western Sydney,8.6,win
+2022,R6,23/4/2022,Fremantle,14.13,6,Carlton,9.8,win
+2022,R8,6/5/2022,Fremantle,15.12,8,North Melbourne,3.6,win
+2022,GF,24/9/2022,Geelong,20.13,29,Sydney,8.4,win
+2022,PF,16/9/2022,Geelong,18.12,28,Brisbane Lions,7.7,win
+2022,QF,3/9/2022,Geelong,11.12,26,Collingwood,10.12,win
+2022,R1,19/3/2022,Geelong,20.18,1,Essendon,11.6,win
+2022,R10,21/5/2022,Geelong,11.16,10,Port Adelaide,7.5,win
+2022,R11,28/5/2022,Geelong,15.7,11,Adelaide,7.13,win
+2022,R15,25/6/2022,Geelong,13.11,15,Richmond,13.8,lost
+2022,R16,2/7/2022,Geelong,21.18,16,North Melbourne,5.2,win
+2022,R17,7/7/2022,Geelong,12.19,17,Melbourne,9.9,win
+2022,R20,30/7/2022,Geelong,14.1,20,Western Bulldogs,9.12,win
+2022,R21,6/8/2022,Geelong,17.8,21,St Kilda,10.5,win
+2022,R23,20/8/2022,Geelong,19.17,23,West Coast,7.4,win
+2022,R4,8/4/2022,Geelong,11.14,4,Brisbane Lions,11.4,lost
+2022,R7,30/4/2022,Geelong,10.6,7,Fremantle,10.9,lost
+2022,R11,28/5/2022,Gold Coast,18.13,11,Hawthorn,7.12,win
+2022,R12,4/6/2022,Gold Coast,15.19,12,North Melbourne,7.5,win
+2022,R14,19/6/2022,Gold Coast,18.8,14,Adelaide,10.13,win
+2022,R16,2/7/2022,Gold Coast,8.14,16,Collingwood,9.13,lost
+2022,R17,9/7/2022,Gold Coast,14.1,17,Richmond,13.14,win
+2022,R2,26/3/2022,Gold Coast,10.9,2,Melbourne,12.1,lost
+2022,R20,31/7/2022,Gold Coast,16.11,20,West Coast,16.8,lost
+2022,R22,13/8/2022,Gold Coast,9.5,22,Geelong,18.11,lost
+2022,R4,10/4/2022,Gold Coast,13.14,4,Carlton,8.14,win
+2022,R6,24/4/2022,Gold Coast,11.14,6,Brisbane Lions,21.6,lost
+2022,R9,15/5/2022,Gold Coast,10.9,9,Fremantle,4.9,win
+2022,R1,19/3/2022,Greater Western Sydney,13.14,1,Sydney,17.1,lost
+2022,R10,22/5/2022,Greater Western Sydney,21.12,10,West Coast,13.8,win
+2022,R14,18/6/2022,Greater Western Sydney,16.9,14,Western Bulldogs,19.11,lost
+2022,R16,3/7/2022,Greater Western Sydney,11.6,16,Hawthorn,7.8,win
+2022,R18,16/7/2022,Greater Western Sydney,9.5,18,Brisbane Lions,15.9,lost
+2022,R21,6/8/2022,Greater Western Sydney,14.12,21,Essendon,10.9,win
+2022,R23,20/8/2022,Greater Western Sydney,10.9,23,Fremantle,13.11,lost
+2022,R3,2/4/2022,Greater Western Sydney,12.11,3,Gold Coast,8.9,win
+2022,R6,22/4/2022,Greater Western Sydney,8.12,6,St Kilda,10.17,lost
+2022,R8,7/5/2022,Greater Western Sydney,4.11,8,Geelong,12.16,lost
+2022,R9,15/5/2022,Greater Western Sydney,11.9,9,Carlton,15.15,lost
+2022,R1,20/3/2022,Hawthorn,11.12,1,North Melbourne,8.1,win
+2022,R10,22/5/2022,Hawthorn,18.9,10,Brisbane Lions,17.1,win
+2022,R12,5/6/2022,Hawthorn,10.8,12,Collingwood,10.12,win
+2022,R17,10/7/2022,Hawthorn,13.8,17,Adelaide,8.6,win
+2022,R18,17/7/2022,Hawthorn,15.12,18,West Coast,12.5,win
+2022,R21,6/8/2022,Hawthorn,10.1,21,Gold Coast,8.15,win
+2022,R23,21/8/2022,Hawthorn,10.4,23,Western Bulldogs,12.15,lost
+2022,R4,10/4/2022,Hawthorn,10.13,4,St Kilda,22.1,lost
+2022,R5,18/4/2022,Hawthorn,14.8,5,Geelong,11.14,win
+2022,R6,25/4/2022,Hawthorn,10.8,6,Sydney,16.13,lost
+2022,R9,14/5/2022,Hawthorn,14.1,9,Richmond,17.15,lost
+2022,QF,2/9/2022,Melbourne,10.9,26,Sydney,14.7,lost
+2022,R1,16/3/2022,Melbourne,14.13,1,Western Bulldogs,11.5,win
+2022,R11,28/5/2022,Melbourne,7.14,11,Fremantle,14.1,lost
+2022,R12,4/6/2022,Melbourne,9.7,12,Sydney,10.13,lost
+2022,R15,23/6/2022,Melbourne,16.21,15,Brisbane Lions,7.11,win
+2022,R18,17/7/2022,Melbourne,12.11,18,Port Adelaide,10.9,win
+2022,R21,5/8/2022,Melbourne,13.11,21,Collingwood,15.6,lost
+2022,R22,13/8/2022,Melbourne,11.13,22,Carlton,10.14,win
+2022,R3,1/4/2022,Melbourne,14.15,3,Essendon,10.1,win
+2022,R5,16/4/2022,Melbourne,19.6,5,Greater Western Sydney,7.11,win
+2022,R7,30/4/2022,Melbourne,13.13,7,Hawthorn,11.15,win
+2022,R8,8/5/2022,Melbourne,14.9,8,St Kilda,8.7,win
+2022,SF,9/9/2022,Melbourne,11.13,27,Brisbane Lions,14.8,lost
+2022,R10,21/5/2022,North Melbourne,8.5,10,Melbourne,14.16,lost
+2022,R13,12/6/2022,North Melbourne,7.11,13,Greater Western Sydney,15.12,lost
+2022,R15,26/6/2022,North Melbourne,8.1,15,Adelaide,17.13,lost
+2022,R18,16/7/2022,North Melbourne,14.8,18,Richmond,11.22,win
+2022,R19,23/7/2022,North Melbourne,11.9,19,Hawthorn,19.7,lost
+2022,R2,27/3/2022,North Melbourne,10.14,2,West Coast,8.11,win
+2022,R21,7/8/2022,North Melbourne,13.1,21,Sydney,18.18,lost
+2022,R23,20/8/2022,North Melbourne,6.11,23,Gold Coast,16.18,lost
+2022,R5,15/4/2022,North Melbourne,11.5,5,Western Bulldogs,21.13,lost
+2022,R6,24/4/2022,North Melbourne,9.7,6,Geelong,17.19,lost
+2022,R9,14/5/2022,North Melbourne,6.1,9,Port Adelaide,17.13,lost
+2022,R11,29/5/2022,Port Adelaide,9.12,11,Essendon,6.14,win
+2022,R14,18/6/2022,Port Adelaide,12.1,14,Sydney,8.11,win
+2022,R15,26/6/2022,Port Adelaide,13.15,15,Gold Coast,13.13,win
+2022,R17,9/7/2022,Port Adelaide,12.12,17,Greater Western Sydney,3.11,win
+2022,R19,23/7/2022,Port Adelaide,14.1,19,Geelong,16.1,lost
+2022,R2,26/3/2022,Port Adelaide,7.14,2,Hawthorn,19.6,lost
+2022,R21,6/8/2022,Port Adelaide,10.11,21,Richmond,16.13,lost
+2022,R23,20/8/2022,Port Adelaide,16.15,23,Adelaide,7.13,win
+2022,R4,7/4/2022,Port Adelaide,4.12,4,Melbourne,10.8,lost
+2022,R6,23/4/2022,Port Adelaide,18.9,6,West Coast,4.9,win
+2022,R8,6/5/2022,Port Adelaide,12.14,8,Western Bulldogs,10.9,win
+2022,R10,21/5/2022,Richmond,11.14,10,Essendon,7.6,win
+2022,R13,9/6/2022,Richmond,11.11,13,Port Adelaide,10.5,win
+2022,R14,16/6/2022,Richmond,11.15,14,Carlton,9.12,win
+2022,R16,3/7/2022,Richmond,20.8,16,West Coast,13.15,win
+2022,R19,22/7/2022,Richmond,7.1,19,Fremantle,7.1,draw
+2022,R2,27/3/2022,Richmond,16.13,2,Greater Western Sydney,10.13,win
+2022,R20,31/7/2022,Richmond,15.14,20,Brisbane Lions,14.13,win
+2022,R22,14/8/2022,Richmond,20.8,22,Hawthorn,9.13,win
+2022,R4,9/4/2022,Richmond,15.9,4,Western Bulldogs,7.19,win
+2022,R6,24/4/2022,Richmond,8.6,6,Melbourne,9.22,lost
+2022,R8,7/5/2022,Richmond,17.11,8,Collingwood,12.14,win
+2022,R1,18/3/2022,St Kilda,12.13,1,Collingwood,15.12,lost
+2022,R11,29/5/2022,St Kilda,16.7,11,North Melbourne,7.8,win
+2022,R14,17/6/2022,St Kilda,11.6,14,Essendon,15.17,lost
+2022,R17,9/7/2022,St Kilda,10.1,17,Fremantle,17.9,lost
+2022,R20,30/7/2022,St Kilda,10.15,20,Hawthorn,9.9,win
+2022,R22,12/8/2022,St Kilda,9.12,22,Brisbane Lions,12.9,lost
+2022,R23,21/8/2022,St Kilda,11.8,23,Sydney,13.1,lost
+2022,R3,3/4/2022,St Kilda,18.9,3,Richmond,13.6,win
+2022,R5,16/4/2022,St Kilda,13.9,5,Gold Coast,9.7,win
+2022,R7,30/4/2022,St Kilda,4.18,7,Port Adelaide,5.13,lost
+2022,R9,14/5/2022,St Kilda,13.12,9,Geelong,11.14,win
+2022,PF,17/9/2022,Sydney,14.11,28,Collingwood,14.1,win
+2022,R11,27/5/2022,Sydney,16.1,11,Richmond,15.1,win
+2022,R15,25/6/2022,Sydney,12.11,15,St Kilda,4.8,win
+2022,R17,8/7/2022,Sydney,17.18,17,Western Bulldogs,9.13,win
+2022,R19,23/7/2022,Sydney,17.16,19,Adelaide,12.13,win
+2022,R2,25/3/2022,Sydney,17.5,2,Geelong,10.17,win
+2022,R20,30/7/2022,Sydney,17.1,20,Greater Western Sydney,5.9,win
+2022,R22,14/8/2022,Sydney,11.11,22,Collingwood,7.8,win
+2022,R4,9/4/2022,Sydney,13.8,4,North Melbourne,12.3,win
+2022,R7,1/5/2022,Sydney,13.11,7,Brisbane Lions,17.11,lost
+2022,R8,7/5/2022,Sydney,8.13,8,Gold Coast,10.15,lost
+2022,R9,14/5/2022,Sydney,14.21,9,Essendon,6.11,win
+2022,R1,20/3/2022,West Coast,12.8,1,Gold Coast,16.11,lost
+2022,R11,28/5/2022,West Coast,9.6,11,Western Bulldogs,25.11,lost
+2022,R14,18/6/2022,West Coast,9.9,14,Geelong,12.9,lost
+2022,R15,24/6/2022,West Coast,16.11,15,Essendon,14.13,win
+2022,R17,10/7/2022,West Coast,8.5,17,Carlton,17.14,lost
+2022,R19,24/7/2022,West Coast,10.2,19,St Kilda,14.6,lost
+2022,R21,7/8/2022,West Coast,13.8,21,Adelaide,16.6,lost
+2022,R3,3/4/2022,West Coast,7.5,3,Fremantle,15.12,lost
+2022,R5,15/4/2022,West Coast,9.4,5,Sydney,18.13,lost
+2022,R7,29/4/2022,West Coast,8.8,7,Richmond,25.15,lost
+2022,R9,15/5/2022,West Coast,5.8,9,Melbourne,16.16,lost
+2022,R10,21/5/2022,Western Bulldogs,15.16,10,Gold Coast,13.9,win
+2022,R12,3/6/2022,Western Bulldogs,10.1,12,Geelong,12.11,lost
+2022,R15,24/6/2022,Western Bulldogs,19.11,15,Hawthorn,12.11,win
+2022,R18,15/7/2022,Western Bulldogs,13.6,18,St Kilda,7.14,win
+2022,R19,23/7/2022,Western Bulldogs,17.8,19,Melbourne,15.1,win
+2022,R2,24/3/2022,Western Bulldogs,13.12,2,Carlton,16.6,lost
+2022,R21,6/8/2022,Western Bulldogs,11.12,21,Fremantle,14.11,lost
+2022,R22,13/8/2022,Western Bulldogs,9.8,22,Greater Western Sydney,8.9,win
+2022,R3,31/3/2022,Western Bulldogs,9.17,3,Sydney,9.6,lost
+2022,R6,23/4/2022,Western Bulldogs,9.8,6,Adelaide,8.15,win
+2022,R7,1/5/2022,Western Bulldogs,16.7,7,Essendon,10.11,win
+2023,R11,28/5/2023,Adelaide,14.11,11,Brisbane Lions,10.18,win
+2023,R13,10/6/2023,Adelaide,27.12,13,West Coast,8.4,win
+2023,R16,1/7/2023,Adelaide,21.12,16,North Melbourne,11.6,win
+2023,R18,15/7/2023,Adelaide,8.9,18,Greater Western Sydney,10.11,lost
+2023,R2,25/3/2023,Adelaide,10.16,2,Richmond,17.6,lost
+2023,R20,29/7/2023,Adelaide,16.16,20,Port Adelaide,9.11,win
+2023,R21,5/8/2023,Adelaide,13.11,21,Gold Coast,9.7,win
+2023,R23,19/8/2023,Adelaide,10.13,23,Sydney,11.8,lost
+2023,R4,8/4/2023,Adelaide,17.9,4,Fremantle,10.12,win
+2023,R5,13/4/2023,Adelaide,18.1,5,Carlton,9.8,win
+2023,R7,30/4/2023,Adelaide,7.16,7,Collingwood,8.11,lost
+2023,R9,14/5/2023,Adelaide,19.7,9,St Kilda,10.9,win
+2023,PF,23/9/2023,Brisbane Lions,11.13,28,Carlton,9.9,win
+2023,QF,9/9/2023,Brisbane Lions,19.9,26,Port Adelaide,11.9,win
+2023,R10,20/5/2023,Brisbane Lions,16.11,10,Gold Coast,9.1,win
+2023,R14,16/6/2023,Brisbane Lions,13.19,14,Sydney,12.9,win
+2023,R16,29/6/2023,Brisbane Lions,20.14,16,Richmond,7.11,win
+2023,R17,8/7/2023,Brisbane Lions,16.2,17,West Coast,5.5,win
+2023,R19,22/7/2023,Brisbane Lions,9.1,19,Geelong,7.11,win
+2023,R2,24/3/2023,Brisbane Lions,14.9,2,Melbourne,13.4,win
+2023,R22,12/8/2023,Brisbane Lions,15.9,22,Adelaide,13.15,win
+2023,R24,26/8/2023,Brisbane Lions,9.18,24,St Kilda,9.6,lost
+2023,R4,6/4/2023,Brisbane Lions,18.8,4,Collingwood,11.17,win
+2023,R5,15/4/2023,Brisbane Lions,22.2,5,North Melbourne,12.5,win
+2023,R7,29/4/2023,Brisbane Lions,17.13,7,Fremantle,10.7,win
+2023,R9,13/5/2023,Brisbane Lions,12.15,9,Essendon,6.9,win
+2023,EF,8/9/2023,Carlton,11.8,25,Sydney,9.14,win
+2023,R10,21/5/2023,Carlton,7.15,10,Collingwood,13.7,lost
+2023,R13,11/6/2023,Carlton,6.16,13,Essendon,13.8,lost
+2023,R14,18/6/2023,Carlton,18.12,14,Gold Coast,8.13,win
+2023,R18,15/7/2023,Carlton,18.14,18,Port Adelaide,10.12,win
+2023,R19,22/7/2023,Carlton,21.14,19,West Coast,10.9,win
+2023,R2,23/3/2023,Carlton,13.12,2,Geelong,12.1,win
+2023,R22,12/8/2023,Carlton,9.6,22,Melbourne,8.8,win
+2023,R24,27/8/2023,Carlton,11.7,24,Greater Western Sydney,16.9,lost
+2023,R6,23/4/2023,Carlton,8.12,6,St Kilda,12.1,lost
+2023,R8,5/5/2023,Carlton,11.8,8,Brisbane Lions,15.1,lost
+2023,R9,13/5/2023,Carlton,8.11,9,Western Bulldogs,11.13,lost
+2023,GF,30/9/2023,Collingwood,12.18,29,Brisbane Lions,13.8,lost
+2023,PF,22/9/2023,Collingwood,8.1,28,Greater Western Sydney,8.9,lost
+2023,QF,7/9/2023,Collingwood,9.6,26,Melbourne,7.11,win
+2023,R11,28/5/2023,Collingwood,16.9,11,North Melbourne,10.1,win
+2023,R15,25/6/2023,Collingwood,12.1,15,Adelaide,11.14,win
+2023,R18,15/7/2023,Collingwood,18.5,18,Fremantle,10.7,win
+2023,R2,25/3/2023,Collingwood,21.9,2,Port Adelaide,9.1,win
+2023,R20,28/7/2023,Collingwood,10.16,20,Carlton,14.9,lost
+2023,R22,11/8/2023,Collingwood,16.13,22,Geelong,15.11,win
+2023,R23,18/8/2023,Collingwood,15.1,23,Brisbane Lions,19.1,lost
+2023,R3,31/3/2023,Collingwood,8.15,3,Richmond,7.7,win
+2023,R5,16/4/2023,Collingwood,10.1,5,St Kilda,9.1,win
+2023,R6,25/4/2023,Collingwood,13.12,6,Essendon,11.11,win
+2023,R8,7/5/2023,Collingwood,11.11,8,Sydney,6.12,win
+2023,R9,14/5/2023,Collingwood,18.12,9,Greater Western Sydney,7.13,win
+2023,R10,20/5/2023,Essendon,10.11,10,Richmond,10.1,win
+2023,R12,4/6/2023,Essendon,16.9,12,North Melbourne,15.9,win
+2023,R16,1/7/2023,Essendon,10.14,16,Port Adelaide,11.12,lost
+2023,R17,9/7/2023,Essendon,17.13,17,Adelaide,15.7,win
+2023,R19,21/7/2023,Essendon,7.7,19,Western Bulldogs,13.12,lost
+2023,R2,26/3/2023,Essendon,16.12,2,Gold Coast,11.14,win
+2023,R20,29/7/2023,Essendon,15.9,20,Sydney,15.11,win
+2023,R21,5/8/2023,Essendon,10.13,21,West Coast,11.6,lost
+2023,R24,25/8/2023,Essendon,3.13,24,Collingwood,16.5,lost
+2023,R4,9/4/2023,Essendon,11.22,4,Greater Western Sydney,11.9,lost
+2023,R5,15/4/2023,Essendon,15.14,5,Melbourne,11.11,win
+2023,R7,30/4/2023,Essendon,16.8,7,Geelong,20.12,lost
+2023,R10,20/5/2023,Fremantle,16.1,10,Geelong,11.11,win
+2023,R13,10/6/2023,Fremantle,10.1,13,Richmond,12.13,lost
+2023,R15,24/6/2023,Fremantle,14.9,15,Essendon,9.7,win
+2023,R17,9/7/2023,Fremantle,6.9,17,Carlton,14.14,lost
+2023,R19,22/7/2023,Fremantle,12.4,19,Sydney,16.9,lost
+2023,R2,25/3/2023,Fremantle,10.12,2,North Melbourne,11.7,lost
+2023,R21,6/8/2023,Fremantle,11.8,21,Brisbane Lions,11.11,win
+2023,R23,20/8/2023,Fremantle,8.1,23,Port Adelaide,11.8,lost
+2023,R3,2/4/2023,Fremantle,16.12,3,West Coast,9.13,win
+2023,R5,14/4/2023,Fremantle,15.1,5,Gold Coast,13.12,win
+2023,R6,21/4/2023,Fremantle,10.9,6,Western Bulldogs,17.16,lost
+2023,R8,6/5/2023,Fremantle,18.9,8,Hawthorn,7.6,win
+2023,R1,17/3/2023,Geelong,16.7,1,Collingwood,19.11,lost
+2023,R11,27/5/2023,Geelong,10.14,11,Greater Western Sydney,12.9,lost
+2023,R15,22/6/2023,Geelong,11.12,15,Melbourne,8.15,win
+2023,R17,9/7/2023,Geelong,19.11,17,North Melbourne,9.9,win
+2023,R18,15/7/2023,Geelong,18.14,18,Essendon,7.3,win
+2023,R20,29/7/2023,Geelong,9.1,20,Fremantle,10.11,lost
+2023,R21,5/8/2023,Geelong,14.13,21,Port Adelaide,12.13,win
+2023,R24,26/8/2023,Geelong,11.13,24,Western Bulldogs,16.8,lost
+2023,R4,10/4/2023,Geelong,19.13,4,Hawthorn,6.9,win
+2023,R5,16/4/2023,Geelong,21.1,5,West Coast,13.11,win
+2023,R6,22/4/2023,Geelong,20.1,6,Sydney,5.7,win
+2023,R8,6/5/2023,Geelong,14.14,8,Adelaide,11.6,win
+2023,R1,18/3/2023,Gold Coast,9.7,1,Sydney,16.14,lost
+2023,R11,27/5/2023,Gold Coast,13.6,11,Western Bulldogs,11.11,win
+2023,R12,3/6/2023,Gold Coast,16.16,12,Adelaide,13.9,win
+2023,R15,25/6/2023,Gold Coast,14.17,15,Hawthorn,5.4,win
+2023,R16,1/7/2023,Gold Coast,5.12,16,Collingwood,18.12,lost
+2023,R18,15/7/2023,Gold Coast,11.11,18,St Kilda,8.3,win
+2023,R20,29/7/2023,Gold Coast,15.6,20,Brisbane Lions,7.13,win
+2023,R23,19/8/2023,Gold Coast,13.9,23,Carlton,13.13,win
+2023,R3,2/4/2023,Gold Coast,10.13,3,Geelong,7.12,win
+2023,R6,23/4/2023,Gold Coast,14.13,6,North Melbourne,7.12,win
+2023,R8,6/5/2023,Gold Coast,13.7,8,Melbourne,13.12,win
+2023,R1,19/3/2023,Greater Western Sydney,15.16,1,Adelaide,12.18,win
+2023,R10,21/5/2023,Greater Western Sydney,12.8,10,St Kilda,13.14,lost
+2023,R12,4/6/2023,Greater Western Sydney,15.14,12,Richmond,16.14,lost
+2023,R14,17/6/2023,Greater Western Sydney,16.1,14,Fremantle,5.6,win
+2023,R17,8/7/2023,Greater Western Sydney,12.13,17,Hawthorn,10.12,win
+2023,R19,23/7/2023,Greater Western Sydney,15.13,19,Gold Coast,9.9,win
+2023,R21,5/8/2023,Greater Western Sydney,12.13,21,Sydney,15.6,lost
+2023,R23,19/8/2023,Greater Western Sydney,25.12,23,Essendon,5.6,win
+2023,R3,1/4/2023,Greater Western Sydney,9.1,3,Carlton,9.2,lost
+2023,R5,16/4/2023,Greater Western Sydney,10.17,5,Hawthorn,11.9,lost
+2023,R6,22/4/2023,Greater Western Sydney,13.9,6,Brisbane Lions,16.12,lost
+2023,R8,6/5/2023,Greater Western Sydney,10.11,8,Western Bulldogs,13.8,lost
+2023,R1,19/3/2023,Hawthorn,9.11,1,Essendon,19.1,lost
+2023,R10,21/5/2023,Hawthorn,22.1,10,West Coast,4.2,win
+2023,R13,10/6/2023,Hawthorn,15.8,13,Brisbane Lions,11.7,win
+2023,R16,2/7/2023,Hawthorn,7.1,16,Carlton,17.1,lost
+2023,R20,30/7/2023,Hawthorn,14.9,20,St Kilda,19.8,lost
+2023,R21,5/8/2023,Hawthorn,16.9,21,Collingwood,11.7,win
+2023,R22,13/8/2023,Hawthorn,9.13,22,Western Bulldogs,9.1,win
+2023,R24,26/8/2023,Hawthorn,8.8,24,Fremantle,14.9,lost
+2023,R3,1/4/2023,Hawthorn,11.14,3,North Melbourne,9.7,win
+2023,R6,23/4/2023,Hawthorn,11.1,6,Adelaide,11.13,lost
+2023,R9,13/5/2023,Hawthorn,7.7,9,Melbourne,15.13,lost
+2023,R1,18/3/2023,Melbourne,17.13,1,Western Bulldogs,9.11,win
+2023,R11,27/5/2023,Melbourne,10.12,11,Fremantle,12.7,lost
+2023,R12,2/6/2023,Melbourne,8.13,12,Carlton,6.8,win
+2023,R13,12/6/2023,Melbourne,8.18,13,Collingwood,9.8,lost
+2023,R16,2/7/2023,Melbourne,5.15,16,Greater Western Sydney,7.5,lost
+2023,R18,14/7/2023,Melbourne,16.9,18,Brisbane Lions,16.8,win
+2023,R19,23/7/2023,Melbourne,14.13,19,Adelaide,13.15,win
+2023,R23,20/8/2023,Melbourne,13.9,23,Hawthorn,9.6,win
+2023,R3,2/4/2023,Melbourne,21.8,3,Sydney,12.12,win
+2023,R6,24/4/2023,Melbourne,15.6,6,Richmond,11.12,win
+2023,R7,29/4/2023,Melbourne,22.7,7,North Melbourne,7.7,win
+2023,SF,15/9/2023,Melbourne,9.17,27,Carlton,11.7,lost
+2023,R1,18/3/2023,North Melbourne,12.15,1,West Coast,12.1,win
+2023,R10,20/5/2023,North Melbourne,14.6,10,Sydney,14.9,lost
+2023,R13,11/6/2023,North Melbourne,11.9,13,Greater Western Sydney,15.13,lost
+2023,R14,18/6/2023,North Melbourne,13.6,14,Western Bulldogs,15.15,lost
+2023,R18,16/7/2023,North Melbourne,6.4,18,Hawthorn,12.16,lost
+2023,R21,6/8/2023,North Melbourne,10.11,21,Melbourne,15.13,lost
+2023,R22,12/8/2023,North Melbourne,12.5,22,Essendon,13.8,lost
+2023,R24,26/8/2023,North Melbourne,20.12,24,Gold Coast,14.13,win
+2023,R4,7/4/2023,North Melbourne,11.18,4,Carlton,16.11,lost
+2023,R8,7/5/2023,North Melbourne,4.1,8,St Kilda,8.16,lost
+2023,R9,13/5/2023,North Melbourne,10.5,9,Port Adelaide,20.15,lost
+2023,R1,18/3/2023,Port Adelaide,18.18,1,Brisbane Lions,11.6,win
+2023,R10,19/5/2023,Port Adelaide,11.14,10,Melbourne,11.1,win
+2023,R12,3/6/2023,Port Adelaide,23.13,12,Hawthorn,14.12,win
+2023,R14,15/6/2023,Port Adelaide,16.14,14,Geelong,11.6,win
+2023,R17,8/7/2023,Port Adelaide,16.1,17,Gold Coast,11.7,win
+2023,R19,22/7/2023,Port Adelaide,12.11,19,Collingwood,13.7,lost
+2023,R22,13/8/2023,Port Adelaide,21.1,22,Greater Western Sydney,13.7,win
+2023,R24,27/8/2023,Port Adelaide,13.16,24,Richmond,8.15,win
+2023,R3,1/4/2023,Port Adelaide,13.8,3,Adelaide,18.9,lost
+2023,R5,15/4/2023,Port Adelaide,10.1,5,Western Bulldogs,8.8,win
+2023,R6,22/4/2023,Port Adelaide,16.13,6,West Coast,10.9,win
+2023,R8,7/5/2023,Port Adelaide,12.2,8,Essendon,13.9,lost
+2023,SF,16/9/2023,Port Adelaide,9.16,27,Greater Western Sydney,13.15,lost
+2023,R1,16/3/2023,Richmond,8.1,1,Carlton,8.1,draw
+2023,R11,28/5/2023,Richmond,9.13,11,Port Adelaide,10.17,lost
+2023,R14,17/6/2023,Richmond,13.12,14,St Kilda,11.4,win
+2023,R17,6/7/2023,Richmond,12.16,17,Sydney,11.9,win
+2023,R19,22/7/2023,Richmond,14.12,19,Hawthorn,15.5,lost
+2023,R20,30/7/2023,Richmond,15.8,20,Melbourne,20.1,lost
+2023,R23,19/8/2023,Richmond,14.17,23,North Melbourne,10.12,win
+2023,R4,8/4/2023,Richmond,12.12,4,Western Bulldogs,12.17,lost
+2023,R5,14/4/2023,Richmond,11.12,5,Sydney,18.14,lost
+2023,R7,30/4/2023,Richmond,6.12,7,Gold Coast,11.6,lost
+2023,R8,6/5/2023,Richmond,15.14,8,West Coast,8.1,win
+2023,R9,12/5/2023,Richmond,16.6,9,Geelong,11.12,win
+2023,EF,9/9/2023,St Kilda,11.11,25,Greater Western Sydney,15.11,lost
+2023,R1,19/3/2023,St Kilda,10.7,1,Fremantle,7.1,win
+2023,R11,27/5/2023,St Kilda,12.6,11,Hawthorn,12.16,win
+2023,R15,23/6/2023,St Kilda,8.8,15,Brisbane Lions,12.12,lost
+2023,R17,8/7/2023,St Kilda,8.1,17,Melbourne,12.7,lost
+2023,R19,23/7/2023,St Kilda,9.15,19,North Melbourne,9.7,lost
+2023,R21,6/8/2023,St Kilda,8.6,21,Carlton,10.13,lost
+2023,R22,13/8/2023,St Kilda,14.9,22,Richmond,8.9,win
+2023,R23,19/8/2023,St Kilda,12.16,23,Geelong,8.7,win
+2023,R3,1/4/2023,St Kilda,14.8,3,Essendon,11.8,win
+2023,R4,8/4/2023,St Kilda,17.11,4,Gold Coast,8.12,win
+2023,R7,28/4/2023,St Kilda,11.1,7,Port Adelaide,12.11,lost
+2023,R11,26/5/2023,Sydney,11.11,11,Carlton,6.15,win
+2023,R13,8/6/2023,Sydney,9.12,13,St Kilda,12.8,lost
+2023,R15,24/6/2023,Sydney,31.19,15,West Coast,5.4,win
+2023,R16,30/6/2023,Sydney,6.18,16,Geelong,7.12,lost
+2023,R18,13/7/2023,Sydney,11.12,18,Western Bulldogs,11.1,win
+2023,R2,26/3/2023,Sydney,17.16,2,Hawthorn,4.13,win
+2023,R22,12/8/2023,Sydney,18.6,22,Gold Coast,13.12,win
+2023,R24,27/8/2023,Sydney,7.14,24,Melbourne,11.11,lost
+2023,R4,8/4/2023,Sydney,9.1,4,Port Adelaide,9.12,lost
+2023,R7,29/4/2023,Sydney,16.1,7,Greater Western Sydney,17.5,lost
+2023,R9,13/5/2023,Sydney,13.8,9,Fremantle,16.7,lost
+2023,R11,27/5/2023,West Coast,6.1,11,Essendon,14.12,lost
+2023,R12,3/6/2023,West Coast,8.9,12,Collingwood,18.12,lost
+2023,R16,2/7/2023,West Coast,12.5,16,St Kilda,12.13,win
+2023,R18,16/7/2023,West Coast,8.12,18,Richmond,14.14,lost
+2023,R2,26/3/2023,West Coast,14.16,2,Greater Western Sydney,11.15,win
+2023,R20,30/7/2023,West Coast,10.12,20,North Melbourne,10.7,lost
+2023,R22,12/8/2023,West Coast,4.9,22,Fremantle,20.14,lost
+2023,R24,26/8/2023,West Coast,12.6,24,Adelaide,17.21,lost
+2023,R4,9/4/2023,West Coast,9.9,4,Melbourne,19.12,lost
+2023,R7,29/4/2023,West Coast,6.8,7,Carlton,23.14,lost
+2023,R9,12/5/2023,West Coast,6.7,9,Gold Coast,16.17,lost
+2023,R10,20/5/2023,Western Bulldogs,11.19,10,Adelaide,5.1,win
+2023,R12,3/6/2023,Western Bulldogs,10.15,12,Geelong,15.7,lost
+2023,R13,9/6/2023,Western Bulldogs,13.7,13,Port Adelaide,16.11,lost
+2023,R16,1/7/2023,Western Bulldogs,16.6,16,Fremantle,11.7,win
+2023,R17,7/7/2023,Western Bulldogs,11.11,17,Collingwood,13.11,lost
+2023,R2,25/3/2023,Western Bulldogs,5.11,2,St Kilda,14.8,lost
+2023,R20,29/7/2023,Western Bulldogs,10.13,20,Greater Western Sydney,11.12,lost
+2023,R21,4/8/2023,Western Bulldogs,19.12,21,Richmond,10.11,win
+2023,R23,20/8/2023,Western Bulldogs,12.13,23,West Coast,14.8,lost
+2023,R3,30/3/2023,Western Bulldogs,10.7,3,Brisbane Lions,7.11,win
+2023,R7,29/4/2023,Western Bulldogs,14.1,7,Hawthorn,9.11,win
