@@ -1,20 +1,37 @@
-Avg_Away_Goals	Avg_Home_Goals	Team
-13	15	Adelaide
-12	15	Brisbane
-12	12	Carlton
-14	13	Collingwood
-11	12	Essendon
-11	12	Fremantle
-11	15	Geelong
-10	12	Hawthorn
-13	13	Melbourne
-10	11	North Melbourne
-12	15	Port Adelaide
-11	12	Richmond
-11	11	St Kilda
-12	13	Sydney
-9	9	West Coast
-12	12	Western Bulldogs
-11	12	Gold Coast
-12	14	GWS Giants
-
+Team	Metric	Value
+Adelaide	Avg_Away_Goals	13
+Brisbane	Avg_Away_Goals	12
+Carlton	Avg_Away_Goals	12
+Collingwood	Avg_Away_Goals	14
+Essendon	Avg_Away_Goals	11
+Fremantle	Avg_Away_Goals	11
+Geelong	Avg_Away_Goals	11
+Hawthorn	Avg_Away_Goals	10
+Melbourne	Avg_Away_Goals	13
+North Melbourne	Avg_Away_Goals	10
+Port Adelaide	Avg_Away_Goals	12
+Richmond	Avg_Away_Goals	11
+St Kilda	Avg_Away_Goals	11
+Sydney	Avg_Away_Goals	12
+West Coast	Avg_Away_Goals	9
+Western Bulldogs	Avg_Away_Goals	12
+Gold Coast	Avg_Away_Goals	11
+GWS Giants	Avg_Away_Goals	12
+Adelaide	Avg_Home_Goals	15
+Brisbane	Avg_Home_Goals	15
+Carlton	Avg_Home_Goals	12
+Collingwood	Avg_Home_Goals	13
+Essendon	Avg_Home_Goals	12
+Fremantle	Avg_Home_Goals	12
+Geelong	Avg_Home_Goals	15
+Hawthorn	Avg_Home_Goals	12
+Melbourne	Avg_Home_Goals	13
+North Melbourne	Avg_Home_Goals	11
+Port Adelaide	Avg_Home_Goals	15
+Richmond	Avg_Home_Goals	12
+St Kilda	Avg_Home_Goals	11
+Sydney	Avg_Home_Goals	13
+West Coast	Avg_Home_Goals	9
+Western Bulldogs	Avg_Home_Goals	12
+Gold Coast	Avg_Home_Goals	12
+GWS Giants	Avg_Home_Goals	14
