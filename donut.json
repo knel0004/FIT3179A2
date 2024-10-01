@@ -1,0 +1,71 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A simple donut chart with embedded data.",
+    "width": 400,
+    "height": 400,
+    "title": "Comparing Teams Average Goal Output at Home VS Away",
+    "data": {
+      "url": "https://raw.githubusercontent.com/knel0004/FIT3179A2/refs/heads/main/transformed_data_piechart.csv"
+    },
+    "params": [
+      {
+        "name": "TeamSelector",
+        "value": "Geelong",
+        "bind": {
+          "input": "select",
+          "options": [
+            "Adelaide", "Brisbane", "Carlton", "Collingwood", "Essendon", 
+            "Fremantle", "Geelong", "Hawthorn", "Melbourne", "North Melbourne", 
+            "Port Adelaide", "Richmond", "St Kilda", "Sydney", "West Coast", 
+            "Western Bulldogs", "Gold Coast", "GWS Giants"
+          ],
+          "name": "Select Teams: "
+        }
+      }
+    ],
+    "transform": [
+      {
+        "calculate": "toNumber(datum.Value)",
+        "as": "value"
+      },
+      {
+        "calculate": "datum.Metric === 'Avg_Away_Goals' ? 'Average Away Goals' : 'Average Home Goals'",
+        "as": "MetricName"
+      },
+  
+      {
+        "filter": "datum.Team == TeamSelector"
+      }
+    ],
+    "mark": {
+      "type": "arc",
+      "innerRadius": 50,
+      "tooltip": true
+    },
+    "encoding": {
+      "theta": {
+        "field": "value",
+        "type": "quantitative"
+      },
+      "color": {
+        "field": "MetricName",
+        "type": "nominal",
+        "title": "",
+        "scale": {
+          "domain": [
+            "Average Away Goals", 
+            "Average Home Goals"
+          ],
+          "range": [
+            "red",
+            "blue"  
+          ]
+        }
+      },
+      "tooltip": [
+        {"field": "MetricName", "type": "nominal", "title": "Category"},
+        {"field": "value", "type": "quantitative", "title": "Goals"}
+      ]
+    }
+  }
+  
