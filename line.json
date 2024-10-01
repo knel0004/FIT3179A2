@@ -1,0 +1,134 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 750,
+  "height": 450,
+  "title": "Points Obtained by Different Teams Over Time",
+  "data": {
+    "url": "https://raw.githubusercontent.com/knel0004/3179HomeworkWeek10/refs/heads/main/team_round_cumulative_points.csv"
+  },
+
+  "transform": [
+    {
+      "calculate": "toNumber(replace(datum.RoundOrder, ',', ''))",
+      "as": "roundOrd"
+    },
+    {
+      "filter": "datum.Year == YearSelector"
+    }
+  ],
+
+  "params": [
+    {
+      "name": "YearSelector",
+      "value": 2023,
+      "bind": {
+        "input": "select",
+        "options": [2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+        "labels": ["2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023"],
+        "name": "Select Year: "
+      }
+    },
+    {
+      "name": "TeamSelector",
+      "value": "Melbourne",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Greater Western Sydney", "Carlton", "Sydney", "Collingwood", "Richmond", "Geelong",
+          "Melbourne", "Essendon", "Hawthorn", "North Melbourne", "Fremantle", "Brisbane",
+          "Gold Coast", "Adelaide", "St Kilda", "West Coast", "Port Adelaide", "Western Bulldogs"
+        ],
+        "name": "Select Teams: "
+      }
+    }
+  ],
+
+  "layer": [
+    {
+      "mark": {"type": "line", "point": true},
+      "transform": [
+        {
+          "filter": "datum.Team == TeamSelector"
+        }
+      ],
+      "encoding": {
+        "x": {"field": "roundOrd", "type": "nominal", "title": "Rounds"},
+        "y": {"field": "Cumulative Points", "type": "quantitative", "title": "Total Points"},
+        
+        "tooltip": [
+          {"field": "Team", "type": "nominal", "title": "Team: "},
+          {"field": "Year", "type": "nominal", "title": "Year: "},
+          {"field": "roundOrd", "type": "quantitative", "title": "Round: "},
+          {"field": "Cumulative Points", "type": "quantitative", "title": "Total Points: "}
+        ]
+      }
+    },
+    {
+      "mark": {"type": "line", "point": true, "color": "gray", "strokeWidth": 4, "opacity": 0.4},
+      "encoding": {
+        "x": {"field": "roundOrd", "type": "nominal", "title": "Rounds"},
+        "y": {
+          "aggregate": "mean",
+          "field": "Cumulative Points",
+          "type": "quantitative",
+          "title": "Average Points"
+        }
+        
+      }
+      
+    },
+    {
+      "mark": {
+        "type": "text", 
+        "dx": 350, 
+        "dy": 30, 
+        "fontSize": 13.5, 
+        "align": "center", 
+        "baseline": "top"
+      },
+      "encoding": {
+        "x": {"value": 0},
+        "y": {"value": 0},
+        "text": {
+          "value": "The gray line shows average points accumulated by all other teams."
+        },
+        "color": {"value": "grey"}
+      }
+    },
+    {
+      "mark": {
+        "type": "text", 
+        "dx": 350, 
+        "dy": 50, 
+        "fontSize": 13.5, 
+        "align": "center", 
+        "baseline": "top"
+      },
+      "encoding": {
+        "x": {"value": 0},
+        "y": {"value": 0}, 
+        "text": {
+          "value": "This allows us to compare the performance of a team"
+        },
+        "color": {"value": "grey"}
+      }
+      
+    },
+    {
+      "mark": {
+        "type": "text", 
+        "dx": 350, 
+        "dy": 70, 
+        "fontSize": 13.5, 
+        "align": "center", 
+        "baseline": "top"
+      },
+      "encoding": {
+        "x": {"value": 0},
+        "y": {"value": 0}, 
+        "text": {"value": "against the rest of the league"},
+        "color": {"value": "grey"}
+      }
+    }
+  ]
+}
