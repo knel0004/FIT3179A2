@@ -1,0 +1,113 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Parallel coordinates plot showing relationship between Normalised attendance of Away Team with Rainfall, Min Temperature and Max Temperature",
+  "data": {
+    "url": "https://raw.githubusercontent.com/knel0004/FIT3179A2/refs/heads/main/kaggle_afllocation.csv",
+    "format": {
+      "type": "csv",
+      "parse": {"MinTemp": "number", "MaxTemp": "number", "Rainfall": "number"}
+    }
+  },
+  "width": 700,
+  "height": 400,
+  "transform": [
+    {
+      "filter": "datum.AwayTeam == SelectedTeam"
+    },
+    {
+      "calculate": "toNumber(replace(datum.Attendance, ',', ''))",
+      "as": "Attendance"
+    },
+    
+    {"window": [{"op": "count", "as": "index"}]},
+    {"fold": ["MinTemp", "MaxTemp", "Rainfall", "Attendance"]},
+    {
+      "joinaggregate": [
+        {"op": "min", "field": "value", "as": "min"},
+        {"op": "max", "field": "value", "as": "max"}
+      ],
+      "groupby": ["key"]
+    },
+    {
+      "calculate": "(datum.value - datum.min) / (datum.max - datum.min)",
+      "as": "norm_val"
+    }
+  ],
+  "params": [
+    {
+      "name": "SelectedTeam",
+      "value": "Adelaide",  
+      "bind": {
+        "input": "select",
+        "options": [
+          "Greater Western Sydney", "Carlton", "Sydney", "Collingwood", "Richmond", "Geelong",
+          "Melbourne", "Essendon", "Hawthorn", "North Melbourne", "Fremantle", "Brisbane",
+          "Gold Coast", "Adelaide", "St Kilda", "West Coast", "Port Adelaide", "Western Bulldogs"
+        ],
+        "name": "Select Team: "
+      }
+    }
+  ],
+  "layer": [
+    {
+      "mark": {"type": "rule", "color": "lightgrey"},
+      "encoding": {
+        "detail": {"aggregate": "count"},
+        "x": {"field": "key"}
+      }
+    },
+    {
+      "mark": "line",
+      "encoding": {
+        "detail": {"field": "index"},
+        "opacity": {"value": 0.3},
+        "x": {"type": "nominal", "field": "key"},
+        "y": {"type": "quantitative", "field": "norm_val", "axis": null},
+        "tooltip": [{
+        "type": "nominal",
+        "field": "AwayTeam",
+        "title": "Team"
+      }, {
+        "type": "quantitative",
+        "field": "Year"
+      }, {
+        "type": "quantitative",
+        "field": "Attendance"
+      }, {
+        "type": "quantitative",
+        "field": "MaxTemp"
+      },{
+        "type": "quantitative",
+        "field": "MinTemp"
+      },{
+        "type": "quantitative",
+        "field": "Rainfall"
+      }
+      ]
+        
+      }
+      
+    },
+    {
+      "encoding": {
+        "x": {"type": "nominal", "field": "key"},
+        "y": {"value": 0}
+      },
+      "layer": [
+        {
+          "mark": {"type": "text", "style": "label"},
+          "encoding": {
+            "text": {"aggregate": "max", "field": "max"}
+          }
+        },
+        {
+          "mark": {"type": "tick", "style": "tick", "size": 8, "color": "lightgrey"}
+        }
+      ]
+    }
+  ],
+  "config": {
+    "axisX": {"domain": false, "labelAngle": 0, "tickColor": "lightgrey", "title": null},
+    "view": {"stroke": null}
+  }
+}
