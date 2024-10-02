@@ -1,0 +1,71 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 700,
+  "height": 150,
+  "data": {"url": "https://raw.githubusercontent.com/knel0004/3179HomeworkWeek10/refs/heads/main/team_round_cumulative_points.csv"},
+  "title": "Top 3 Team Point Comparision From 2013 to 2023",
+  "mark": "area",
+  "transform": [
+    {
+      "calculate": "toNumber(replace(datum.RoundOrder, ',', ''))",
+      "as": "roundOrd"
+    },
+    {
+      "filter": " datum.Year == YearSelector && (datum.Team == 'Carlton' || datum.Team == 'Collingwood' || datum.Team == 'Essendon')"
+    }
+  ],
+  "params": [
+    {   
+      "name": "YearSelector",
+      "value": 2023,
+      "bind": {
+        "input": "select",
+        "options": [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+        "labels": ["2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023"],
+        "name": "Select Year: "
+      }
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "roundOrd",
+      "type": "nominal",
+      "title": "Rounds",
+      "axis": {"grid": false}
+    },
+    "y": {
+          "field": "Cumulative Points",
+          "type": "quantitative",
+          "title": "Total Points",
+          "axis": {"grid": false}
+    },
+    "color": {
+      "field": "Team",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Carlton", 
+          "Collingwood",
+          "Essendon"
+        ],
+        "range": [
+          "#d3d3ff",
+          "#ffd3ac",
+          "#EFA282"
+        ]
+      }
+    },
+    "row": {
+      "field": "Team",
+      "type": "nominal",
+      "title": "Teams"
+    },
+    "tooltip": [
+        {"field": "Team", "type": "nominal", "title": "Team: "},
+        {"field": "Year", "type": "nominal", "title": "Year: "},
+        {"field": "roundOrd", "type": "quantitative", "title": "Round: "},
+        {"field": "Cumulative Points", "type": "quantitative", "title": "Total Points: "}
+      ]
+  }
+  
+}
