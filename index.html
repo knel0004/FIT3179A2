@@ -17,10 +17,67 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
-  
+
+  <style>
+
+    body {
+      background-color: #fce3d4;
+      font-family: 'Open Sans', sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container  {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .row{
+      text-align: center;
+      display: flex;
+      flex-direction: row;
+    }
+    .icon-description {
+      display: flex;
+      text-align: justify ;
+      font-size: 12px;
+      margin-left: 10px;
+      width: 250px;
+      margin-top: 10px;
+      
+    }
+
+    .border{
+      margin-left: 130px;
+    }
+
+    .icon{
+      margin-left: 200px;
+    }
+
+    .colIcon{
+      margin-left: 220px;
+    }
+    .colDesc{
+      margin-left: 200px;
+      display: flex;
+      text-align: justify ;
+      font-size: 12px;
+      width: 250px;
+    }
+
+    .colInfo{
+      margin-left: 200px;
+    }
+
+    
+
+    
+
+  </style>
 </head>
 
-<body style="background-color: #fce3d4;">
+<body>
 
   <div>
     <br>
@@ -54,61 +111,44 @@
           attracts nearly double the average attendance compared to these venues.
 
         </p>
-      </div>
-      <div style="position: absolute; 
-                  top: 940px;
-                  left: 640px;
-                  ">
+      </div>  
+      <div class="row">
+
+          <div class="border">
+            <img src="light.png" alt="ligh Icon" height="30" width="30">
+          </div>
+
+          <div class="icon-description">
+          <p>
+            Did you know that in 2020, the Melbourne Cricket Ground (MCG), typically 
+            bustling with over 100,000 fans, had no attendance due to the COVID-19 pandemic? 
+            <br><br>
+            For the first time in its history, the MCG stood empty for AFL matches, 
+            including the iconic Anzac Day clash and the Grand Final, which was moved to the Gabba in Brisbane. 
+            <br><br>
+            To fact check this, simply click on year 2020. You will notice no circular marks depicting
+            MCG stadium.
+          </p>
+          </div>
+  
+        
+      <div class="icon">
         <img src="info.png" alt="Info Icon" height="20" width="20">
       </div>
 
-      <div style="position: absolute; 
-                  top: 950px;
-                  left: 680px;
-                  width: 200px;
-                  ">
-        <p style="font-size: 12px; text-align: justify;">
+      <div class="icon-description">
+        <p>
           Use the dropdown option above to toggle and view the average attendance of the different stadiums according to the year
         </p>
       </div>
 
-      <div style="position: absolute; 
-                  top: 940px;
-                  left: 128px;
-                  ">
+      <div class="icon">
         <img src="light.png" alt="ligh Icon" height="30" width="30">
       </div>
 
-      <div style="position: absolute; 
-                  top: 950px;
-                  left: 200px;
-                  width: 250px;
-                  ">
-        <p style="font-size: 12px; text-align: justify;">
-          Did you know that in 2020, the Melbourne Cricket Ground (MCG), typically 
-          bustling with over 100,000 fans, had no attendance due to the COVID-19 pandemic? 
-          <br><br>
-          For the first time in its history, the MCG stood empty for AFL matches, 
-          including the iconic Anzac Day clash and the Grand Final, which was moved to the Gabba in Brisbane. 
-          <br><br>
-          To fact check this, simply click on year 2020. You will notice no circular marks depicting
-          MCG stadium.
-        </p>
-      </div>
 
-      <div style="position: absolute; 
-                  top: 940px;
-                  left: 1375px;
-                  ">
-        <img src="light.png" alt="ligh Icon" height="30" width="30">
-      </div>
-
-      <div style="position: absolute; 
-                  top: 950px;
-                  left: 1080px;
-                  width: 250px;
-                  ">
-        <p style="font-size: 12px; text-align: justify;">
+      <div class="icon-description">
+        <p>
           Did you know that there are no major AFL stadiums in the northern, northeastern, and northwestern regions of Australia? 
           This means that areas like the Northern Territory and parts of Queensland and Western Australia 
           lack the large-scale stadiums found in other parts of the country. 
@@ -117,49 +157,32 @@
           where cities like Melbourne, Sydney, and Perth host the majority of AFL games. 
         </p>
       </div>
+    </div>
 
     </div>
 
-    <br><br><br><br> <br><br><br><br> <br><br><br><br> <br><br><br><br> <br><br><br><br>
+    <br><br><br><br> 
 
-    <div style="text-align:center;">
-      <div>
-        <h3 style="font-size:20px;">Let's Investigate Home and Away Result of Teams Based on Years</h3>
-      </div>
+    <div style="text-align: center;">
+      <h3 style="font-size:20px;">Let's Investigate Home and Away Result of Teams Based on Years</h3>
+    </div>
+
+    <div class="row">
+      
       <br>
+      <div class="border">
       <div id="vis2"></div>
+      </div>
       <div id = "vis3"></div>
+    </div>
 
-      <div style="position: absolute; 
-                  top: 1880px;
-                  left: 640px;
-                  ">
-        <img src="info.png" alt="Info Icon" height="20" width="20">
+    <div class="row">
+      <div class="border">
+        <img src="light.png" alt="Info Icon" height="20" width="20">
       </div>
 
-      <div style="position: absolute; 
-                  top: 1890px;
-                  left: 680px;
-                  width: 200px;
-                  ">
-        <p style="font-size: 12px; text-align: justify;">
-          Select a team and year from the dropdown menus to view their home and away performance for that year        
-        </p>
-      </div>
-
-      <div style="position: absolute; 
-                  top: 1880px;
-                  left: 128px;
-                  ">
-        <img src="light.png" alt="ligh Icon" height="30" width="30">
-      </div>
-
-      <div style="position: absolute; 
-                  top: 1890px;
-                  left: 200px;
-                  width: 250px;
-                  ">
-        <p style="font-size: 12px; text-align: justify;">
+      <div class="icon-description">
+        <p>
           Did you know that in 2019, the Richmond Tigers dominated both home and away games? 
           <br><br>
           They had a particularly strong home record at the MCG, which was a fortress for them. 
@@ -169,19 +192,21 @@
         </p>
       </div>
 
-      <div style="position: absolute; 
-                  top: 1880px;
-                  left: 1365px;
-                  ">
+      <div class="icon">
+        <img src="info.png" alt="ligh Icon" height="30" width="30">
+      </div>
+
+      <div class="icon-description">
+        <p>
+          Select a team and year from the dropdown menus to view their home and away performance for that year        
+        </p>
+      </div>
+      <div class="icon">
         <img src="light.png" alt="ligh Icon" height="30" width="30">
       </div>
 
-      <div style="position: absolute; 
-                  top: 1890px;
-                  left: 1080px;
-                  width: 250px;
-                  ">
-        <p style="font-size: 12px; text-align: justify;">
+      <div class="icon-description">
+        <p>
           Did you know that 2020 was one of the worst year for Adelaide Team in term of performance?
           They managed to lose 14 times, only winning 21% of their fixtures.  
           <br><br>
@@ -191,42 +216,34 @@
           To fact check this, select Adelaide and year 2020 on both the above donut charts
         </p>
       </div>
-
+    </div>
 
     </div>
       
-    <br><br><br><br> <br><br><br><br> <br><br><br><br> <br><br><br><br> <br><br><br><br>
+    <br><br><br><br>
 
-      
     <div style= "text-align: center;">
       <div>
         <h3 style="font-size:20px;">Let's Investigate the Relationship Between a Team's Attendance count and Weather Factors</h3>
       </div>
       <br>
-      <div id="vis4", style="position: absolute; left: 128px;"></div>
 
-      <div style="position: absolute; 
-                  top: 2310px;
-                  left: 1190px;
-                  ">
+      <div class="row">
+      <div class="border" id="vis4"></div>
+      
+      <div class = "container">
+      <div class="colIcon">
         <img src="info.png" alt="Info Icon" height="20" width="20">
       </div>
-
-      <div style="position: absolute; 
-                  top: 2320px;
-                  left: 1080px;
-                  width: 250px;">
-                  
+      
+      <div class="colInfo">        
         <p style="font-size: 14px;">
           <b>How to read the chart?</b>
         </p>
       </div>
 
-      <div style="position: absolute; 
-                  top: 2340px;
-                  left: 1080px;
-                  width: 250px;">
-        <p style="font-size: 12px; text-align: justify;">
+      <div class="colDesc">
+        <p>
           Each vertical axis represent a different variable. Each line represents a specific match
           played by that particular team. 
           <br><br>
@@ -241,18 +258,12 @@
         </p>
       </div>
 
-      <div style="position: absolute; 
-                  top: 2660px;
-                  left: 1190px;
-                  ">
+      <div class="colIcon">
         <img src="light.png" alt="ligh Icon" height="20" width="20">
       </div>
 
-      <div style="position: absolute; 
-                  top: 2670px;
-                  left: 1080px;
-                  width: 250px;">
-        <p style="font-size: 12px; text-align: justify;">
+      <div class="colDesc">
+        <p>
           <br>
           Did you know that Melbourne, Carlton, and Sydney are among the oldest AFL teams? 
           <br><br>
@@ -261,43 +272,35 @@
           reflecting their rich history and large, dedicated fan bases
         </p>
       </div>
-
+    </div>
+    </div>
     </div>
 
+    <br><br><br><br>
 
-    <div style="display: flex; justify-content: center; align-items: center; height: 180vh;">
+    <div style="text-align: center;">
       <h3 style="font-size: 20px;">Let's Investigate the Point Progression of the Top 3 AFL Teams for Each Round, Based on the Year
       </h3>
     </div>
     
-    
-    <div style= "position: absolute; top:3000px ; text-align: center;">
+    <div class="row">
       <br>
-      <div id="vis5", style="position: absolute; left: 128px;"></div>
+      <div class = "border" id="vis5"></div>
       <br>
-
-      <div style="position: absolute; 
-                  top: 50px;
-                  left: 1190px;
-                  ">
+      <div class="column">
+      <div class="colIcon">
         <img src="info.png" alt="Info Icon" height="20" width="20">
       </div>
 
-      <div style="position: absolute; 
-                  top: 70px;
-                  left: 1080px;
-                  width: 250px;">
+      <div class="colInfo">
                   
-        <p style="font-size: 14px;">
+        <p>
           <b>How to read the chart?</b>
         </p>
       </div>
 
-      <div style="position: absolute; 
-                  top: 90px;
-                  left: 1080px;
-                  width: 250px;">
-        <p style="font-size: 12px; text-align: justify;">
+      <div class="colDesc">
+        <p>
           
           Use the dropdown option below the chart to toggle and view the point progression of the AFL Teams for each round, based on the year
           <br><br>
@@ -310,18 +313,12 @@
         </p>
       </div>
 
-      <div style="position: absolute; 
-                  top: 320px;
-                  left: 1190px;
-                  ">
+      <div class="colIcon">
         <img src="light.png" alt="ligh Icon" height="20" width="20">
       </div>
 
-      <div style="position: absolute; 
-                  top: 340px;
-                  left: 1080px;
-                  width: 250px;">
-        <p style="font-size: 12px; text-align: justify;">
+      <div class="colDesc">
+        <p>
           <br>
           Did you know that Carlton, Collingwood, and Essendon are tied for the most AFL premierships, 
           each with 16 titles. This intense competition has fueled some of the most memorable matches in AFL history where
@@ -332,9 +329,11 @@
         </p>  
       </div>
     </div>
-
-
+    </div>
+    
   <br><br><br>
+  
+
   </div> 
 
   <script type="text/javascript">
