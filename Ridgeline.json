@@ -1,10 +1,15 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 700,
+  "width": 620,
   "height": 150,
   "data": {"url": "https://raw.githubusercontent.com/knel0004/3179HomeworkWeek10/refs/heads/main/team_round_cumulative_points.csv"},
-  "title": "Top 3 Team Point Comparision From 2013 to 2023",
+  "title": {
+    "text": "Top 3 Team Point Comparison From 2013 to 2023",
+    "anchor": "middle", 
+    "dy": -10           
+    },  
   "mark": "area",
+  "background": "#fce3d4",
   "transform": [
     {
       "calculate": "toNumber(replace(datum.RoundOrder, ',', ''))",
@@ -49,9 +54,9 @@
           "Essendon"
         ],
         "range": [
-          "#d3d3ff",
-          "#ffd3ac",
-          "#EFA282"
+          "#c37ffa",
+          "#e57ffa",
+          "#fa7fb0"
         ]
       }
     },
