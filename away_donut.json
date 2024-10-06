@@ -4,6 +4,7 @@
     "width": 600,
     "height": 400,
     "title": "Away Team Performance in the Selected Year",
+    "background":"#fce3d4" ,
     "data": {
       "url": "https://raw.githubusercontent.com/knel0004/FIT3179A2/refs/heads/main/away_team.csv",  
       "format": {
@@ -18,7 +19,7 @@
           "input": "select",
           "options": [
             "Greater Western Sydney", "Carlton", "Sydney", "Collingwood", "Richmond", "Geelong",
-            "Melbourne", "Essendon", "Hawthorn", "North Melbourne", "Fremantle", "Brisbane",
+            "Melbourne", "Essendon", "Hawthorn", "North Melbourne", "Fremantle",
             "Gold Coast", "Adelaide", "St Kilda", "West Coast", "Port Adelaide", "Western Bulldogs"
           ],
           "name": "Select Team: "
@@ -26,7 +27,7 @@
       },
       {
         "name": "SelectedYear",
-        "value": 2012,  
+        "value": 2012,
         "bind": {
           "input": "select",
           "options": [2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
@@ -62,9 +63,10 @@
         "field": "Result",
         "type": "nominal",
         "scale": {
-          "domain": ["win", "draw", "lost"],
-          "range": ["orange", "pink", "purple"]
-        }
+          "domain": ["win", "lost", "draw"],
+          "range": ["#7881ff", "#ff7f78", "#f5d34c"]
+        },
+        "legend" : null
       },
       "tooltip": [
         {"field": "Result", "type": "nominal", "title": "Result"},
