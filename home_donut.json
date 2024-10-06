@@ -4,6 +4,7 @@
     "width": 600,
     "height": 400,
     "title": "Home Team Performance in the Selected Year",
+    "background":"#fce3d4" ,
     "data": {
       "url": "https://raw.githubusercontent.com/knel0004/FIT3179A2/refs/heads/main/home_team.csv",  
       "format": {
@@ -18,7 +19,7 @@
           "input": "select",
           "options": [
             "Greater Western Sydney", "Carlton", "Sydney", "Collingwood", "Richmond", "Geelong",
-            "Melbourne", "Essendon", "Hawthorn", "North Melbourne", "Fremantle", "Brisbane",
+            "Melbourne", "Essendon", "Hawthorn", "North Melbourne", "Fremantle",
             "Gold Coast", "Adelaide", "St Kilda", "West Coast", "Port Adelaide", "Western Bulldogs"
           ],
           "name": "Select Team: "
@@ -62,8 +63,8 @@
         "field": "Result",
         "type": "nominal",
         "scale": {
-          "domain": ["win", "draw", "lost"],
-          "range": ["orange", "pink", "purple"]
+          "domain": ["win", "lost", "draw"],
+          "range": ["#7881ff", "#ff7f78", "#f5d34c"]
         }
       },
       "tooltip": [
