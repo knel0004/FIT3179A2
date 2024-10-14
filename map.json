@@ -8,7 +8,7 @@
     "font": "Garamond",
     "fontSize": 25
   },
-  "background": "#123499",  
+  "background": "#194add",  
   "projection": {
     "type": "azimuthalEqualArea",
     "scale": 830,
