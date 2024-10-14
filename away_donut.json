@@ -9,8 +9,8 @@
     "font": "Garamond",
     "fontSize": 25
   },
-  "view": {"stroke":null},
-  "background": "#194add",
+  "background":"#123499" ,
+    "view": {"fill": "#6fa3ef", "stroke":null,"cornerRadius":20},
     "data": {
       "url": "https://raw.githubusercontent.com/knel0004/FIT3179A2/refs/heads/main/away_team.csv",  
       "format": {
