@@ -6,6 +6,8 @@
     "font": "Garamond",
     "fontSize": 25
   },
+  "view": {"stroke":null},
+
   "background": "#123499",
   "data": {
     "url": "https://raw.githubusercontent.com/knel0004/FIT3179A2/refs/heads/main/kaggle_afllocation.csv",
