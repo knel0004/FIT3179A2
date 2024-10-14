@@ -8,10 +8,9 @@
     "color": "#ffffff", 
     "font": "Garamond",
     "fontSize": 25
-  },
+    },
     "background":"#123499" ,
     "view": {"stroke":null},
-
     "data": {
       "url": "https://raw.githubusercontent.com/knel0004/FIT3179A2/refs/heads/main/home_team.csv",  
       "format": {
