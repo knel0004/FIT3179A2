@@ -1,7 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Attendance VS Weather Condition",
-  "background": "#fce3d4",
+  "title": {
+    "text": "Attendance VS Weather Condition",
+    "color": "#ffffff", 
+    "font": "Garamond",
+    "fontSize": 25
+  },
+  "background": "#123499",
   "data": {
     "url": "https://raw.githubusercontent.com/knel0004/FIT3179A2/refs/heads/main/kaggle_afllocation.csv",
     "format": {
@@ -58,7 +63,7 @@
       }
     },
     {
-      "mark": "line",
+      "mark": {"type":"line","color":"darkorange","size": 3},
       "encoding": {
         "detail": {"field": "index"},
         "opacity": {"value": 0.3},
@@ -94,18 +99,15 @@
     },
     {
       "encoding": {
-        "x": {"type": "nominal", "field": "key"},
+        "x": {"type": "nominal", "field": "key","axis": {"labelColor":"white","labelFont": "Garamond","title" : "Attribute", "titleColor": "white"}},
         "y": {"value": 0}
       },
       "layer": [
         {
-          "mark": {"type": "text", "style": "label"},
+          "mark": {"type": "text", "style": "label", "color":"white", "font": "Garamond"},
           "encoding": {
             "text": {"aggregate": "max", "field": "max"}
           }
-        },
-        {
-          "mark": {"type": "tick", "style": "tick", "size": 8, "color": "lightgrey"}
         }
       ]
     }
