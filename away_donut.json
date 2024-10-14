@@ -1,10 +1,15 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "A donut chart showing home team results.",
-    "width": 600,
+    "width": 400,
     "height": 400,
-    "title": "Away Team Performance in the Selected Year",
-    "background":"#fce3d4" ,
+    "title": {
+    "text": "Away Team Performance in the Selected Year",
+    "color": "#ffffff", 
+    "font": "Garamond",
+    "fontSize": 25
+  },
+    "background":"#123499" ,
     "data": {
       "url": "https://raw.githubusercontent.com/knel0004/FIT3179A2/refs/heads/main/away_team.csv",  
       "format": {
