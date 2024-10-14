@@ -10,7 +10,7 @@
     "fontSize": 25
   },
   "view": {"stroke":null},
-    "background":"#123499" ,
+  "background": "#194add",
     "data": {
       "url": "https://raw.githubusercontent.com/knel0004/FIT3179A2/refs/heads/main/away_team.csv",  
       "format": {
