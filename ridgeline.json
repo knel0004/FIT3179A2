@@ -6,10 +6,13 @@
   "title": {
     "text": "Top 3 Team Point Comparison From 2013 to 2023",
     "anchor": "middle", 
-    "dy": -10           
-    },  
+    "dy": -10,
+    "color": "#ffffff", 
+    "font": "Garamond",
+    "fontSize": 25        
+  },  
   "mark": "area",
-  "background": "#fce3d4",
+  "background": "#123499",
   "transform": [
     {
       "calculate": "toNumber(replace(datum.RoundOrder, ',', ''))",
@@ -36,13 +39,25 @@
       "field": "roundOrd",
       "type": "nominal",
       "title": "Rounds",
-      "axis": {"grid": false}
+      "axis": {
+        "grid": false,
+        "labelColor": "white", 
+        "labelFont": "Garamond",
+        "titleColor": "white",
+        "titleFont": "Garamond"
+      }
     },
     "y": {
-          "field": "Cumulative Points",
-          "type": "quantitative",
-          "title": "Total Points",
-          "axis": {"grid": false}
+      "field": "Cumulative Points",
+      "type": "quantitative",
+      "title": "Total Points",
+      "axis": {
+        "grid": false,
+        "labelColor": "white", 
+        "labelFont": "Garamond",
+        "titleColor": "white",
+        "titleFont": "Garamond"
+      }
     },
     "color": {
       "field": "Team",
@@ -54,23 +69,34 @@
           "Essendon"
         ],
         "range": [
-          "#c37ffa",
-          "#e57ffa",
-          "#fa7fb0"
+          "#03345a",
+          "Black",
+          "#b13632"
         ]
+      },
+      "legend": {
+        "labelColor": "white", 
+        "titleColor": "white", 
+        "titleFont": "Garamond", 
+        "labelFont": "Garamond"
       }
     },
     "row": {
       "field": "Team",
       "type": "nominal",
-      "title": "Teams"
+      "title": "Teams",
+      "header": {
+        "labelColor": "white", 
+        "labelFont": "Garamond",
+        "titleColor": "white", 
+        "titleFont": "Garamond"
+      }
     },
     "tooltip": [
-        {"field": "Team", "type": "nominal", "title": "Team: "},
-        {"field": "Year", "type": "nominal", "title": "Year: "},
-        {"field": "roundOrd", "type": "quantitative", "title": "Round: "},
-        {"field": "Cumulative Points", "type": "quantitative", "title": "Total Points: "}
-      ]
+      {"field": "Team", "type": "nominal", "title": "Team: "},
+      {"field": "Year", "type": "nominal", "title": "Year: "},
+      {"field": "roundOrd", "type": "quantitative", "title": "Round: "},
+      {"field": "Cumulative Points", "type": "quantitative", "title": "Total Points: "}
+    ]
   }
-  
 }
