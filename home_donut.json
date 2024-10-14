@@ -1,10 +1,15 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "A donut chart showing home team results.",
-    "width": 600,
+    "width": 400,
     "height": 400,
-    "title": "Home Team Performance in the Selected Year",
-    "background":"#fce3d4" ,
+    "title": {
+    "text": "Home Team Performance in the Selected Year",
+    "color": "#ffffff", 
+    "font": "Garamond",
+    "fontSize": 25
+  },
+    "background":"#123499" ,
     "data": {
       "url": "https://raw.githubusercontent.com/knel0004/FIT3179A2/refs/heads/main/home_team.csv",  
       "format": {
@@ -65,7 +70,9 @@
         "scale": {
           "domain": ["win", "lost", "draw"],
           "range": ["#7881ff", "#ff7f78", "#f5d34c"]
-        }
+        },
+        "legend":{"labelColor": "white", "titleColor": "white", "titleFont": "Garamond", "labelFont": "Garamond"}
+
       },
       "tooltip": [
         {"field": "Result", "type": "nominal", "title": "Result"},
