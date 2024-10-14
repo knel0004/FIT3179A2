@@ -12,7 +12,7 @@
     "fontSize": 25        
   },  
   "mark": "area",
-  "background": "#123499",
+  "background": "#194add",
   "transform": [
     {
       "calculate": "toNumber(replace(datum.RoundOrder, ',', ''))",
